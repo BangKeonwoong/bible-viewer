@@ -12,6 +12,18 @@ const CSV_BOOK_OVERRIDES = {
   'Song of Solomon': 'Song_of_songs',
 };
 
+const CSV_LABELS = {
+  Book: '책',
+  Chapter: '장',
+  Verse: '절',
+  'Clause Type': '절 유형',
+  'Mother Clause Type': '상위 절 유형',
+  'Predicted TAM': '시제/태',
+  'Hebrew Text': '히브리어',
+  'Word Order': '어순',
+  'Korean Literal': '직역',
+};
+
 const els = {
   bookSelect: document.getElementById('bookSelect'),
   chapterSelect: document.getElementById('chapterSelect'),
@@ -25,6 +37,12 @@ const els = {
   colALabel: document.getElementById('colALabel'),
   colBLabel: document.getElementById('colBLabel'),
   colLiteralLabel: document.getElementById('colLiteralLabel'),
+  clauseTooltip: document.getElementById('clauseTooltip'),
+};
+
+const tooltipState = {
+  pinned: false,
+  key: null,
 };
 
 function setLoading(message = '로딩 중...') {
@@ -136,42 +154,134 @@ async function loadLiteralIndex() {
   const text = await res.text();
   const lines = text.split(/\r?\n/).filter(Boolean);
   const literalIndex = {};
+  const headerLine = lines.find((line) => line.startsWith('Book;')) || '';
+  const header = headerLine.split(';').map((value) => value.trim());
+  const headerIndex = Object.fromEntries(header.map((key, idx) => [key, idx]));
   for (let i = 0; i < lines.length; i += 1) {
     const line = lines[i].replace(/^\uFEFF/, '');
     if (line.startsWith('Book;')) continue;
     const row = line.split(';');
     if (row.length < 3) continue;
-    const book = row[0]?.trim();
-    const chapter = Number(row[1]);
-    const verse = Number(row[2]);
-    const literal = row[row.length - 1]?.trim();
-    if (!book || Number.isNaN(chapter) || Number.isNaN(verse) || !literal) continue;
+    const book = row[headerIndex.Book]?.trim();
+    const chapter = Number(row[headerIndex.Chapter]);
+    const verse = Number(row[headerIndex.Verse]);
+    const koreanLiteral = row[headerIndex['Korean Literal']]?.trim();
+    if (!book || Number.isNaN(chapter) || Number.isNaN(verse) || !koreanLiteral) continue;
+    const clause = {
+      book,
+      chapter,
+      verse,
+      location: `${book.replace(/_/g, ' ')} ${chapter}:${verse}`,
+      clauseType: row[headerIndex['Clause Type']]?.trim() || '',
+      motherClauseType: row[headerIndex['Mother Clause Type']]?.trim() || '',
+      predictedTAM: row[headerIndex['Predicted TAM']]?.trim() || '',
+      hebrewText: row[headerIndex['Hebrew Text']]?.trim() || '',
+      wordOrder: row[headerIndex['Word Order']]?.trim() || '',
+      koreanLiteral,
+    };
     if (!literalIndex[book]) literalIndex[book] = {};
     if (!literalIndex[book][chapter]) literalIndex[book][chapter] = {};
     if (!literalIndex[book][chapter][verse]) literalIndex[book][chapter][verse] = [];
-    literalIndex[book][chapter][verse].push(literal);
+    literalIndex[book][chapter][verse].push(clause);
   }
   state.literalIndex = literalIndex;
   return literalIndex;
 }
 
-function getLiteralVerses(bookId, chapter) {
-  if (!state.literalIndex) return new Map();
+function getLiteralVerseMap(bookId, chapter) {
+  if (!state.literalIndex) return { csvBook: '', map: new Map() };
   const csvBook = CSV_BOOK_OVERRIDES[bookId] || bookId.replace(/\s+/g, '_');
   const data = state.literalIndex[csvBook]?.[chapter] || {};
   const result = new Map();
   Object.entries(data).forEach(([verse, clauses]) => {
-    const value = clauses.join(' / ');
-    result.set(Number(verse), value);
+    result.set(Number(verse), clauses);
   });
-  return result;
+  return { csvBook, map: result };
 }
 
-function renderVerses(versesA, versesB, literalVerses) {
+function escapeHtml(value) {
+  return String(value)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/\"/g, '&quot;')
+    .replace(/'/g, '&#039;');
+}
+
+function renderClauses(clauses, csvBook, chapter, verse) {
+  return clauses
+    .map((clause, idx) => {
+      const text = escapeHtml(clause.koreanLiteral || '');
+      const span = `<span class=\"clause\" data-book=\"${csvBook}\" data-chapter=\"${chapter}\" data-verse=\"${verse}\" data-idx=\"${idx}\">${text}</span>`;
+      const sep = idx < clauses.length - 1 ? '<span class=\"clause-sep\">/</span>' : '';
+      return `${span}${sep}`;
+    })
+    .join('');
+}
+
+function getClauseFromEl(el) {
+  const book = el.dataset.book;
+  const chapter = Number(el.dataset.chapter);
+  const verse = Number(el.dataset.verse);
+  const idx = Number(el.dataset.idx);
+  if (!book || Number.isNaN(chapter) || Number.isNaN(verse) || Number.isNaN(idx)) return null;
+  return state.literalIndex?.[book]?.[chapter]?.[verse]?.[idx] || null;
+}
+
+function renderTooltip(clause) {
+  const rows = [];
+  const addRow = (label, value, className = '') => {
+    if (!value) return;
+    rows.push(`<div class=\"tooltip-row\"><span class=\"tooltip-label\">${label}</span><span class=\"tooltip-value ${className}\">${escapeHtml(value)}</span></div>`);
+  };
+  addRow('성경 위치', clause.location);
+  addRow(CSV_LABELS['Korean Literal'], clause.koreanLiteral);
+  addRow(CSV_LABELS['Clause Type'], clause.clauseType);
+  addRow(CSV_LABELS['Mother Clause Type'], clause.motherClauseType);
+  addRow(CSV_LABELS['Predicted TAM'], clause.predictedTAM);
+  addRow(CSV_LABELS['Word Order'], clause.wordOrder);
+  addRow(CSV_LABELS['Hebrew Text'], clause.hebrewText, 'hebrew');
+  return `
+    <button class=\"tooltip-close\" type=\"button\" aria-label=\"닫기\">×</button>
+    <div class=\"tooltip-title\">직역 상세</div>
+    ${rows.join('')}
+  `;
+}
+
+function showTooltip(target, clause, pinned = false) {
+  if (!clause) return;
+  const key = `${clause.book}-${clause.chapter}-${clause.verse}-${clause.koreanLiteral}`;
+  tooltipState.key = key;
+  tooltipState.pinned = pinned;
+
+  els.clauseTooltip.innerHTML = renderTooltip(clause);
+  els.clauseTooltip.classList.toggle('pinned', pinned);
+  els.clauseTooltip.style.display = 'block';
+  els.clauseTooltip.setAttribute('aria-hidden', 'false');
+
+  const rect = target.getBoundingClientRect();
+  const tooltipRect = els.clauseTooltip.getBoundingClientRect();
+  let top = rect.top - tooltipRect.height - 12;
+  if (top < 12) top = rect.bottom + 12;
+  let left = rect.left + rect.width / 2 - tooltipRect.width / 2;
+  left = Math.max(12, Math.min(left, window.innerWidth - tooltipRect.width - 12));
+  els.clauseTooltip.style.top = `${top}px`;
+  els.clauseTooltip.style.left = `${left}px`;
+}
+
+function hideTooltip(force = false) {
+  if (!force && tooltipState.pinned) return;
+  tooltipState.pinned = false;
+  tooltipState.key = null;
+  els.clauseTooltip.style.display = 'none';
+  els.clauseTooltip.setAttribute('aria-hidden', 'true');
+}
+
+function renderVerses(versesA, versesB, literalInfo) {
   const verseNumbers = new Set([
     ...versesA.keys(),
     ...versesB.keys(),
-    ...literalVerses.keys(),
+    ...literalInfo.map.keys(),
   ]);
   const sorted = Array.from(verseNumbers).sort((a, b) => a - b);
 
@@ -188,12 +298,12 @@ function renderVerses(versesA, versesB, literalVerses) {
     .map((verse, idx) => {
       const textA = versesA.get(verse) || '';
       const textB = versesB.get(verse) || '';
-      const textL = literalVerses.get(verse) || '';
+      const clauses = literalInfo.map.get(verse) || [];
 
       const aClass = `${state.colA === 'BHS' ? 'bhs' : ''}`;
       const bClass = `${state.colB === 'BHS' ? 'bhs' : ''}`;
       const literalCell = state.showLiteral
-        ? `<div class="verse-cell literal">${textL || '<span class="missing">직역 없음</span>'}</div>`
+        ? `<div class="verse-cell literal">${clauses.length ? renderClauses(clauses, literalInfo.csvBook, state.chapter, verse) : '<span class="missing">직역 없음</span>'}</div>`
         : '';
 
       return `
@@ -212,6 +322,7 @@ function renderVerses(versesA, versesB, literalVerses) {
 
 async function render() {
   if (!state.bookId) return;
+  hideTooltip(true);
   setLoading();
   updateChapterOptions();
 
@@ -226,13 +337,13 @@ async function render() {
     loadTranslation(state.colB, state.bookId, state.chapter),
   ]);
 
-  let literalVerses = new Map();
+  let literalInfo = { csvBook: '', map: new Map() };
   if (state.showLiteral) {
     await loadLiteralIndex();
-    literalVerses = getLiteralVerses(state.bookId, state.chapter);
+    literalInfo = getLiteralVerseMap(state.bookId, state.chapter);
   }
 
-  renderVerses(versesA, versesB, literalVerses);
+  renderVerses(versesA, versesB, literalInfo);
 }
 
 function bindEvents() {
@@ -279,6 +390,46 @@ function bindEvents() {
       els.chapterSelect.value = String(state.chapter);
       render();
     }
+  });
+
+  els.verseList.addEventListener('pointerover', (e) => {
+    if (e.pointerType === 'touch') return;
+    const clauseEl = e.target.closest('.clause');
+    if (!clauseEl) return;
+    const clause = getClauseFromEl(clauseEl);
+    showTooltip(clauseEl, clause, false);
+  });
+
+  els.verseList.addEventListener('pointerout', (e) => {
+    if (tooltipState.pinned) return;
+    const related = e.relatedTarget;
+    if (related && (related.closest('.clause') || related.closest('#clauseTooltip'))) return;
+    hideTooltip();
+  });
+
+  els.verseList.addEventListener('click', (e) => {
+    const clauseEl = e.target.closest('.clause');
+    if (!clauseEl) return;
+    const clause = getClauseFromEl(clauseEl);
+    if (!clause) return;
+    const key = `${clause.book}-${clause.chapter}-${clause.verse}-${clause.koreanLiteral}`;
+    if (tooltipState.pinned && tooltipState.key === key) {
+      hideTooltip(true);
+      return;
+    }
+    showTooltip(clauseEl, clause, true);
+  });
+
+  els.clauseTooltip.addEventListener('click', (e) => {
+    if (e.target.classList.contains('tooltip-close')) {
+      hideTooltip(true);
+    }
+  });
+
+  document.addEventListener('click', (e) => {
+    if (!tooltipState.pinned) return;
+    if (e.target.closest('.clause') || e.target.closest('#clauseTooltip')) return;
+    hideTooltip(true);
   });
 }
 
