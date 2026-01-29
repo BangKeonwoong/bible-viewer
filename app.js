@@ -19,6 +19,7 @@ const CSV_LABELS = {
   'Clause Type': '절 유형',
   'Mother Clause Type': '상위 절 유형',
   'Predicted TAM': '시제/태',
+  'Hebrew Text': '히브리어',
   'Word Order': '어순',
   'Korean Literal': '직역',
 };
@@ -282,6 +283,7 @@ function renderTooltip(clause) {
   addRow(CSV_LABELS['Mother Clause Type'], clause.motherClauseType);
   addRow(CSV_LABELS['Predicted TAM'], clause.predictedTAM);
   addRow(CSV_LABELS['Word Order'], clause.wordOrderKo || clause.wordOrder);
+  addRow(CSV_LABELS['Hebrew Text'], clause.hebrewText, 'hebrew');
   return `
     <button class=\"tooltip-close\" type=\"button\" aria-label=\"닫기\">×</button>
     <div class=\"tooltip-title\">직역 상세</div>
