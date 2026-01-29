@@ -19,9 +19,40 @@ const CSV_LABELS = {
   'Clause Type': '절 유형',
   'Mother Clause Type': '상위 절 유형',
   'Predicted TAM': '시제/태',
-  'Hebrew Text': '히브리어',
   'Word Order': '어순',
   'Korean Literal': '직역',
+};
+
+const WORD_ORDER_MAP = {
+  Adju: '부가어',
+  Cmpl: '보어',
+  Conj: '접속',
+  EPPr: '전치구(EPPr)',
+  ExsS: '존재문 주어',
+  Exst: '존재',
+  Frnt: '전면화',
+  IntS: '의문 주어',
+  Intj: '감탄',
+  Loca: '장소',
+  ModS: '주어 수식',
+  Modi: '수식어',
+  NCoS: '명사계사 주어',
+  NCop: '명사계사',
+  Nega: '부정',
+  Objc: '목적어',
+  PrAd: '술부 부가어',
+  PrcS: '술부 보어 주어',
+  PreC: '전치 보어',
+  PreO: '전치 목적어',
+  PreS: '전치 주어',
+  Pred: '서술',
+  PtcO: '분사 목적어',
+  Ques: '의문',
+  Rela: '관계',
+  Subj: '주어',
+  Supp: '보충',
+  Time: '시간',
+  Voct: '호격',
 };
 
 const els = {
@@ -181,6 +212,7 @@ async function loadLiteralIndex() {
       predictedTAM: row[headerIndex['Predicted TAM']]?.trim() || '',
       hebrewText: row[headerIndex['Hebrew Text']]?.trim() || '',
       wordOrder: row[headerIndex['Word Order']]?.trim() || '',
+      wordOrderKo: translateWordOrder(row[headerIndex['Word Order']]?.trim() || ''),
       koreanLiteral,
     };
     if (!literalIndex[book]) literalIndex[book] = {};
@@ -212,6 +244,14 @@ function escapeHtml(value) {
     .replace(/'/g, '&#039;');
 }
 
+function translateWordOrder(value) {
+  if (!value) return '';
+  return value
+    .split(/\s+/)
+    .map((token) => WORD_ORDER_MAP[token] || `${token}`)
+    .join(' · ');
+}
+
 function renderClauses(clauses, csvBook, chapter, verse) {
   return clauses
     .map((clause, idx) => {
@@ -238,13 +278,10 @@ function renderTooltip(clause) {
     if (!value) return;
     rows.push(`<div class=\"tooltip-row\"><span class=\"tooltip-label\">${label}</span><span class=\"tooltip-value ${className}\">${escapeHtml(value)}</span></div>`);
   };
-  addRow('성경 위치', clause.location);
-  addRow(CSV_LABELS['Korean Literal'], clause.koreanLiteral);
   addRow(CSV_LABELS['Clause Type'], clause.clauseType);
   addRow(CSV_LABELS['Mother Clause Type'], clause.motherClauseType);
   addRow(CSV_LABELS['Predicted TAM'], clause.predictedTAM);
-  addRow(CSV_LABELS['Word Order'], clause.wordOrder);
-  addRow(CSV_LABELS['Hebrew Text'], clause.hebrewText, 'hebrew');
+  addRow(CSV_LABELS['Word Order'], clause.wordOrderKo || clause.wordOrder);
   return `
     <button class=\"tooltip-close\" type=\"button\" aria-label=\"닫기\">×</button>
     <div class=\"tooltip-title\">직역 상세</div>
