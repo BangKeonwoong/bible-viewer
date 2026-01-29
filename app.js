@@ -104,6 +104,10 @@ function chapterPath(translationId, bookId, chapter) {
   return `${translation.dir}/${bookDir}/${files[chapter - 1]}`;
 }
 
+function encodePath(path) {
+  return path.split('/').map(encodeURIComponent).join('/');
+}
+
 function parseVerses(text, translationId) {
   const verses = new Map();
   const lines = text.split(/\r?\n/);
@@ -141,7 +145,7 @@ function parseVerses(text, translationId) {
 async function loadTranslation(translationId, bookId, chapter) {
   const path = chapterPath(translationId, bookId, chapter);
   if (!path) return new Map();
-  const res = await fetch(path);
+  const res = await fetch(encodePath(path));
   if (!res.ok) return new Map();
   const text = await res.text();
   return parseVerses(text, translationId);
