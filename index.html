@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>성경 비교 뷰어</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,800&family=Noto+Sans+KR:wght@400;600&family=Noto+Serif+KR:wght@400;600&family=IBM+Plex+Mono:wght@500&family=Noto+Serif+Hebrew:wght@400;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="grain"></div>
+  <main class="app">
+    <header class="hero">
+      <div class="hero-title">
+        <p class="kicker">Parallel Scripture Lab</p>
+        <h1>성경 비교 뷰어</h1>
+        <p class="subtitle">역본과 직역을 한 화면에서 나란히 — 문맥과 결을 동시에 읽습니다.</p>
+      </div>
+      <div class="hero-panel">
+        <div class="panel-label">현재 데이터</div>
+        <div class="panel-value">역본 폴더 + 직역 CSV</div>
+        <div class="panel-caption">로컬 파일 기반 뷰어</div>
+      </div>
+    </header>
+
+    <section class="controls" aria-label="읽기 설정">
+      <div class="control-group">
+        <label for="bookSelect">책</label>
+        <select id="bookSelect"></select>
+      </div>
+      <div class="control-group">
+        <label for="chapterSelect">장</label>
+        <select id="chapterSelect"></select>
+      </div>
+      <div class="control-group">
+        <label for="colASelect">왼쪽 역본</label>
+        <select id="colASelect"></select>
+      </div>
+      <div class="control-group">
+        <label for="colBSelect">오른쪽 역본</label>
+        <select id="colBSelect"></select>
+      </div>
+      <div class="control-toggle">
+        <label>
+          <input type="checkbox" id="toggleLiteral" checked />
+          직역 열 표시
+        </label>
+      </div>
+      <div class="nav-buttons">
+        <button id="prevChapter" type="button">이전 장</button>
+        <button id="nextChapter" type="button">다음 장</button>
+      </div>
+    </section>
+
+    <section class="viewer">
+      <div class="viewer-scroll">
+        <div class="column-headers" id="columnHeaders" data-columns="3">
+          <div class="col-head verse-col">절</div>
+          <div class="col-head" id="colALabel"></div>
+          <div class="col-head" id="colBLabel"></div>
+          <div class="col-head" id="colLiteralLabel">직역</div>
+        </div>
+        <div class="verse-list" id="verseList" data-columns="3">
+          <div class="empty-state">장과 역본을 선택하면 내용이 표시됩니다.</div>
+        </div>
+      </div>
+    </section>
+  </main>
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,5707 @@
+[
+  {
+    "lemma": "שַׁד",
+    "lemma_norm": "שד",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שַׁד-šaḏ.md"
+  },
+  {
+    "lemma": "שָׁמַע",
+    "lemma_norm": "שמע",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שָׁמַע-šāmaʿ-שֵׁמַע-šēmaʿ-שְׁמוּעָה-šᵉmûʿâ.md"
+  },
+  {
+    "lemma": "שִׁיר",
+    "lemma_norm": "שיר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שִׁיר-šı̂r-שִׁיר-šı̂r-שִׁירָה-šı̂râ.md"
+  },
+  {
+    "lemma": "שָׁוא",
+    "lemma_norm": "שוא",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שָׁוא-šāwʾ.md"
+  },
+  {
+    "lemma": "שַׁאֲנָן",
+    "lemma_norm": "שאננ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שַׁאֲנָן-šaʾᵃnān-שׁאן-šʾn.md"
+  },
+  {
+    "lemma": "שַׁחַר",
+    "lemma_norm": "שחר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שַׁחַר-šaḥar-מִשְׁחָר-mišḥār.md"
+  },
+  {
+    "lemma": "שָׁמַט",
+    "lemma_norm": "שמט",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שָׁמַט-šāmaṭ-שְׁמִטָּה-šᵉmiṭṭâ.md"
+  },
+  {
+    "lemma": "שָׁבָה",
+    "lemma_norm": "שבה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שָׁבָה-šāḇâ-שְׁבִי-šᵉḇı̂-שִׁבְיָה-šiḇyâ-שָׁבִי-šāḇı̂-שְׁבִית-šᵉḇı̂ṯ.md"
+  },
+  {
+    "lemma": "שׁקץ",
+    "lemma_norm": "שקצ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שׁקץ-šqṣ-שֶׁקֶץ-šeqeṣ-שִׁקּוּץ-šiqqûṣ.md"
+  },
+  {
+    "lemma": "שׁטף",
+    "lemma_norm": "שטפ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שׁטף-šṭp.md"
+  },
+  {
+    "lemma": "שָׁחַד",
+    "lemma_norm": "שחד",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שָׁחַד-šāḥaḏ-שֹׁחַד-šōḥaḏ.md"
+  },
+  {
+    "lemma": "שׁמד",
+    "lemma_norm": "שמד",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שׁמד-šmd.md"
+  },
+  {
+    "lemma": "שִׁית",
+    "lemma_norm": "שית",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שִׁית-šı̂ṯ.md"
+  },
+  {
+    "lemma": "שָׁחַר",
+    "lemma_norm": "שחר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שָׁחַר-šāḥar-i-שָׁחֹר-šāḥōr-שְׁחוֹר-šᵉḥôr-שְׁחַרְחֹר-šᵉḥarḥōr.md"
+  },
+  {
+    "lemma": "שֶׁבַע",
+    "lemma_norm": "שבע",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שֶׁבַע-šeḇaʿ-שָׁבוּעוֹת-šāḇûʿôṯ.md"
+  },
+  {
+    "lemma": "שָׁלוֹם",
+    "lemma_norm": "שלומ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שָׁלוֹם-šālôm.md"
+  },
+  {
+    "lemma": "שְׁאוֹלšᵉʾôl",
+    "lemma_norm": "שאולseʾol",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שְׁאוֹלšᵉʾôl.md"
+  },
+  {
+    "lemma": "שָׁתָה",
+    "lemma_norm": "שתה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שָׁתָה-šāṯâ-שׁקה-šqh.md"
+  },
+  {
+    "lemma": "שׁקף",
+    "lemma_norm": "שקפ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שׁקף-šqp-שֶׁקֶף-šeqep̱-שְׁקֻפִים-šᵉqup̱ı̂m-מַשְׁקוֹף-mašqôp̱.md"
+  },
+  {
+    "lemma": "שָׁלַף",
+    "lemma_norm": "שלפ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שָׁלַף-šālap̱-שֶׁלֶף-šelep̱.md"
+  },
+  {
+    "lemma": "שָׁאַב",
+    "lemma_norm": "שאב",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שָׁאַב-šāʾaḇ-מַשְׁאַבִּים-mašʾabbı̂m.md"
+  },
+  {
+    "lemma": "שָׁכַר",
+    "lemma_norm": "שכר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שָׁכַר-šāḵar-שֵׁכָר-šēḵār.md"
+  },
+  {
+    "lemma": "שָׁנָה",
+    "lemma_norm": "שנה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שָׁנָה-šānâ-noun.md"
+  },
+  {
+    "lemma": "שָׁחַת",
+    "lemma_norm": "שחת",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שָׁחַת-šāḥaṯ.md"
+  },
+  {
+    "lemma": "שָׁטַר",
+    "lemma_norm": "שטר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שָׁטַר-šāṭar-מִשְׁטָר-mišṭār-שִׁטְרַי-šiṭray.md"
+  },
+  {
+    "lemma": "שַׁחַת",
+    "lemma_norm": "שחת",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שַׁחַת-šaḥaṯ-שׁוַּת-šûaḥ-שׁוּחָה-šûḥâ-שִׁיחָה-šı̂ḥâ.md"
+  },
+  {
+    "lemma": "שָׁפֵל",
+    "lemma_norm": "שפל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שָׁפֵל-šāp̱ēl-שָׁפָל-šāp̱āl-שְׁפֵלָה-šᵉp̱ēlâ.md"
+  },
+  {
+    "lemma": "שָׁפַט",
+    "lemma_norm": "שפט",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שָׁפַט-šāp̱aṭ-שֹׁפֵט-šōp̱ēṭ.md"
+  },
+  {
+    "lemma": "שָׁלָה",
+    "lemma_norm": "שלה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שָׁלָה-šālâ-שַׁלְוָה-šalwâ-שָׁלֵו-šālēw-שָׁלוּ-šālû.md"
+  },
+  {
+    "lemma": "שָׁמַיִם",
+    "lemma_norm": "שמימ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שָׁמַיִם-šāmayim.md"
+  },
+  {
+    "lemma": "שָׁאַר",
+    "lemma_norm": "שאר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שָׁאַר-šāʾar-שְׁאָר-šᵉʾār-שְׁאֵרִית-šᵉʾērı̂ṯ.md"
+  },
+  {
+    "lemma": "שָׁעַע",
+    "lemma_norm": "שעע",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שָׁעַע-šāʿaʿ-שִׁעֲשַׁ-šiʿᵃšaʿ-שַׁעֲשֻׁעִים-šaʿᵃšûʿı̂m.md"
+  },
+  {
+    "lemma": "שׁלךְ",
+    "lemma_norm": "שלכ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שׁלךְ-šlk-שָׁלָךְ-šālāḵ-שַׁלֶּכֶת-šalleḵeṯ.md"
+  },
+  {
+    "lemma": "שָׁאַל",
+    "lemma_norm": "שאל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שָׁאַל-šāʾal-שְׁאֵלָה-šᵉʾēlâ-מִשְׁאָלָה-mišʾālâ-שָׁאוּל-šāʾûl.md"
+  },
+  {
+    "lemma": "שׁוּשַׁן",
+    "lemma_norm": "שושנ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שׁוּשַׁן-šûšan.md"
+  },
+  {
+    "lemma": "שָׁקַד",
+    "lemma_norm": "שקד",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שָׁקַד-šāqaḏ-שְׁקִידָה-šᵉqı̂ḏâ-שָׁקֵד-šāqēḏ-מְשֻׁקָּד-mᵉšuqqāḏ.md"
+  },
+  {
+    "lemma": "שְׁבוּתשְׁבִית",
+    "lemma_norm": "שבותשבית",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שְׁבוּתשְׁבִית-šᵉḇûṯšᵉḇı̂ṯ-שׁוּב-שְׁבוּתשְׁבִית-šûḇ-šᵉḇûṯšᵉḇı̂ṯ-שׁוּב-שִׁיבַת-šûḇ-šı̂ḇaṯ.md"
+  },
+  {
+    "lemma": "שְׁכֶם",
+    "lemma_norm": "שכמ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שְׁכֶם-šᵉḵem.md"
+  },
+  {
+    "lemma": "שָׁחַק",
+    "lemma_norm": "שחק",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שָׁחַק-šāḥaq-שַׁחַק-šaḥaq.md"
+  },
+  {
+    "lemma": "שָׁלַט",
+    "lemma_norm": "שלט",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שָׁלַט-šālaṭ-שַׁלִּיט-šallı̂ṭ-שָׁלטַן-šolṭān.md"
+  },
+  {
+    "lemma": "שָׁסָה",
+    "lemma_norm": "שסה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שָׁסָה-šāsâ-שָׁסַס-šāsas-מְשִׁסָּה-mᵉšissâ.md"
+  },
+  {
+    "lemma": "שׁגע",
+    "lemma_norm": "שגע",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שׁגע-šgʿ-שִׁגָּעוֹן-šiggāʿôn.md"
+  },
+  {
+    "lemma": "שָׁאַג",
+    "lemma_norm": "שאג",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שָׁאַג-šāʾag̱-שְׁאָגָה-šᵉʾāg̱â.md"
+  },
+  {
+    "lemma": "שְׁאֵר",
+    "lemma_norm": "שאר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שְׁאֵר-šᵉʾēr.md"
+  },
+  {
+    "lemma": "שָׁלַח",
+    "lemma_norm": "שלח",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שָׁלַח-šālaḥ.md"
+  },
+  {
+    "lemma": "שׁוֹר",
+    "lemma_norm": "שור",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שׁוֹר-šôr.md"
+  },
+  {
+    "lemma": "שָׁכֹל",
+    "lemma_norm": "שכל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שָׁכֹל-šāḵōl-שַׁכּוּל-šakkûl-שְׁכוֹל-šᵉḵôl-שָׁכוּל-šāḵûl-שִׁכֻּלִים-šikkulı̂m.md"
+  },
+  {
+    "lemma": "שׁוּעָל",
+    "lemma_norm": "שועל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שׁוּעָל-šûʿāl.md"
+  },
+  {
+    "lemma": "שֹׁרֶשׁ",
+    "lemma_norm": "שרש",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שֹׁרֶשׁ-šōreš-שׁרשׁ-šrš.md"
+  },
+  {
+    "lemma": "שׁאה",
+    "lemma_norm": "שאה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שׁאה-šʾh-שׁוֹאָה-šôʾâ-שָׁאוֹן-šāʾôn-מְשׁוֹאָה-mᵉšôʾâ-שְׁאִיָּה-šᵉʾı̂yâ-שֵׁאת-šēʾṯ.md"
+  },
+  {
+    "lemma": "שׁוּר",
+    "lemma_norm": "שור",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שׁוּר-šûr.md"
+  },
+  {
+    "lemma": "שָׁקָה",
+    "lemma_norm": "שקה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שָׁקָה-šāqâ-שָׁתָה-šāṯâ.md"
+  },
+  {
+    "lemma": "שָׁכַח",
+    "lemma_norm": "שכח",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שָׁכַח-šāḵaḥ.md"
+  },
+  {
+    "lemma": "שׁען",
+    "lemma_norm": "שענ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שׁען-šʿn-מִשְׁעָן-mišʿān-מִשְׁעֶנֶת-mišʿeneṯ.md"
+  },
+  {
+    "lemma": "שָׁנַן",
+    "lemma_norm": "שננ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שָׁנַן-šānan-שְׁנִינָה-šᵉnı̂nâ.md"
+  },
+  {
+    "lemma": "שׁוֹפָר",
+    "lemma_norm": "שופר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שׁוֹפָר-šôp̱ār.md"
+  },
+  {
+    "lemma": "שֶׁלֶג",
+    "lemma_norm": "שלג",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שֶׁלֶג-šeleg̱-שׁלג-šlg.md"
+  },
+  {
+    "lemma": "INDEX",
+    "lemma_norm": "INDEX",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/INDEX.md"
+  },
+  {
+    "lemma": "שָׁנָה",
+    "lemma_norm": "שנה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שָׁנָה-šānâ-verb.md"
+  },
+  {
+    "lemma": "שָׁכַן",
+    "lemma_norm": "שכנ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שָׁכַן-šāḵan-שָׁכֵן-šāḵēn.md"
+  },
+  {
+    "lemma": "שָׁבַע",
+    "lemma_norm": "שבע",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שָׁבַע-šāḇaʿ-שְׁבֻעָה-šᵉḇuʿâ.md"
+  },
+  {
+    "lemma": "שָׁרַק",
+    "lemma_norm": "שרק",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שָׁרַק-šāraq-שְׁרֵקָה-šᵉrēqâ-שְׁרִקָה-šᵉriqâ-מַשְׁרוֹקִי-mašrôqı̂.md"
+  },
+  {
+    "lemma": "שֵׁן",
+    "lemma_norm": "שנ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שֵׁן-šēn.md"
+  },
+  {
+    "lemma": "שַׁדַּי",
+    "lemma_norm": "שדי",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שַׁדַּי-šadday.md"
+  },
+  {
+    "lemma": "שְׁלָמִים",
+    "lemma_norm": "שלמימ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שְׁלָמִים-šᵉlāmı̂m.md"
+  },
+  {
+    "lemma": "שָׁחַר",
+    "lemma_norm": "שחר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שָׁחַר-šāḥar-ii.md"
+  },
+  {
+    "lemma": "שְׁרִרוּת",
+    "lemma_norm": "שררות",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שְׁרִרוּת-šᵉrirûṯ-שׁרר-šrr-i-שָׁרִיר-šārı̂r.md"
+  },
+  {
+    "lemma": "שָׁנִי",
+    "lemma_norm": "שני",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שָׁנִי-šānı̂.md"
+  },
+  {
+    "lemma": "שָׁקַט",
+    "lemma_norm": "שקט",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שָׁקַט-šāqaṭ.md"
+  },
+  {
+    "lemma": "שֻׁלְחָן",
+    "lemma_norm": "שלחנ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שֻׁלְחָן-šulḥān.md"
+  },
+  {
+    "lemma": "שׁרת",
+    "lemma_norm": "שרת",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שׁרת-šrt.md"
+  },
+  {
+    "lemma": "שֶׁמֶשׁ",
+    "lemma_norm": "שמש",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שֶׁמֶשׁ-šemeš.md"
+  },
+  {
+    "lemma": "שָׁבַר",
+    "lemma_norm": "שבר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שָׁבַר-šāḇar-שֶׁבֶר-šeḇer-מַשְׁבְּר-mašbēr-מִשְׁבָּר-mišbār.md"
+  },
+  {
+    "lemma": "שָׁתַל",
+    "lemma_norm": "שתל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שָׁתַל-1šāṯal-שָׁתִיל-šāṯı̂l.md"
+  },
+  {
+    "lemma": "שׁחט",
+    "lemma_norm": "שחט",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שׁחט-šḥṭ-שַׁחֲטָה-šaḥᵃṭâ-שְׁחִיטָה-šᵉḥı̂ṭâ.md"
+  },
+  {
+    "lemma": "שָׁדַד",
+    "lemma_norm": "שדד",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שָׁדַד-šāḏaḏ-שֹׁד-šōḏ.md"
+  },
+  {
+    "lemma": "שָׁפַךְ",
+    "lemma_norm": "שפכ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שָׁפַךְ-šāp̱aḵ-שֶׁפֶךְ-šep̱eḵ-שָׁפְכָה-šop̱ḵâ.md"
+  },
+  {
+    "lemma": "שׁחח",
+    "lemma_norm": "שחח",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שׁחח-šḥḥ-שׁוח-šwḥ-שׁיח-šyḥ-שָׁחָה-šāḥâ.md"
+  },
+  {
+    "lemma": "שׁוּט",
+    "lemma_norm": "שוט",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שׁוּט-šûṭ-שׁוֹט-šôṭ-שַׁיִט-šayiṭ-מִשּׁוֹטמָשׁוֹט-miššôṭmāšôṭ-שְׁאָט-šᵉʾāṭ.md"
+  },
+  {
+    "lemma": "שֶׁמֶן",
+    "lemma_norm": "שמנ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שֶׁמֶן-šemen-שָׁמֵן-šāmēn-שָׁמָן-šāmān.md"
+  },
+  {
+    "lemma": "שָׁלֵם",
+    "lemma_norm": "שלמ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שָׁלֵם-šālēm.md"
+  },
+  {
+    "lemma": "שָׁעָה",
+    "lemma_norm": "שעה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שָׁעָה-šāʿâ.md"
+  },
+  {
+    "lemma": "שָׁכַב",
+    "lemma_norm": "שכב",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שָׁכַב-šāḵaḇ-שְׁכָבָה-šᵉḵāḇâ-שְׁכֹבֶת-šᵉḵōḇeṯ-מִשְׁכָּב-miškāḇ.md"
+  },
+  {
+    "lemma": "שׁוע",
+    "lemma_norm": "שוע",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שׁוע-šwʿ-שֶׁוַע-šewaʿ-שׁוֹעַ-šôaʿ-שׁוּעַ-šûaʿ-שַׁוְעָה-šawʿâ.md"
+  },
+  {
+    "lemma": "שׁוּב",
+    "lemma_norm": "שוב",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שׁוּב-šûb-שׁוּבָה-šûḇâ-מְשׁוּבָה-mᵉšûḇâ-תְּשׁוּבָה-tᵉšûḇâ.md"
+  },
+  {
+    "lemma": "שׁקר",
+    "lemma_norm": "שקר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שׁקר-šqr-שֶׁקֶר-šeqer.md"
+  },
+  {
+    "lemma": "שַׁעַר",
+    "lemma_norm": "שער",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שַׁעַר-šaʿar.md"
+  },
+  {
+    "lemma": "שָׁבַת",
+    "lemma_norm": "שבת",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שָׁבַת-šāḇaṯ.md"
+  },
+  {
+    "lemma": "שָׁאַף",
+    "lemma_norm": "שאפ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שָׁאַף-šāʾap̱.md"
+  },
+  {
+    "lemma": "שַׁבָּת",
+    "lemma_norm": "שבת",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שַׁבָּת-šabbāṯ.md"
+  },
+  {
+    "lemma": "שִׁפְחָה",
+    "lemma_norm": "שפחה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שִׁפְחָה-šip̱ḥâ.md"
+  },
+  {
+    "lemma": "שָׁוָה",
+    "lemma_norm": "שוה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שָׁוָה-šāwâ-שָׁוֶה-šāweh.md"
+  },
+  {
+    "lemma": "שָׁקַל",
+    "lemma_norm": "שקל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שָׁקַל-šāqal-שֶׁקֶל-šeqel-מִשְׁקָל-mišqāl.md"
+  },
+  {
+    "lemma": "שָׁמִיר",
+    "lemma_norm": "שמיר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שָׁמִיר-šāmı̂r-שַׁיִת-šayiṯ.md"
+  },
+  {
+    "lemma": "שָׁרַץ",
+    "lemma_norm": "שרצ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שָׁרַץ-šāraṣ-שֶׁרֶץ-šereṣ.md"
+  },
+  {
+    "lemma": "שֵׁם",
+    "lemma_norm": "שמ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שֵׁם-šēm.md"
+  },
+  {
+    "lemma": "שָׁלָל",
+    "lemma_norm": "שלל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שָׁלָל-šālāl-בזו-bzz.md"
+  },
+  {
+    "lemma": "שׁכם",
+    "lemma_norm": "שכמ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שׁכם-škm.md"
+  },
+  {
+    "lemma": "שָׁגַגשָׁגָה",
+    "lemma_norm": "שגגשגה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שָׁגַגשָׁגָה-šāg̱âšāg̱ag̱-שְׁגָגָה-šᵉg̱āg̱â-שְׁגִיאָה-šᵉg̱ı̂ʾâ-מִשְׁגֶּה-mišgeh-מְשׁוּגָה-mᵉšûg̱â.md"
+  },
+  {
+    "lemma": "שֵׁבֶטšēḇeṭ",
+    "lemma_norm": "שבטsebet",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎שׁ/שֵׁבֶטšēḇeṭ.md"
+  },
+  {
+    "lemma": "פַּטִּישׁ",
+    "lemma_norm": "פטיש",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/פ/פַּטִּישׁ-paṭṭı̂š-מַקֶּבֶת-maqqeḇeṯ.md"
+  },
+  {
+    "lemma": "פֶּה",
+    "lemma_norm": "פה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/פ/פֶּה-peh.md"
+  },
+  {
+    "lemma": "פָּרַח",
+    "lemma_norm": "פרח",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/פ/פָּרַח-pāraḥ-פֶּרַח-peraḥ.md"
+  },
+  {
+    "lemma": "פַּרְעֹה",
+    "lemma_norm": "פרעה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/פ/פַּרְעֹה-parʿōh.md"
+  },
+  {
+    "lemma": "פָּרַק",
+    "lemma_norm": "פרק",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/פ/פָּרַק-pāraq-פֶּרֶק-pereq.md"
+  },
+  {
+    "lemma": "פָּרַד",
+    "lemma_norm": "פרד",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/פ/פָּרַד-pāraḏ.md"
+  },
+  {
+    "lemma": "פָּשַׁע",
+    "lemma_norm": "פשע",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/פ/פָּשַׁע-pāšaʿ-פֶּשַׁע-pešaʿ.md"
+  },
+  {
+    "lemma": "פָּרַץ",
+    "lemma_norm": "פרצ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/פ/פָּרַץ-pāraṣ-פֶּרֶץ-pereṣ-פָּרִיץ-pārı̂ṣ-מִפְרָץ-mip̱rāṣ.md"
+  },
+  {
+    "lemma": "פתר",
+    "lemma_norm": "פתר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/פ/פתר-ptr-פשׁר-pešer.md"
+  },
+  {
+    "lemma": "פלא",
+    "lemma_norm": "פלא",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/פ/פלא-plʾ-פֶּלֶא-peleʾ.md"
+  },
+  {
+    "lemma": "פוח",
+    "lemma_norm": "פוח",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/פ/פוח-pwḥ.md"
+  },
+  {
+    "lemma": "פָּדָה",
+    "lemma_norm": "פדה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/פ/פָּדָה-pāḏâ-פְּדוּת-pᵉḏûṯ-פִּדְיוֹן-piḏyôn.md"
+  },
+  {
+    "lemma": "פסל",
+    "lemma_norm": "פסל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/פ/פסל-psl-פָּסִיל-pāsı̂l-פֶּסֶל-pesel.md"
+  },
+  {
+    "lemma": "פִּלֶגֶשׁ",
+    "lemma_norm": "פלגש",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/פ/פִּלֶגֶשׁ-pileg̱eš.md"
+  },
+  {
+    "lemma": "פֶּרֶד",
+    "lemma_norm": "פרד",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/פ/פֶּרֶד-pereḏ.md"
+  },
+  {
+    "lemma": "פֵּשֶׁת",
+    "lemma_norm": "פשת",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/פ/פֵּשֶׁת-pēšeṯ.md"
+  },
+  {
+    "lemma": "פָּתַל",
+    "lemma_norm": "פתל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/פ/פָּתַל-pāṯal-נַפְתּוּלִים-nap̱tûlı̂m-פְּתַלְתֹּל-pᵉṯaltōl-פָּתִיל-pāṯı̂l.md"
+  },
+  {
+    "lemma": "פלל",
+    "lemma_norm": "פלל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/פ/פלל-pll-תְּפִלָּה-tᵉp̱illâ-פְּלִילִים-pᵉlı̂lı̂m-פְּלִילָה-pᵉlı̂lâ-פְּלִילִי-pᵉlı̂lı̂-פְּלִילִיָּה-pᵉlı̂lı̂yâ.md"
+  },
+  {
+    "lemma": "פָּלַט",
+    "lemma_norm": "פלט",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/פ/פָּלַט-pālaṭ-מָלַט-mālaṭ-פָּלִיט-pālı̂ṭ-פָּלֵיט-pālêṭ-פְּלֵיטָה-pᵉlêṭâ-מִפְלָט-mip̱lāṭ.md"
+  },
+  {
+    "lemma": "פִּגּוּל",
+    "lemma_norm": "פגול",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/פ/פִּגּוּל-piggûl.md"
+  },
+  {
+    "lemma": "פָּשַׁט",
+    "lemma_norm": "פשט",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/פ/פָּשַׁט-pāšaṭ.md"
+  },
+  {
+    "lemma": "פתה",
+    "lemma_norm": "פתה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/פ/פתה-pth-פֶּתִי-peṯı̂-פְּתַיּוּת-pᵉṯayyûṯ.md"
+  },
+  {
+    "lemma": "פָּעַל",
+    "lemma_norm": "פעל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/פ/פָּעַל-pāʿal-פֹּעַל-pōʿal-פְּעֻלָּה-pᵉʿullâ-מִפְעָל-mip̱ʿāl.md"
+  },
+  {
+    "lemma": "פָּגַר",
+    "lemma_norm": "פגר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/פ/פָּגַר-pāg̱ar-פֶּגֶר-peg̱er.md"
+  },
+  {
+    "lemma": "פֵאָה",
+    "lemma_norm": "פאה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/פ/פֵאָה-pēʾâ.md"
+  },
+  {
+    "lemma": "פאר",
+    "lemma_norm": "פאר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/פ/פאר-pʾr-תִּפְאֶרֶת-tip̱ʾereṯ-פְּאֵר-pᵉʾēr.md"
+  },
+  {
+    "lemma": "פרר",
+    "lemma_norm": "פרר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/פ/פרר-prr-פור-pwr.md"
+  },
+  {
+    "lemma": "פֶּשֶׁר",
+    "lemma_norm": "פשר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/פ/פֶּשֶׁר-pešer-פָּתַר-pāṯar-פִּתְרוֹןפִּתָּרוֹן-pittārônpiṯrôn.md"
+  },
+  {
+    "lemma": "פָּחַד",
+    "lemma_norm": "פחד",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/פ/פָּחַד-pāḥaḏ-פַּחַד-paḥaḏ-i-and-ii.md"
+  },
+  {
+    "lemma": "פָּרֹכֶת",
+    "lemma_norm": "פרכת",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/פ/פָּרֹכֶת-pārōḵeṯ.md"
+  },
+  {
+    "lemma": "פָּרָה",
+    "lemma_norm": "פרה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/פ/פָּרָה-pārâ-פְּרִי-pᵉrı̂.md"
+  },
+  {
+    "lemma": "פָּנָה",
+    "lemma_norm": "פנה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/פ/פָּנָה-pānâ.md"
+  },
+  {
+    "lemma": "INDEX",
+    "lemma_norm": "INDEX",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/פ/INDEX.md"
+  },
+  {
+    "lemma": "פָּלַג",
+    "lemma_norm": "פלג",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/פ/פָּלַג-pālag̱-פֶּלֶג-peleg̱-פְּלַגָּה-pᵉlaggâ-פְּלֻגָּה-pᵉluggâ-מִפְלַגָּה-mip̱laggâ.md"
+  },
+  {
+    "lemma": "פָּרָשׁ",
+    "lemma_norm": "פרש",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/פ/פָּרָשׁ-pārāš.md"
+  },
+  {
+    "lemma": "פִּסֵּחַ",
+    "lemma_norm": "פסח",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/פ/פִּסֵּחַ-pissēaḥ.md"
+  },
+  {
+    "lemma": "פַּז",
+    "lemma_norm": "פז",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/פ/פַּז-paz-זָהָב-zāhāḇ.md"
+  },
+  {
+    "lemma": "פּוּץ",
+    "lemma_norm": "פוצ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/פ/פּוּץ-pûṣ-תְּפוּצָה-tᵉp̱ûṣâ-נָפַץ-nāp̱aṣ-פזר-pzr.md"
+  },
+  {
+    "lemma": "פעם",
+    "lemma_norm": "פעמ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/פ/פעם-pʿm-פַּעַם-paʿam-פַּעֲמוֹן-paʿᵃmôn.md"
+  },
+  {
+    "lemma": "פָּנִים",
+    "lemma_norm": "פנימ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/פ/פָּנִים-pānı̂m.md"
+  },
+  {
+    "lemma": "פָּסַח",
+    "lemma_norm": "פסח",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/פ/פָּסַח-pāsaḥ-פֶּסַח-pesaḥ.md"
+  },
+  {
+    "lemma": "פָּגַע",
+    "lemma_norm": "פגע",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/פ/פָּגַע-pāg̱aʿ-פֶּגַע-peg̱aʿ-מִפְגָּע-mip̱gāʿ.md"
+  },
+  {
+    "lemma": "פָרַשׂ",
+    "lemma_norm": "פרש",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/פ/פָרַשׂ-pāraś-מִפְרָשׂ-mip̱rāś.md"
+  },
+  {
+    "lemma": "פֶּתֶן",
+    "lemma_norm": "פתנ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/פ/פֶּתֶן-peṯen-נחשׁ-nāḥāš.md"
+  },
+  {
+    "lemma": "פַּחַת",
+    "lemma_norm": "פחת",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/פ/פַּחַת-paḥaṯ.md"
+  },
+  {
+    "lemma": "פָּטַר",
+    "lemma_norm": "פטר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/פ/פָּטַר-pāṭar-פָּטִיר-pāṭı̂r-פֶּטֶר-peṭer-פִּטְרָה-piṭrâ.md"
+  },
+  {
+    "lemma": "פָּרַע",
+    "lemma_norm": "פרע",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/פ/פָּרַע-pāraʿ-פֶּרַע-peraʿ.md"
+  },
+  {
+    "lemma": "פַּר",
+    "lemma_norm": "פר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/פ/פַּר-par-פָּרָה-pārâ.md"
+  },
+  {
+    "lemma": "פַּח",
+    "lemma_norm": "פח",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/פ/פַּח-paḥ.md"
+  },
+  {
+    "lemma": "פִּנָּה",
+    "lemma_norm": "פנה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/פ/פִּנָּה-pinnâ.md"
+  },
+  {
+    "lemma": "פֶּרֶא",
+    "lemma_norm": "פרא",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/פ/פֶּרֶא-pereʾ.md"
+  },
+  {
+    "lemma": "פָּקַח",
+    "lemma_norm": "פקח",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/פ/פָּקַח-pāqaḥ.md"
+  },
+  {
+    "lemma": "פזר",
+    "lemma_norm": "פזר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/פ/פזר-pzr-פּוּץ-pûṣ.md"
+  },
+  {
+    "lemma": "פִּתְאֹם",
+    "lemma_norm": "פתאמ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/פ/פִּתְאֹם-piṯʾōm-פֶּתַע-peṯaʿ.md"
+  },
+  {
+    "lemma": "תְּבוּאָה",
+    "lemma_norm": "תבואה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ת/תְּבוּאָה-tᵉḇûʾâ.md"
+  },
+  {
+    "lemma": "תּוּשִׁיָּה",
+    "lemma_norm": "תושיה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ת/תּוּשִׁיָּה-tûšı̂yâ-תֻּשִׁיָּה-tušı̂yâ.md"
+  },
+  {
+    "lemma": "תַּרְשִׁישׁ",
+    "lemma_norm": "תרשיש",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ת/תַּרְשִׁישׁ-taršı̂š.md"
+  },
+  {
+    "lemma": "תור",
+    "lemma_norm": "תור",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ת/תור-twr.md"
+  },
+  {
+    "lemma": "תְּמוֹל",
+    "lemma_norm": "תמול",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ת/תְּמוֹל-tᵉmôl-אֶתֶמוּל-ʾeṯmôl-אֶתְמוּל-ʾeṯmûl-אִתְּמוֹל-ʾittᵉmôl.md"
+  },
+  {
+    "lemma": "תְּמוּנָה",
+    "lemma_norm": "תמונה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ת/תְּמוּנָה-tᵉmûnâ.md"
+  },
+  {
+    "lemma": "תַּנִּין",
+    "lemma_norm": "תנינ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ת/תַּנִּין-tannı̂n.md"
+  },
+  {
+    "lemma": "תַּנּוּר",
+    "lemma_norm": "תנור",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ת/תַּנּוּר-tannûr-כִּבשָׁן-kiḇšān-כּוּר-kûr.md"
+  },
+  {
+    "lemma": "תָּעָה",
+    "lemma_norm": "תעה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ת/תָּעָה-tāʿâ-תּוֹעָה-tôʿâ-טעה-ṭʿh.md"
+  },
+  {
+    "lemma": "תפשׂ",
+    "lemma_norm": "תפש",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ת/תפשׂ-tpś.md"
+  },
+  {
+    "lemma": "תְּרָפִים",
+    "lemma_norm": "תרפימ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ת/תְּרָפִים-tᵉrāp̱ı̂m-אֵפוֹד-ʾēp̱ôḏ-בַּד-baḏ.md"
+  },
+  {
+    "lemma": "תֹּף",
+    "lemma_norm": "תפ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ת/תֹּף-tōp̱-תפף-tpp.md"
+  },
+  {
+    "lemma": "תֹּהוּ",
+    "lemma_norm": "תהו",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ת/תֹּהוּ-tōhû.md"
+  },
+  {
+    "lemma": "תָּלָאתָּלָה",
+    "lemma_norm": "תלאתלה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ת/תָּלָאתָּלָה-tālâtālāʾ.md"
+  },
+  {
+    "lemma": "תְּאֵנָה",
+    "lemma_norm": "תאנה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ת/תְּאֵנָה-tᵉʾēnâ.md"
+  },
+  {
+    "lemma": "תָּמַהּ",
+    "lemma_norm": "תמה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ת/תָּמַהּ-tāmah-תִּמָּהוֹן-timmāhôn.md"
+  },
+  {
+    "lemma": "תּוֹרָה",
+    "lemma_norm": "תורה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ת/תּוֹרָה-tôrâ.md"
+  },
+  {
+    "lemma": "תּוֹעֵבָה",
+    "lemma_norm": "תועבה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ת/תּוֹעֵבָה-tôʿēḇâ-תעב-tʿb.md"
+  },
+  {
+    "lemma": "תלל",
+    "lemma_norm": "תלל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ת/תלל-tll-ii-התל-htl-הֲתֻלִים-hᵃṯulı̂m-מַהֲתַלּוֹת-mahᵃṯallôṯ.md"
+  },
+  {
+    "lemma": "תֹּאַר",
+    "lemma_norm": "תאר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ת/תֹּאַר-tōʾar-תאר-tʾr.md"
+  },
+  {
+    "lemma": "תָּמַם",
+    "lemma_norm": "תממ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ת/תָּמַם-tāmam-תָּם-tām-תָּמִים-tāmı̂m-תָּם-תֹּם-tōm-tom-תֻּמָּה-tummâ-תֻּמִּים-tummı̂m.md"
+  },
+  {
+    "lemma": "INDEX",
+    "lemma_norm": "INDEX",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ת/INDEX.md"
+  },
+  {
+    "lemma": "תָּמִיד",
+    "lemma_norm": "תמיד",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ת/תָּמִיד-tāmı̂ḏ.md"
+  },
+  {
+    "lemma": "תֹּפֶת",
+    "lemma_norm": "תפת",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ת/תֹּפֶת-tōp̱eṯ.md"
+  },
+  {
+    "lemma": "תכן",
+    "lemma_norm": "תכנ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ת/תכן-tkn-תֹּכֶן-tōḵen-תָּכְנִית-toḵnı̂ṯ-מַתְכֹּנֶת-maṯkōneṯ.md"
+  },
+  {
+    "lemma": "תִּירוֹשׁ",
+    "lemma_norm": "תירוש",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ת/תִּירוֹשׁ-tı̂rôš.md"
+  },
+  {
+    "lemma": "תַּחֲנוּנִים",
+    "lemma_norm": "תחנונימ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ת/תַּחֲנוּנִים-taḥᵃnûnı̂m-תְּחִנָּה-tᵉḥinnâ.md"
+  },
+  {
+    "lemma": "תּוֹלְדוֹת",
+    "lemma_norm": "תולדות",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ת/תּוֹלְדוֹת-tôlᵉḏôṯ.md"
+  },
+  {
+    "lemma": "תֵּבֵל",
+    "lemma_norm": "תבל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ת/תֵּבֵל-tēḇēl-תֶּבֶל-teḇel.md"
+  },
+  {
+    "lemma": "תָּקַע",
+    "lemma_norm": "תקע",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ת/תָּקַע-tāqaʿ-תֵּקַע-tēqaʿ-תֹּקְעִים-tōqᵉʿı̂m.md"
+  },
+  {
+    "lemma": "תְּרוּעָה",
+    "lemma_norm": "תרועה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ת/תְּרוּעָה-tᵉrûʿâ-רוע-rwʿ.md"
+  },
+  {
+    "lemma": "תִּקְוָה",
+    "lemma_norm": "תקוה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ת/תִּקְוָה-tiqwâ.md"
+  },
+  {
+    "lemma": "תָּמַךְ",
+    "lemma_norm": "תמכ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ת/תָּמַךְ-tāmaḵ.md"
+  },
+  {
+    "lemma": "תְּרוּמָה",
+    "lemma_norm": "תרומה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ת/תְּרוּמָה-tᵉrûmâ-תְּרוּמִיָּה-tᵉrûmı̂yâ.md"
+  },
+  {
+    "lemma": "תָּפֵל",
+    "lemma_norm": "תפל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ת/תָּפֵל-tāp̱ēl-תִּפְלָה-tip̱lâ.md"
+  },
+  {
+    "lemma": "תְּהוּם",
+    "lemma_norm": "תהומ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ת/תְּהוּם-tᵉhôm.md"
+  },
+  {
+    "lemma": "תּוֹלַעַת",
+    "lemma_norm": "תולעת",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ת/תּוֹלַעַת-tôlaʿaṯ-תּוֹלֵעָה-tôlēʿâ-תּוֹלָע-tôlāʿ-תלע-tlʿ.md"
+  },
+  {
+    "lemma": "תֵּבָה",
+    "lemma_norm": "תבה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ת/תֵּבָה-tēḇâ.md"
+  },
+  {
+    "lemma": "גָּדֵר",
+    "lemma_norm": "גדר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ג/גָּדֵר-gādhēr-חומה-chômāh.md"
+  },
+  {
+    "lemma": "גּוּר",
+    "lemma_norm": "גור",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ג/גּוּר-gûr-גֵּר-gēr-גֵּרוּת-gērûth-מְגוּרים-mᵉghûrı̂m.md"
+  },
+  {
+    "lemma": "גִּבְעָה",
+    "lemma_norm": "גבעה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ג/גִּבְעָה-gibhʿāh-הר-har.md"
+  },
+  {
+    "lemma": "גָּבַר",
+    "lemma_norm": "גבר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ג/גָּבַר-gābhar-גְּבוּרָה-gᵉbhûrāh-גְּבִיר-gᵉbhı̂r-גִּבּוֹר-gibbôr-גֶּבֶר-gebher.md"
+  },
+  {
+    "lemma": "גִּלּוּלִים",
+    "lemma_norm": "גלולימ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ג/גִּלּוּלִים-gillûlı̂m-גִּלֻּלִים-gillulı̂m.md"
+  },
+  {
+    "lemma": "גֶּפֶן",
+    "lemma_norm": "גפנ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ג/גֶּפֶן-gephen.md"
+  },
+  {
+    "lemma": "גַּד",
+    "lemma_norm": "גד",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ג/גַּד-gadh-גָּד-gādh.md"
+  },
+  {
+    "lemma": "גֵּר",
+    "lemma_norm": "גר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ג/גֵּר-gēr-גור-gûr.md"
+  },
+  {
+    "lemma": "גָּעַר",
+    "lemma_norm": "גער",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ג/גָּעַר-gāʿar-גְּעָרָה-gᵉʿārāh-מִגְעֶרֶת-mighʿereth.md"
+  },
+  {
+    "lemma": "גָּרַשׁ",
+    "lemma_norm": "גרש",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ג/גָּרַשׁ-gārash.md"
+  },
+  {
+    "lemma": "גלל",
+    "lemma_norm": "גלל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ג/גלל-gll-גַּל-gal.md"
+  },
+  {
+    "lemma": "גְּוִיָּה",
+    "lemma_norm": "גויה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ג/גְּוִיָּה-gᵉviyyāh-גּוּפָה-gûphāh-גַּו-gav-גֵּו-gēv-גַּף-gaph.md"
+  },
+  {
+    "lemma": "גֶּשֶׁם",
+    "lemma_norm": "גשמ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ג/גֶּשֶׁם-geshem-מטר-māṭār.md"
+  },
+  {
+    "lemma": "גְּדִי",
+    "lemma_norm": "גדי",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ג/גְּדִי-gᵉdhı̂-גְּדִיָּה-gᵉdhiyyāh.md"
+  },
+  {
+    "lemma": "גָּזַל",
+    "lemma_norm": "גזל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ג/גָּזַל-gāzal-גֵּזֶל-gēzel-גָּזֵל-gāzēl-גְּזֵלָה-gᵉzēlāh.md"
+  },
+  {
+    "lemma": "גְּבוּל",
+    "lemma_norm": "גבול",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ג/גְּבוּל-gᵉbhûl-גָּבַל-gābhal-גְּבוּלָה-gᵉbhûlāh.md"
+  },
+  {
+    "lemma": "גָּוַע",
+    "lemma_norm": "גוע",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ג/גָּוַע-gāvaʿ.md"
+  },
+  {
+    "lemma": "גָּעַל",
+    "lemma_norm": "געל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ג/גָּעַל-gāʿal-גֹּעַל-gōʿal-גַּעַל-gaʿal.md"
+  },
+  {
+    "lemma": "גָּבַהּ",
+    "lemma_norm": "גבה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ג/גָּבַהּ-gābhah-גֹּבַהּ-gōbhah-גָּבֹהַּ-gābhōah-גָּבֵהַּ-gābhēah-גַּבְהוּת-gabhhûth.md"
+  },
+  {
+    "lemma": "גִּיחוֹן",
+    "lemma_norm": "גיחונ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ג/גִּיחוֹן-gı̂chôn.md"
+  },
+  {
+    "lemma": "גָּמַל",
+    "lemma_norm": "גמל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ג/גָּמַל-gāmal-גָּמוּל-gāmûl-גְּמוּל-gᵉmûl-גְּמוּלָה-gᵉmûlāh-תַּגְמוּל-taghmûl.md"
+  },
+  {
+    "lemma": "גֹּרֶן",
+    "lemma_norm": "גרנ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ג/גֹּרֶן-gōren.md"
+  },
+  {
+    "lemma": "גּוֹרָל",
+    "lemma_norm": "גורל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ג/גּוֹרָל-gôrāl.md"
+  },
+  {
+    "lemma": "גָּרַע",
+    "lemma_norm": "גרע",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ג/גָּרַע-gāraʿ.md"
+  },
+  {
+    "lemma": "INDEX",
+    "lemma_norm": "INDEX",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ג/INDEX.md"
+  },
+  {
+    "lemma": "גָּאַל",
+    "lemma_norm": "גאל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ג/גָּאַל-gāʾal-גֹּאֵל-gōʾēl-גְּאֻלָּה-gᵉʾullāh.md"
+  },
+  {
+    "lemma": "גָּאָה",
+    "lemma_norm": "גאה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ג/גָּאָה-gāʾāh-גֵּאָה-gēʾāh-גֵּאֶה-gēʾeh-גַּאֲוָה-gaʾᵃvāh-גָּאוֹן-gāʾôn-גֵּאוּת-gēʾûth-גֵּוָה-gēvāh.md"
+  },
+  {
+    "lemma": "גָּזַר",
+    "lemma_norm": "גזר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ג/גָּזַר-gāzar-גֶּזֶר-gezer-גְּזֵרָה-gᵉzērāh-מַגְזֵרָה-maghzērāh.md"
+  },
+  {
+    "lemma": "גָּלָה",
+    "lemma_norm": "גלה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ג/גָּלָה-gālāh-גּוֹלָה-gôlāh-גָּלוּת-gālûth.md"
+  },
+  {
+    "lemma": "גיל",
+    "lemma_norm": "גיל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ג/גיל-gyl-גִּילָה-gı̂lāh.md"
+  },
+  {
+    "lemma": "גָּדַל",
+    "lemma_norm": "גדל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ג/גָּדַל-gādhal-גָּדוֹל-gādhôl-גְּדֻלָּה-gᵉdhullāh-גֹּדֶל-gōdhel-מִגְדָּל-mighdāl.md"
+  },
+  {
+    "lemma": "גָּדַף",
+    "lemma_norm": "גדפ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ג/גָּדַף-gādhaph-גִּדּוּף-giddûph-גִּדּוּפָה-giddûphāh.md"
+  },
+  {
+    "lemma": "גחל",
+    "lemma_norm": "גחל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ג/גחל-gḥl-גֶּחָלִים-gechālı̂m-גַּחֲלֵי־אֵשׁ-gachᵃlê-ʾēsh-גַּחֶלֶת-gacheleth.md"
+  },
+  {
+    "lemma": "גַּן",
+    "lemma_norm": "גנ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ג/גַּן-gan.md"
+  },
+  {
+    "lemma": "גּוֹי",
+    "lemma_norm": "גוי",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ג/גּוֹי-gôy.md"
+  },
+  {
+    "lemma": "גּוֹג",
+    "lemma_norm": "גוג",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ג/גּוֹג-gôgh-מָגוֹג-māghôgh.md"
+  },
+  {
+    "lemma": "גָּנַב",
+    "lemma_norm": "גנב",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ג/גָּנַב-gānabh.md"
+  },
+  {
+    "lemma": "עָפָר",
+    "lemma_norm": "עפר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עָפָר-ʿāp̱ār-עפר-ʿpr-אֵפֶר-ʾēp̱er.md"
+  },
+  {
+    "lemma": "עקשׁ",
+    "lemma_norm": "עקש",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עקשׁ-ʿqš-עִקֵּשׁ-ʿiqqēš-עִקְּשׁוּת-ʿiqqᵉšûṯ-מַעֲקַשִּׁים-maʿᵃqaššı̂m.md"
+  },
+  {
+    "lemma": "עזז",
+    "lemma_norm": "עזז",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עזז-ʿzz-עֱזוּז-ʿᵉzûz-עִזּוּז-ʿizzûz-עַז-ʿaz-עֹזעוֹז-ʿôzʿōz-מָעוֹז-māʿôz.md"
+  },
+  {
+    "lemma": "עֶשֶׂר",
+    "lemma_norm": "עשר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עֶשֶׂר-ʿeśer-עשׂר-ʿśr-מַעֲשֵׂר-maʿᵃśēr.md"
+  },
+  {
+    "lemma": "עָצַם",
+    "lemma_norm": "עצמ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עָצַם-ʿāṣam-עָצוּם-ʿāṣûm-עֹצֶם-ʿōṣem-עָצְמָה-ʿoṣmâ-תַּעֲצֻמוֹת-taʿᵃṣumôṯ.md"
+  },
+  {
+    "lemma": "עָנַג",
+    "lemma_norm": "ענג",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עָנַג-ʿānag̱-עֹנֶג-ʿōneg̱-עָנֹג-ʿānōg̱-תַּעֲנוּג-taʿᵃnûg̱-.md"
+  },
+  {
+    "lemma": "עָרוֹם",
+    "lemma_norm": "ערומ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עָרוֹם-ʿārôm-עֵירוֹם-ʿêrôm.md"
+  },
+  {
+    "lemma": "עֹל",
+    "lemma_norm": "על",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עֹל-ʿōl.md"
+  },
+  {
+    "lemma": "עֵמֶק",
+    "lemma_norm": "עמק",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עֵמֶק-ʿēmeq-עָמַק-ʿāmaq-עֹמֶק-ʿōmeq-עָמֵקעָמֹק-ʿāmēqʿāmōq-מַעֲמַקִים-maʿᵃmaqqı̂m.md"
+  },
+  {
+    "lemma": "עור",
+    "lemma_norm": "עור",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עור-ʿwr.md"
+  },
+  {
+    "lemma": "עֲגָלָה",
+    "lemma_norm": "עגלה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עֲגָלָה-ʿᵃg̱ālâ.md"
+  },
+  {
+    "lemma": "עתק",
+    "lemma_norm": "עתק",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עתק-ʿtq-עָתִיק-ʿāṯı̂q-עַתִּיק-ʿattı̂q-עָתֵק-ʿāṯēq-עָתָק-ʿāṯāq.md"
+  },
+  {
+    "lemma": "עלל",
+    "lemma_norm": "עלל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עלל-ʿll-עֹלֵלָה-ʿōlēlâ-עֲלִילָה-ʿᵃlı̂lâ-עֲלִילִיָּה-ʿᵃlı̂lı̂yâ-מַעֲלָל-maʿᵃlāl-תַּעֲלוּל-taʿᵃlûl.md"
+  },
+  {
+    "lemma": "עָרַל",
+    "lemma_norm": "ערל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עָרַל-ʿāral-עָרֵל-ʿārēl-עָרְלָה-ʿorlâ.md"
+  },
+  {
+    "lemma": "עֵדֶר",
+    "lemma_norm": "עדר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עֵדֶר-ʿēḏer.md"
+  },
+  {
+    "lemma": "עָכַר",
+    "lemma_norm": "עכר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עָכַר-ʿāḵar-עֵמֶק-עָכוֹר-ʿēmeq-ʿāḵôr.md"
+  },
+  {
+    "lemma": "עֶבְרָה",
+    "lemma_norm": "עברה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עֶבְרָה-ʿeḇrâ-עָבַר-ii-ʿāḇar-ii.md"
+  },
+  {
+    "lemma": "עִוֵּר",
+    "lemma_norm": "עור",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עִוֵּר-ʿiwwēr-עור-ʿwr-i.-עַוֶּרֶת-ʿawwereṯ-עִוָּרוֹן-ʿiwwārôn-סַנְוֵּרִים-sanwērı̂m-שׁעע-šʿʿ.md"
+  },
+  {
+    "lemma": "עַתּוּד",
+    "lemma_norm": "עתוד",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עַתּוּד-ʿattûḏ.md"
+  },
+  {
+    "lemma": "עוּף",
+    "lemma_norm": "עופ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עוּף-ʿûp̱-עוֹף-ʿôp̱.md"
+  },
+  {
+    "lemma": "עֹרֵב",
+    "lemma_norm": "ערב",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עֹרֵב-ʿōrēḇ.md"
+  },
+  {
+    "lemma": "עֵז",
+    "lemma_norm": "עז",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עֵז-ʿēz.md"
+  },
+  {
+    "lemma": "עָזַר",
+    "lemma_norm": "עזר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עָזַר-ʿāzar-עֹזֵר-ʿōzēr-עֵזֶר-ʿēzer-עֶזְרָה-ʿezrâ-עֲזָרָה-ʿᵃzārâ-עזיר-ʿazzı̂r-עָזַר-ii-ʿāzar-ii.md"
+  },
+  {
+    "lemma": "עָשַׁר",
+    "lemma_norm": "עשר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עָשַׁר-ʿāšar-עָשִׁיר-ʿāšı̂r-עֹשֶׁר-ʿōšer.md"
+  },
+  {
+    "lemma": "עָנָה",
+    "lemma_norm": "ענה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עָנָה-ʿānâ-i-מַעֲנֶה-maʿᵃneh-עִנְיָן-ʿinyān-עֹנָה-ʿōnâ.md"
+  },
+  {
+    "lemma": "עִיר",
+    "lemma_norm": "עיר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עִיר-ʿı̂r.md"
+  },
+  {
+    "lemma": "עִבְרִי",
+    "lemma_norm": "עברי",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עִבְרִי-ʿiḇrı̂.md"
+  },
+  {
+    "lemma": "עָלַם",
+    "lemma_norm": "עלמ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עָלַם-ʿālam-תַּעֲלֻמָה-taʿᵃlumâ.md"
+  },
+  {
+    "lemma": "עָצַר",
+    "lemma_norm": "עצר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עָצַר-ʿāṣar-עֶצֶר-ʿeṣer-עֹצֶר-ʿōṣer-עֲצֶרֶת-ʿᵃṣereṯ-עֲצָרָה-ʿᵃṣārâ-מַעְצוֹר-maʿṣôr-מַעְצָר-maʿṣār.md"
+  },
+  {
+    "lemma": "עֵגֶל",
+    "lemma_norm": "עגל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עֵגֶל-ʿēg̱el-עֶגְלָה-ʿeg̱lâ.md"
+  },
+  {
+    "lemma": "עַם",
+    "lemma_norm": "עמ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עַם-ʿam.md"
+  },
+  {
+    "lemma": "עָרַב",
+    "lemma_norm": "ערב",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עָרַב-i-ʿāraḇ-i-עֲרֻבָּה-ʿᵃrubbâ-עֵרָבוֹן-ʿērāḇôn-עָרֵב-ʿārēḇ-תַּעֲרוּבָה-taʿᵃrûḇâ.md"
+  },
+  {
+    "lemma": "עָלַז",
+    "lemma_norm": "עלז",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עָלַז-ʿālaz-עַלִּיז-ʿallı̂z-עָלֵז-ʿālēz-עָלַץ-ʿālaṣ-עֲלִיצוּת-ʿᵃlı̂ṣûṯ-עָלַס-ʿālas.md"
+  },
+  {
+    "lemma": "עִם",
+    "lemma_norm": "עמ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עִם-ʿim-אח-ʾeṯ.md"
+  },
+  {
+    "lemma": "עַד",
+    "lemma_norm": "עד",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עַד-ʿaḏ.md"
+  },
+  {
+    "lemma": "עַמּוּד",
+    "lemma_norm": "עמוד",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עַמּוּד-ʿammûḏ.md"
+  },
+  {
+    "lemma": "עַיִן",
+    "lemma_norm": "עינ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עַיִן-ʿayin.md"
+  },
+  {
+    "lemma": "עָזַב",
+    "lemma_norm": "עזב",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עָזַב-ʿāzaḇ-עִזְּבוֹנִים-ʿizzᵉḇônı̂m.md"
+  },
+  {
+    "lemma": "עָדָה",
+    "lemma_norm": "עדה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עָדָה-ʿāḏâ-עֲדִי-ʿᵃḏı̂.md"
+  },
+  {
+    "lemma": "עָוֶל",
+    "lemma_norm": "עול",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עָוֶל-ʿāwel-עַוְלָה-ʿawlâ-עול-ʿwl-עִוָּל-ʿiwwāl.md"
+  },
+  {
+    "lemma": "עָרָה",
+    "lemma_norm": "ערה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עָרָה-ʿārâ-מוֹרָה-môrâ-מַעַר-maʿar-עֶרְוָה-ʿerwâ-עֶרְיָה-ʿeryâ.md"
+  },
+  {
+    "lemma": "עֵדָה",
+    "lemma_norm": "עדה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עֵדָה-ʿēḏâ.md"
+  },
+  {
+    "lemma": "עֶצֶם",
+    "lemma_norm": "עצמ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עֶצֶם-ʿeṣem-עֹצֶם-ʿōṣem.md"
+  },
+  {
+    "lemma": "עֹרֶף",
+    "lemma_norm": "ערפ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עֹרֶף-ʿōrep̱-עָרַף-ʿārap̱.md"
+  },
+  {
+    "lemma": "עָנָה",
+    "lemma_norm": "ענה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עָנָה-ii-ʿānâ-עֲנָוָה-ʿᵃnāwâ-עֱנוּת-ʿᵉnûṯ-עֹנָה-ʿōnâ-תַּעֲנִית-taʿᵃnı̂ṯ-עָנִי-ʿānı̂-עָנָו-ʿānāw.md"
+  },
+  {
+    "lemma": "עָצָב",
+    "lemma_norm": "עצב",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עָצָב-ʿāṣāḇ.md"
+  },
+  {
+    "lemma": "עֵת",
+    "lemma_norm": "עת",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עֵת-ʿēṯ-עַתָּה-ʿattâ.md"
+  },
+  {
+    "lemma": "עוֹלָם",
+    "lemma_norm": "עולמ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עוֹלָם-ʿôlām-עָלַם-ʿālam.md"
+  },
+  {
+    "lemma": "עָתַר",
+    "lemma_norm": "עתר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עָתַר-ʿāṯar-עָתָר-ʿāṯār.md"
+  },
+  {
+    "lemma": "עָשָׂה",
+    "lemma_norm": "עשה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עָשָׂה-ʿāśâ-מַעֲשֶׂה-maʿᵃśeh.md"
+  },
+  {
+    "lemma": "עָקַר",
+    "lemma_norm": "עקר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עָקַר-ʿāqar-עָקָר-ʿāqār-עֵקֶר-ʿēqer-עִקָּר-ʿiqqār.md"
+  },
+  {
+    "lemma": "עָצֵל",
+    "lemma_norm": "עצל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עָצֵל-ʿāṣēl.md"
+  },
+  {
+    "lemma": "עַיִן",
+    "lemma_norm": "עינ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עַיִן-ʿayin-מַעְיָן-maʿyān.md"
+  },
+  {
+    "lemma": "עיף",
+    "lemma_norm": "עיפ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עיף-ʿyp-יעף-yʿp.md"
+  },
+  {
+    "lemma": "עָמָל",
+    "lemma_norm": "עמל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עָמָל-ʿāmāl-עָמַל-ʿāmal-עָמֵל-ʿāmēl.md"
+  },
+  {
+    "lemma": "עָמִית",
+    "lemma_norm": "עמית",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עָמִית-ʿāmı̂ṯ.md"
+  },
+  {
+    "lemma": "עוֹלָהעֹלָה",
+    "lemma_norm": "עולהעלה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עוֹלָהעֹלָה-ʿōlâʿôlâ.md"
+  },
+  {
+    "lemma": "עקב",
+    "lemma_norm": "עקב",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עקב-ʿqb-עָקֵב-ʿāqēḇ-עֵקֶב-ʿēqeḇ-עָקֹב-ʿāqōḇ.md"
+  },
+  {
+    "lemma": "עֲרָפֶל",
+    "lemma_norm": "ערפל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עֲרָפֶל-ʿᵃrāp̱el.md"
+  },
+  {
+    "lemma": "INDEX",
+    "lemma_norm": "INDEX",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/INDEX.md"
+  },
+  {
+    "lemma": "עֲרָבָה",
+    "lemma_norm": "ערבה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עֲרָבָה-ʿᵃrāḇâ-מדבר-miḏbār.md"
+  },
+  {
+    "lemma": "עוד",
+    "lemma_norm": "עוד",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עוד-ʿwd-עֵד-ʿēḏ-עֵדוּת-ʿēḏûṯ-תְּעוּדָה-tᵉʿûḏâ.md"
+  },
+  {
+    "lemma": "עוז",
+    "lemma_norm": "עוז",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עוז-ʿwz.md"
+  },
+  {
+    "lemma": "עֶרֶשׂ",
+    "lemma_norm": "ערש",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עֶרֶשׂ-ʿereś-מִטָּה-miṭṭâ-יָצוּעַ-yāṣûaʿ.md"
+  },
+  {
+    "lemma": "עָשָׁן",
+    "lemma_norm": "עשנ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עָשָׁן-ʿāšān.md"
+  },
+  {
+    "lemma": "עָלֶה",
+    "lemma_norm": "עלה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עָלֶה-ʿāleh.md"
+  },
+  {
+    "lemma": "עוֹלָה",
+    "lemma_norm": "עולה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עוֹלָה-ʿôlâ-עֹלָה-ʿōlâ.md"
+  },
+  {
+    "lemma": "עָרַץ",
+    "lemma_norm": "ערצ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עָרַץ-ʿāraṣ-עָרִיץ-ʿārı̂ṣ-מַעֲרָצָה-maʿᵃrāṣâ-עָרוּץ-ʿārûṣ.md"
+  },
+  {
+    "lemma": "עָטַר",
+    "lemma_norm": "עטר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עָטַר-ʿāṭar-עֲטָרָה-ʿᵃṭārâ.md"
+  },
+  {
+    "lemma": "עָוֹן",
+    "lemma_norm": "עונ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עָוֹן-ʿāwōn-עָוָה-ʿāwâ-עַוָּה-ʿawwâ-עִוְעִים-ʿiwʿı̂m-עִי-ʿı̂-מְעִי-mᵉʿı̂-aram.-עֲוָיָה-ʿᵃwāyâ.md"
+  },
+  {
+    "lemma": "עָלַץ",
+    "lemma_norm": "עלצ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עָלַץ-ʿālaṣ-עָלַז-ʿālaz.md"
+  },
+  {
+    "lemma": "ערב",
+    "lemma_norm": "ערב",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/ערב-iiiii-ʿrb-iiiii-עֵרֶב-i-ʿēreḇ-i-עֵרֶב-ii-ʿēreḇ-ii-עָרֹב-ʿārōḇ-עָרֵב-ʿārēḇ.md"
+  },
+  {
+    "lemma": "עָנָן",
+    "lemma_norm": "עננ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עָנָן-ʿānān.md"
+  },
+  {
+    "lemma": "עָב",
+    "lemma_norm": "עב",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עָב-ʿāḇ.md"
+  },
+  {
+    "lemma": "עשׁתרת",
+    "lemma_norm": "עשתרת",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עשׁתרת-ʿštrt-ʿaštōreṯ-עַשְׁתֶּרֶת-ʿaštereṯ-עַשְׁתָּרֹת-ʿaštārōt-עַשְׁתְּרָתִי-ʿaštᵉrāṯı̂.md"
+  },
+  {
+    "lemma": "עול",
+    "lemma_norm": "עול",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עול-ʿwl-עוּל-ʿûl-עֲוִיל-ʿᵃwı̂l-עוֹּלָלעוֹלֵל-ʿôlēlʿôlāl.md"
+  },
+  {
+    "lemma": "עֵנָב",
+    "lemma_norm": "ענב",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עֵנָב-ʿēnāḇ-אֶשְׁכּוֹל-ʾeškôl-צִמּוּקִים-ṣimmûqı̂m.md"
+  },
+  {
+    "lemma": "עֵשֶׂב",
+    "lemma_norm": "עשב",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עֵשֶׂב-ʿēśeḇ.md"
+  },
+  {
+    "lemma": "עָבַד",
+    "lemma_norm": "עבד",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עָבַד-ʿāḇaḏ-עֶבֶד-ʿeḇeḏ-עֲבֹדָה-ᵃḇōḏâ.md"
+  },
+  {
+    "lemma": "עָרַם",
+    "lemma_norm": "ערמ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עָרַם-ʿāram-עָרוּם-ʿārûm-עָרְמָה-ʿormâ.md"
+  },
+  {
+    "lemma": "עַלְמָה",
+    "lemma_norm": "עלמה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עַלְמָה-ʿalmâ-עֶלֶם-ʿelem.md"
+  },
+  {
+    "lemma": "עֶרֶב",
+    "lemma_norm": "ערב",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עֶרֶב-ʿereḇ-עָרַב-ʿāraḇ-מַעֲרָב-maʿᵃrāḇ.md"
+  },
+  {
+    "lemma": "עֶלְיוֹן",
+    "lemma_norm": "עליונ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עֶלְיוֹן-ʿelyôn.md"
+  },
+  {
+    "lemma": "עֵץ",
+    "lemma_norm": "עצ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עֵץ-ʿēṣ.md"
+  },
+  {
+    "lemma": "עָבַט",
+    "lemma_norm": "עבט",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עָבַט-ʿāḇaṭ-עֲבוֹט-ʿᵃḇôṭ-עַבְטִיט-ʿaḇṭı̂ṭ.md"
+  },
+  {
+    "lemma": "עָמַד",
+    "lemma_norm": "עמד",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עָמַד-ʿāmaḏ-עֹמֶד-ʿōmeḏ-עֶמְדָּה-ʿemdâ-מַעֲמָד-maʿᵃmāḏ-מָעֳמָד-moʿᵒmāḏ.md"
+  },
+  {
+    "lemma": "עָרַך",
+    "lemma_norm": "ערכ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ע/עָרַך-ʿāraḵ-עֶרֶך-ʿēreḵ-מַעֲרֶכֶתמַעֲרָכָה-maʿᵃrāḵâmaʿᵃreḵeṯ.md"
+  },
+  {
+    "lemma": "כחד",
+    "lemma_norm": "כחד",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎כ/כחד-kḥd.md"
+  },
+  {
+    "lemma": "כֹּל",
+    "lemma_norm": "כל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎כ/כֹּל-kōl.md"
+  },
+  {
+    "lemma": "כָּסָה",
+    "lemma_norm": "כסה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎כ/כָּסָה-kāsâ-כָּסוּי-kāsûy-כְּסוּת-kᵉsûṯ-מִכְסֶה-miḵseh-מְכַסֶּה-mᵉḵasseh.md"
+  },
+  {
+    "lemma": "כֹּהֵן",
+    "lemma_norm": "כהנ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎כ/כֹּהֵן-kōhēn.md"
+  },
+  {
+    "lemma": "כֶּסֶף",
+    "lemma_norm": "כספ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎כ/כֶּסֶף-kesep̱.md"
+  },
+  {
+    "lemma": "כָּלָא",
+    "lemma_norm": "כלא",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎כ/כָּלָא-kālāʾ-כֶּלֶא-keleʾ-כְּלִיא-kᵉlı̂ʾ-מִכְלָה-miḵlâ.md"
+  },
+  {
+    "lemma": "כּוֹכָב",
+    "lemma_norm": "כוכב",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎כ/כּוֹכָב-kôḵāḇ.md"
+  },
+  {
+    "lemma": "כנה",
+    "lemma_norm": "כנה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎כ/כנה-knh.md"
+  },
+  {
+    "lemma": "כֶּרֶם",
+    "lemma_norm": "כרמ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎כ/כֶּרֶם-kerem-כֹּרֵם-kōrem-כַּרְמֶל-karmel.md"
+  },
+  {
+    "lemma": "כְּנַעַן",
+    "lemma_norm": "כנענ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎כ/כְּנַעַן-kᵉnaʿan-כְּנַעֲנִי-kᵉnaʿᵃnı̂.md"
+  },
+  {
+    "lemma": "כָּתֵף",
+    "lemma_norm": "כתפ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎כ/כָּתֵף-kāṯēp̱.md"
+  },
+  {
+    "lemma": "כאב",
+    "lemma_norm": "כאב",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎כ/כאב-kʾb-כְּאֵב-kᵉʾēḇ-מַכְאֹב-maḵʾōḇ.md"
+  },
+  {
+    "lemma": "כָּחַשׁ",
+    "lemma_norm": "כחש",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎כ/כָּחַשׁ-kāḥaš-כַּחַשׁ-kaḥaš-כֶּחָשׁ-keḥāš.md"
+  },
+  {
+    "lemma": "כָּרַת",
+    "lemma_norm": "כרת",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎כ/כָּרַת-kāraṯ-כְּרֻתוֹת-kᵉruṯôṯ-כְּרִיתֻת-kᵉrı̂ṯuṯ.md"
+  },
+  {
+    "lemma": "כַּלָּה",
+    "lemma_norm": "כלה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎כ/כַּלָּה-kallâ.md"
+  },
+  {
+    "lemma": "כָּרַע",
+    "lemma_norm": "כרע",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎כ/כָּרַע-kāraʿ.md"
+  },
+  {
+    "lemma": "כול",
+    "lemma_norm": "כול",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎כ/כול-kwl.md"
+  },
+  {
+    "lemma": "כָּתַב",
+    "lemma_norm": "כתב",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎כ/כָּתַב-kāṯaḇ-כְּתָב-kᵉṯāḇ-מִכְתָּב-miḵtāḇ-כְּתֹבֶת-kᵉṯōḇeṯ.md"
+  },
+  {
+    "lemma": "כְּ",
+    "lemma_norm": "כ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎כ/כְּ-kᵉ-כְּמוֹ-kᵉmô-כַּאֲשֶׁר-kaʾᵃšer.md"
+  },
+  {
+    "lemma": "כּוֹס",
+    "lemma_norm": "כוס",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎כ/כּוֹס-kôs.md"
+  },
+  {
+    "lemma": "כָּנָף",
+    "lemma_norm": "כנפ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎כ/כָּנָף-kānāp̱.md"
+  },
+  {
+    "lemma": "כָּשֵׁר",
+    "lemma_norm": "כשר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎כ/כָּשֵׁר-kāšēr-כִּשְׁרוֹן-kišrôn.md"
+  },
+  {
+    "lemma": "כֻּתֹּנֶת",
+    "lemma_norm": "כתנת",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎כ/כֻּתֹּנֶת-kuttōneṯ.md"
+  },
+  {
+    "lemma": "כסל",
+    "lemma_norm": "כסל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎כ/כסל-ksl-כְּסִיל-kᵉsı̂l-כְּסִילוּת-kᵉsı̂lûṯ-כֶּסֶל-kesel-כִּסְלָה-kislâ.md"
+  },
+  {
+    "lemma": "כָּעַס",
+    "lemma_norm": "כעס",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎כ/כָּעַס-kāʿas-כַּעַס-kaʿas.md"
+  },
+  {
+    "lemma": "כָּרָה",
+    "lemma_norm": "כרה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎כ/כָּרָה-kārâ-כֵּרָה-kērâ-כְּרִית-kᵉrı̂ṯ-מִכְרֶה-miḵreh.md"
+  },
+  {
+    "lemma": "כַּרְמֶל",
+    "lemma_norm": "כרמל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎כ/כַּרְמֶל-karmel.md"
+  },
+  {
+    "lemma": "כָּבֵד",
+    "lemma_norm": "כבד",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎כ/כָּבֵד-kāḇēḏ-i-כָּבֵד-kāḇēḏ-ii-כֹּבֶד-kōḇeḏ-כְּבוּדָּה-kᵉḇûddâ-כְּבֵדֻת-kᵉḇēḏuṯ.md"
+  },
+  {
+    "lemma": "כַּף",
+    "lemma_norm": "כפ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎כ/כַּף-יָד.md"
+  },
+  {
+    "lemma": "כֶּבֶשׂ",
+    "lemma_norm": "כבש",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎כ/כֶּבֶשׂ-keḇeś-כֶּשֶׂב-keśeḇ-כִּבְשָׂה-kiḇśâ-כִּשְׂבָה-kiśbâ-שֶׂה-śeh.md"
+  },
+  {
+    "lemma": "כְּלָיוֹת",
+    "lemma_norm": "כליות",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎כ/כְּלָיוֹת-kᵉlāyôt.md"
+  },
+  {
+    "lemma": "כָּבַשׁ",
+    "lemma_norm": "כבש",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎כ/כָּבַשׁ-kāḇaš-כֶּבֶשׁ-keḇeš-כִּבְשָׁן-kiḇšān.md"
+  },
+  {
+    "lemma": "כָּבוֹד",
+    "lemma_norm": "כבוד",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎כ/כָּבוֹד-kāḇôḏ.md"
+  },
+  {
+    "lemma": "כתת",
+    "lemma_norm": "כתת",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎כ/כתת-ktt-כָּתִית-kāṯı̂ṯ.md"
+  },
+  {
+    "lemma": "כִּסֵּא",
+    "lemma_norm": "כסא",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎כ/כִּסֵּא-kissēʾ.md"
+  },
+  {
+    "lemma": "INDEX",
+    "lemma_norm": "INDEX",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎כ/INDEX.md"
+  },
+  {
+    "lemma": "כְּלִי",
+    "lemma_norm": "כלי",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎כ/כְּלִי-kᵉlı̂.md"
+  },
+  {
+    "lemma": "כָּשַׁל",
+    "lemma_norm": "כשל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎כ/כָּשַׁל-kāšal-מִכְשׁוֹל-miḵšôl-כִּשָּׁלוֹן-kiššālôn-מַכְשֵׁלָה-maḵšelâ.md"
+  },
+  {
+    "lemma": "כָּהָה",
+    "lemma_norm": "כהה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎כ/כָּהָה-kāhâ-כֵּהֶה-kēheh-כֵּהָה-kēhâ.md"
+  },
+  {
+    "lemma": "כָּלִיל",
+    "lemma_norm": "כליל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎כ/כָּלִיל-kālı̂l.md"
+  },
+  {
+    "lemma": "כָּבָה",
+    "lemma_norm": "כבה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎כ/כָּבָה-kāḇâ.md"
+  },
+  {
+    "lemma": "כִּנּוֹר",
+    "lemma_norm": "כנור",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎כ/כִּנּוֹר-kinnôr.md"
+  },
+  {
+    "lemma": "כנע",
+    "lemma_norm": "כנע",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎כ/כנע-knʿ.md"
+  },
+  {
+    "lemma": "כִּפֶּר",
+    "lemma_norm": "כפר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎כ/כִּפֶּר-kipper-כַּפֹּרֶת-kappōreṯ-כֹּפֶר-kōp̱er-כִּפֻּרִים-kippurı̂m.md"
+  },
+  {
+    "lemma": "כֹּחַ",
+    "lemma_norm": "כח",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎כ/כֹּחַ-kōaḥ.md"
+  },
+  {
+    "lemma": "כְּרוּב",
+    "lemma_norm": "כרוב",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎כ/כְּרוּב-kᵉrûḇ.md"
+  },
+  {
+    "lemma": "כָּבַס",
+    "lemma_norm": "כבס",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎כ/כָּבַס-kāḇas.md"
+  },
+  {
+    "lemma": "כלם",
+    "lemma_norm": "כלמ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎כ/כלם-klm-כְּלִמָּה-kᵉlimmâ-כְּלִמּוּת-kᵉlimmûṯ.md"
+  },
+  {
+    "lemma": "כֵּן",
+    "lemma_norm": "כנ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎כ/כֵּן-kēn-כּוּן-kûn.md"
+  },
+  {
+    "lemma": "כּוּן",
+    "lemma_norm": "כונ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎כ/כּוּן-kûn-כֵּן-kēn-מָכוֹן-māḵôn-מְכוֹנָה-mᵉḵônâ-תְּכוּנָה-tᵉḵûnâ.md"
+  },
+  {
+    "lemma": "כָּלָה",
+    "lemma_norm": "כלה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎כ/כָּלָה-kālâ.md"
+  },
+  {
+    "lemma": "כֶּלֶב",
+    "lemma_norm": "כלב",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎כ/כֶּלֶב-keleḇ.md"
+  },
+  {
+    "lemma": "לָקַח",
+    "lemma_norm": "לקח",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ל/לָקַח-lāqaḥ-לֶקַח-leqaḥ.md"
+  },
+  {
+    "lemma": "לָעַג",
+    "lemma_norm": "לעג",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ל/לָעַג-lāʿag̱-לַעַג-laʿag̱-לָעֵג-lāʿēg̱.md"
+  },
+  {
+    "lemma": "לוּן",
+    "lemma_norm": "לונ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ל/לוּן-lûn-תְּלֻנּוֹת-tᵉlunnôṯ.md"
+  },
+  {
+    "lemma": "לָקַט",
+    "lemma_norm": "לקט",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ל/לָקַט-lāqaṭ.md"
+  },
+  {
+    "lemma": "לִשְׁכָּה",
+    "lemma_norm": "לשכה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ל/לִשְׁכָּה-liškâ.md"
+  },
+  {
+    "lemma": "לֵוִי",
+    "lemma_norm": "לוי",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ל/לֵוִי-lēwı̂-לְוִיִּם-lᵉwı̂yı̂m.md"
+  },
+  {
+    "lemma": "לָחַץ",
+    "lemma_norm": "לחצ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ל/לָחַץ-lāḥaṣ-לַחַץ-laḥaṣ.md"
+  },
+  {
+    "lemma": "לָהַט",
+    "lemma_norm": "להט",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ל/לָהַט-lāhaṭ-לַהַט-lahaṭ.md"
+  },
+  {
+    "lemma": "לוּז",
+    "lemma_norm": "לוז",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ל/לוּז-lûz-לָזוּת-lāzûṯ.md"
+  },
+  {
+    "lemma": "לבן",
+    "lemma_norm": "לבנ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ל/לבן-lbn-לְבֵנָה-lᵉḇēnâ-לָבָן-lāḇān-לְבָנָה-lᵉḇānâ.md"
+  },
+  {
+    "lemma": "לְבֹנָה",
+    "lemma_norm": "לבנה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ל/לְבֹנָה-lᵉḇōnâ.md"
+  },
+  {
+    "lemma": "ליץ",
+    "lemma_norm": "ליצ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ל/ליץ-lyṣ-לִיץ-lı̂ṣ-לֵץ-lēṣ-לָצוֹן-lāṣôn-מֵלִיץ-mēlı̂ṣ.md"
+  },
+  {
+    "lemma": "לִוְיָתָן",
+    "lemma_norm": "לויתנ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ל/לִוְיָתָן-liwyāṯān.md"
+  },
+  {
+    "lemma": "לָשׁוֹן",
+    "lemma_norm": "לשונ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ל/לָשׁוֹן-lāšôn.md"
+  },
+  {
+    "lemma": "לֶחֶם",
+    "lemma_norm": "לחמ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ל/לֶחֶם-leḥem.md"
+  },
+  {
+    "lemma": "לָוָה",
+    "lemma_norm": "לוה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ל/לָוָה-ii-lāwâ-ii.md"
+  },
+  {
+    "lemma": "לִין",
+    "lemma_norm": "לינ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ל/לִין-lı̂n-מָלוֹן-mālôn-מְלוּנָה-mᵉlûnâ.md"
+  },
+  {
+    "lemma": "לוּחַ",
+    "lemma_norm": "לוח",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ל/לוּחַ-lûaḥ.md"
+  },
+  {
+    "lemma": "לָבֵשׁ",
+    "lemma_norm": "לבש",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ל/לָבֵשׁ-lāḇēš.md"
+  },
+  {
+    "lemma": "לַיִללַיְלָה",
+    "lemma_norm": "ליללילה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ל/לַיִללַיְלָה-layillaylâ.md"
+  },
+  {
+    "lemma": "INDEX",
+    "lemma_norm": "INDEX",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ל/INDEX.md"
+  },
+  {
+    "lemma": "לחם",
+    "lemma_norm": "לחמ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ל/לחם-lḥm-מִלְחָמָה-milḥāmâ.md"
+  },
+  {
+    "lemma": "לֵב",
+    "lemma_norm": "לב",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ל/לֵב-lēḇ-לֵבָב-lēḇāḇ.md"
+  },
+  {
+    "lemma": "לָאָה",
+    "lemma_norm": "לאה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ל/לָאָה-lāʾâ.md"
+  },
+  {
+    "lemma": "לְחִי",
+    "lemma_norm": "לחי",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ל/לְחִי-lᵉḥı̂.md"
+  },
+  {
+    "lemma": "לָוָה",
+    "lemma_norm": "לוה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ל/לָוָה-lāwâ-i.md"
+  },
+  {
+    "lemma": "לָחַךְ",
+    "lemma_norm": "לחכ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ל/לָחַךְ-lāḥaḵ.md"
+  },
+  {
+    "lemma": "לָכַד",
+    "lemma_norm": "לכד",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ל/לָכַד-lāḵaḏ-לֶכֶד-leḵeḏ-מַלְכֹּדֶת-malkōḏeṯ.md"
+  },
+  {
+    "lemma": "לְאֹם",
+    "lemma_norm": "לאמ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ל/לְאֹם-lᵉʾōm.md"
+  },
+  {
+    "lemma": "לַהַב",
+    "lemma_norm": "להב",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ל/לַהַב-lahaḇ-לֶהָבָה-lehāḇâ-שַׁלְהֶבֶת-šalheḇeṯ.md"
+  },
+  {
+    "lemma": "לַעֲנָה",
+    "lemma_norm": "לענה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ל/לַעֲנָה-laʿᵃnâ.md"
+  },
+  {
+    "lemma": "לְבָנוֹן",
+    "lemma_norm": "לבנונ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ל/לְבָנוֹן-lᵉḇānôn.md"
+  },
+  {
+    "lemma": "לַח",
+    "lemma_norm": "לח",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ל/לַח-laḥ-לֵחַ-lēaḥ.md"
+  },
+  {
+    "lemma": "לָמַד",
+    "lemma_norm": "למד",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ל/לָמַד-lāmaḏ-לִמּוּד-limmûḏ-מַלְמָד-malmāḏ-תַּלְמִיד-talmı̂ḏ.md"
+  },
+  {
+    "lemma": "שָׂרַף",
+    "lemma_norm": "שרפ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/שׂ/שָׂרַף-śārap̱-שָׂרָף-śārāp̱-שְׂרֵפָה-śᵉrēp̱â-מִשְׂרָפוֹת-miśrāp̱ôṯ.md"
+  },
+  {
+    "lemma": "שָׂדֶה",
+    "lemma_norm": "שדה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/שׂ/שָׂדֶה-śāḏeh-שָׂדַי-śāḏay.md"
+  },
+  {
+    "lemma": "שָׂרִיד",
+    "lemma_norm": "שריד",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/שׂ/שָׂרִיד-śārı̂ḏ.md"
+  },
+  {
+    "lemma": "שָׂכַר",
+    "lemma_norm": "שכר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/שׂ/שָׂכַר-śāḵar-שָׂכִיר-śāḵı̂r-שֶׂכֶר-śeḵer-שָׂכָ-śāḵār-מַשְׂכֹּרֶת-maśkōreṯ-אֶשְׁכָּר-ʾeškār.md"
+  },
+  {
+    "lemma": "שָׂמַח",
+    "lemma_norm": "שמח",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/שׂ/שָׂמַח-śāmaḥ-שָׂמֵחַ-śāmēaḥ-שִׂמְחָה-śimḥāh.md"
+  },
+  {
+    "lemma": "שֵׂיבָה",
+    "lemma_norm": "שיבה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/שׂ/שֵׂיבָה-śêḇâ-שִׂיב-śı̂ḇ-שַׂיב-śêḇ.md"
+  },
+  {
+    "lemma": "שָׂבַע",
+    "lemma_norm": "שבע",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/שׂ/שָׂבַע-śāḇaʿ-שָׂבֵעַ-śāḇēaʿ-שָׂבָע-śāḇāʿ-שׂבַע-śōḇaʿ-שִׂבְעָהשָׂבְעָה-śoḇʿâśiḇʿâ.md"
+  },
+  {
+    "lemma": "שׂיח",
+    "lemma_norm": "שיח",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/שׂ/שׂיח-śyḥ-שִׂיחָה-śı̂ḥâ.md"
+  },
+  {
+    "lemma": "שׂישׂשׂושׂ",
+    "lemma_norm": "שיששוש",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/שׂ/שׂישׂשׂושׂ-śwśśyś-מָשׂוֹשׂ-māśôś-שָׂשׂוֹנ-śāśôn.md"
+  },
+  {
+    "lemma": "שָׂבַרśāḇar",
+    "lemma_norm": "שברsabar",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/שׂ/שָׂבַרśāḇar-שֵׂבֶר-śēḇer.md"
+  },
+  {
+    "lemma": "שָׂכַל",
+    "lemma_norm": "שכל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/שׂ/שָׂכַל-śāḵal-שֵׂכֶל-śēḵel-מַשְׂכִּיל-maśkı̂l.md"
+  },
+  {
+    "lemma": "שִׂים",
+    "lemma_norm": "שימ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/שׂ/שִׂים-śı̂m-תְּשׂוּמָה-tᵉśûmâ.md"
+  },
+  {
+    "lemma": "שְׂלָו",
+    "lemma_norm": "שלו",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/שׂ/שְׂלָו-śᵉlāw.md"
+  },
+  {
+    "lemma": "INDEX",
+    "lemma_norm": "INDEX",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/שׂ/INDEX.md"
+  },
+  {
+    "lemma": "שַׂק",
+    "lemma_norm": "שק",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/שׂ/שַׂק-śaq.md"
+  },
+  {
+    "lemma": "שַׂר",
+    "lemma_norm": "שר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/שׂ/שַׂר-śar-שָׂרַר-śārar-מִשְׂרָה-miśrâ.md"
+  },
+  {
+    "lemma": "שְׂמֹאל",
+    "lemma_norm": "שמאל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/שׂ/שְׂמֹאל-śᵉmōʾl-הִשְׂמִיל-hiśmı̂l-שְׂמָאלִי-śᵉmāʾlı̂.md"
+  },
+  {
+    "lemma": "שֶׂה",
+    "lemma_norm": "שה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/שׂ/שֶׂה-śeh.md"
+  },
+  {
+    "lemma": "שָׂטָן",
+    "lemma_norm": "שטנ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/שׂ/שָׂטָן-śāṭān-שַׂטַן-śāṭam-שָׂטַם-śāṭan..md"
+  },
+  {
+    "lemma": "שָׂגַב",
+    "lemma_norm": "שגב",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/שׂ/שָׂגַב-śāg̱aḇ-מִשְׂגָב-miśgāḇ.md"
+  },
+  {
+    "lemma": "שָׂנֵא",
+    "lemma_norm": "שנא",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/שׂ/שָׂנֵא-śānēʾ-שׂנֵא-śōnēʾ-מְשַׂנֵּא-mᵉśannēʾ-שִׂנְאָה-śinʾâ.md"
+  },
+  {
+    "lemma": "שָׂפָה",
+    "lemma_norm": "שפה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/שׂ/שָׂפָה-śāp̱â.md"
+  },
+  {
+    "lemma": "שִׂמְלָה",
+    "lemma_norm": "שמלה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/שׂ/שִׂמְלָה-śimlâ-שַׂלְמָה-śalmâ.md"
+  },
+  {
+    "lemma": "דָּם",
+    "lemma_norm": "דמ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ד/דָּם-dām.md"
+  },
+  {
+    "lemma": "דָּרַשׁ",
+    "lemma_norm": "דרש",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ד/דָּרַשׁ-dārash-מִדְרָשׁ-midhrāsh.md"
+  },
+  {
+    "lemma": "דָּמָה",
+    "lemma_norm": "דמה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ד/דָּמָה-dāmāh-דְּמוּת-dᵉmûth.md"
+  },
+  {
+    "lemma": "דְּבַשׁ",
+    "lemma_norm": "דבש",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ד/דְּבַשׁ-dᵉbhash.md"
+  },
+  {
+    "lemma": "דִּבָּה",
+    "lemma_norm": "דבה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ד/דִּבָּה-dibbāh-זְבוּב-zᵉbhûbh.md"
+  },
+  {
+    "lemma": "דָּבַר",
+    "lemma_norm": "דבר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ד/דָּבַר-dābhar-דָּבָר-dābhār.md"
+  },
+  {
+    "lemma": "דּוֹר",
+    "lemma_norm": "דור",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ד/דּוֹר-dôr.md"
+  },
+  {
+    "lemma": "דְּמְעָה",
+    "lemma_norm": "דמעה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ד/דְּמְעָה-dimʿāh-בכה-bākhāh.md"
+  },
+  {
+    "lemma": "דֶּלֶת",
+    "lemma_norm": "דלת",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ד/דֶּלֶת-deleth-דַּל-dal.md"
+  },
+  {
+    "lemma": "דֶּבֶר",
+    "lemma_norm": "דבר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ד/דֶּבֶר-debher.md"
+  },
+  {
+    "lemma": "דַּל",
+    "lemma_norm": "דל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ד/דַּל-dal-דָּלַל-dālal-דַּלָּה-dallāh-זָלַל-zālal.md"
+  },
+  {
+    "lemma": "דָּשַׁן",
+    "lemma_norm": "דשנ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ד/דָּשַׁן-dāshan-דֶּשֶׁן-deshen-דָּשֵׁן-dāshēn.md"
+  },
+  {
+    "lemma": "דָּוִד",
+    "lemma_norm": "דוד",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ד/דָּוִד-dāvidh-דָּוִיד-dāvı̂dh.md"
+  },
+  {
+    "lemma": "דָּבַק",
+    "lemma_norm": "דבק",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ד/דָּבַק-dābhaq-דֶּבֶק-debheq-דָּבֵק-dābhēq.md"
+  },
+  {
+    "lemma": "INDEX",
+    "lemma_norm": "INDEX",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ד/INDEX.md"
+  },
+  {
+    "lemma": "דִּין",
+    "lemma_norm": "דינ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ד/דִּין-dı̂n.md"
+  },
+  {
+    "lemma": "דְּבִיר",
+    "lemma_norm": "דביר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ד/דְּבִיר-dᵉbhı̂r-היכל-hêkhāl.md"
+  },
+  {
+    "lemma": "דּוֹד",
+    "lemma_norm": "דוד",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ד/דּוֹד-dôdh.md"
+  },
+  {
+    "lemma": "דָּגָן",
+    "lemma_norm": "דגנ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ד/דָּגָן-dāghān-דָּגוֹן-dāghôn.md"
+  },
+  {
+    "lemma": "דְּרוֹר",
+    "lemma_norm": "דרור",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ד/דְּרוֹר-dᵉrôr.md"
+  },
+  {
+    "lemma": "דָּכָא",
+    "lemma_norm": "דכא",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ד/דָּכָא-dākhāʾ-דָּכָה-dākhāh-דּוֹךְ-dôkh-דַּךְ-dakh-דקק-dqq-דַּק-daq.md"
+  },
+  {
+    "lemma": "דָּג",
+    "lemma_norm": "דג",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ד/דָּג-dāgh-דָּגָה-dāghāh.md"
+  },
+  {
+    "lemma": "דֶּשֶׁא",
+    "lemma_norm": "דשא",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ד/דֶּשֶׁא-desheʾ.md"
+  },
+  {
+    "lemma": "דּוּשׁ",
+    "lemma_norm": "דוש",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ד/דּוּשׁ-dûsh-דַּיִשׁ-dayish-מְדֻשָׁה-mᵉdhushāh.md"
+  },
+  {
+    "lemma": "דֹּב",
+    "lemma_norm": "דב",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ד/דֹּב-dōbh.md"
+  },
+  {
+    "lemma": "הֲדֹם",
+    "lemma_norm": "הדמ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ה/הֲדֹם-hᵃdhōm.md"
+  },
+  {
+    "lemma": "הלל",
+    "lemma_norm": "הלל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ה/הלל-hll-i-and-ii-הִלּוּלִים-hillûlı̂m-תְּהִלָּה-tᵉhillāh.md"
+  },
+  {
+    "lemma": "הָגָה",
+    "lemma_norm": "הגה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ה/הָגָה-hāghāh-הֶגֶה-hegheh-הָגוּת-hāghûth-הִגָּיוֹן-higgāyôn.md"
+  },
+  {
+    "lemma": "הַוָּה",
+    "lemma_norm": "הוה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ה/הַוָּה-havvāh-הוָֹה-hōvāh.md"
+  },
+  {
+    "lemma": "הֶבֶל",
+    "lemma_norm": "הבל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ה/הֶבֶל-hebhel-הָבַל-hābhal.md"
+  },
+  {
+    "lemma": "הָלַךְ",
+    "lemma_norm": "הלכ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ה/הָלַךְ-hālakh.md"
+  },
+  {
+    "lemma": "הלל",
+    "lemma_norm": "הלל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ה/הלל-hll-iii-הוֹלֵל-hôlēl-הוֹלֵלוֹת-hôlēlôth-הוֹלֵלוּת-hôlēlûth-תָּֽהֳלָה-tohᵒlāh.md"
+  },
+  {
+    "lemma": "הוֹן",
+    "lemma_norm": "הונ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ה/הוֹן-hôn.md"
+  },
+  {
+    "lemma": "המם",
+    "lemma_norm": "הממ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ה/המם-hmm-הום-hwm-מְהוּמָה-mᵉhûmāh.md"
+  },
+  {
+    "lemma": "הָרַס",
+    "lemma_norm": "הרס",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ה/הָרַס-hāras-הֶרֶס-heres-הֲרִיסוּת-hᵃrı̂sûth-הֲרִיסָה-hᵃrı̂sāh.md"
+  },
+  {
+    "lemma": "הוֹי",
+    "lemma_norm": "הוי",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ה/הוֹי-hôy.md"
+  },
+  {
+    "lemma": "הָמָה",
+    "lemma_norm": "המה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ה/הָמָה-hāmāh-הָמוֹן-hāmôn-הֶמְיָה-hemyāh-הֲמוּלָּה-hᵃmûllāh.md"
+  },
+  {
+    "lemma": "הוּא",
+    "lemma_norm": "הוא",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ה/הוּא-hûʾ-אֲנִי-ʾᵃnı̂-אָנֹכִי-ʾānōkhı̂.md"
+  },
+  {
+    "lemma": "INDEX",
+    "lemma_norm": "INDEX",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ה/INDEX.md"
+  },
+  {
+    "lemma": "הָרָה",
+    "lemma_norm": "הרה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ה/הָרָה-hārāh-הָרֶה-hāreh-הֵרָיוֹן-hērāyôn-הֵרֹן-hērōn.md"
+  },
+  {
+    "lemma": "חַר",
+    "lemma_norm": "חר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ה/חַר-har-גִּבְעָה-gibhʿāh.md"
+  },
+  {
+    "lemma": "הוֹד",
+    "lemma_norm": "הוד",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ה/הוֹד-hôdh.md"
+  },
+  {
+    "lemma": "הֵיכָל",
+    "lemma_norm": "היכל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ה/הֵיכָל-hêkhāl.md"
+  },
+  {
+    "lemma": "הָיָה",
+    "lemma_norm": "היה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ה/הָיָה-hāyāh.md"
+  },
+  {
+    "lemma": "הָרַג",
+    "lemma_norm": "הרג",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ה/הָרַג-hāragh-הֶרֶג-heregh-הֲרֵגָה-hᵃrēghāh.md"
+  },
+  {
+    "lemma": "חָפַךְ",
+    "lemma_norm": "חפכ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ה/חָפַךְ-hāphakh-הֲפֵכָה-hᵃphēkhāh-מַהְפֵּכָה-mahpēkhāh.md"
+  },
+  {
+    "lemma": "הֲלִיכָה",
+    "lemma_norm": "הליכה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ה/הֲלִיכָה-hᵃlı̂khāh-דרך-derekh.md"
+  },
+  {
+    "lemma": "הָדָר",
+    "lemma_norm": "הדר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ה/הָדָר-hādhār.md"
+  },
+  {
+    "lemma": "רוּחַ",
+    "lemma_norm": "רוח",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ר/רוּחַ-rûaḥ.md"
+  },
+  {
+    "lemma": "רָצַח",
+    "lemma_norm": "רצח",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ר/רָצַח-rāṣaḥ.md"
+  },
+  {
+    "lemma": "רֹאשׁ",
+    "lemma_norm": "ראש",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ר/רֹאשׁ-ii-rōʾš-ii.md"
+  },
+  {
+    "lemma": "רִמּוֹן",
+    "lemma_norm": "רמונ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ר/רִמּוֹן-rimmôn.md"
+  },
+  {
+    "lemma": "רָאָה",
+    "lemma_norm": "ראה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ר/רָאָה-rāʾâ-רֹאֶה-rōʾeh-i-and-ii-רְאִי-rᵉʾı̂-רְאוּת-rᵉʾûṯ-מַרְאֶה-marʾeh-מַרְאָה-marʾâ.md"
+  },
+  {
+    "lemma": "רָפָה",
+    "lemma_norm": "רפה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ר/רָפָה-rāp̱â-רָפֶה-rāp̱eh-רִפָּיוֹן-rippāyôn.md"
+  },
+  {
+    "lemma": "רָעֵב",
+    "lemma_norm": "רעב",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ר/רָעֵב-rāʿēḇ-רָעָב-rāʿāḇ-רְעָבוֹן-rᵉʿāḇôn.md"
+  },
+  {
+    "lemma": "רוּם",
+    "lemma_norm": "רומ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ר/רוּם-rûm-מָרוֹם-mārôm.md"
+  },
+  {
+    "lemma": "רָצָה",
+    "lemma_norm": "רצה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ר/רָצָה-rāṣâ-רָצוֹן-rāṣôn.md"
+  },
+  {
+    "lemma": "רעע",
+    "lemma_norm": "רעע",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ר/רעע-rʿʿ-רַע-raʿ-רֹעַ-rōaʿ-רָעָה-rāʿâ-מֵרַע-mēraʿ.md"
+  },
+  {
+    "lemma": "רְאֵם",
+    "lemma_norm": "ראמ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ר/רְאֵם-rᵉʾēm-רֵים-rêm-רְאֵים-rᵉʾêm.md"
+  },
+  {
+    "lemma": "רֶגֶל",
+    "lemma_norm": "רגל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ר/רֶגֶל-reg̱el-רָגַל-rāg̱al-מַרְגְּלוֹת-margᵉlôṯ-רַגְלִי-rag̱lı̂-רְגָלִים-rᵉg̱ālı̂m.md"
+  },
+  {
+    "lemma": "רֵיחַ",
+    "lemma_norm": "ריח",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ר/רֵיחַ-rêaḥ-רוח-rwḥ.md"
+  },
+  {
+    "lemma": "רִאשׁוֹן",
+    "lemma_norm": "ראשונ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ר/רִאשׁוֹן-riʾšôn.md"
+  },
+  {
+    "lemma": "ריק",
+    "lemma_norm": "ריק",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ר/ריק-ryq-רֵק-rēq-רֵיקָם-rêqām.md"
+  },
+  {
+    "lemma": "רָקַד",
+    "lemma_norm": "רקד",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ר/רָקַד-rāqaḏ.md"
+  },
+  {
+    "lemma": "רחם",
+    "lemma_norm": "רחמ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ר/רחם-rḥm-רַחֲמִים-raḥᵃmı̂m-רַחוּם-raḥûm-רַחֲמָנִי-raḥᵃmānı̂.md"
+  },
+  {
+    "lemma": "רמה",
+    "lemma_norm": "רמה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ר/רמה-rmh-מִרְמָה-mirmâ-רְמִיָּה-rᵉmı̂yâ-תַּרְמִית-tarmı̂ṯ.md"
+  },
+  {
+    "lemma": "רָוָה",
+    "lemma_norm": "רוה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ר/רָוָה-rāwâ-רָוֶה-rāweh-רְוָיָה-rᵉwāyâ-רִי-rî-יוֹרֶה-yôreh.md"
+  },
+  {
+    "lemma": "רַעֲנָן",
+    "lemma_norm": "רעננ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ר/רַעֲנָן-raʿᵃnān-רען-rʿn.md"
+  },
+  {
+    "lemma": "רָמַשׂ",
+    "lemma_norm": "רמש",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ר/רָמַשׂ-rāmaś-רֶמֶשׂ-remeś.md"
+  },
+  {
+    "lemma": "רָכַךְ",
+    "lemma_norm": "רככ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ר/רָכַךְ-rāḵaḵ-רַךְ-raḵ-רֹךְ-rōḵ-מֹרֶךְ-mōreḵ.md"
+  },
+  {
+    "lemma": "רָפָא",
+    "lemma_norm": "רפא",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ר/רָפָא-rāp̱āʾ.md"
+  },
+  {
+    "lemma": "רֶשֶׁף",
+    "lemma_norm": "רשפ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ר/רֶשֶׁף-rešep̱.md"
+  },
+  {
+    "lemma": "רָהַב",
+    "lemma_norm": "רהב",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ר/רָהַב-rāhaḇ-רַהַב-rahaḇ-רֹהַב-rōhaḇ-רְהָבִים-rᵉhāḇı̂m.md"
+  },
+  {
+    "lemma": "רָחַק",
+    "lemma_norm": "רחק",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ר/רָחַק-rāḥaq-רָחוֹק-rāḥôq-מֶרְחָק-merḥāq-רָחֵק-rāḥēq-רַחִיק-raḥı̂q.md"
+  },
+  {
+    "lemma": "רָחַץ",
+    "lemma_norm": "רחצ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ר/רָחַץ-rāḥaṣ.md"
+  },
+  {
+    "lemma": "רָמַס",
+    "lemma_norm": "רמס",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ר/רָמַס-rāmas-מִרְמָס-mirmās.md"
+  },
+  {
+    "lemma": "רדם",
+    "lemma_norm": "רדמ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ר/רדם-rdm-תַּרְדֵּמָה-tardēmâ.md"
+  },
+  {
+    "lemma": "רָעַם",
+    "lemma_norm": "רעמ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ר/רָעַם-rāʿam-רַעַם-raʿam.md"
+  },
+  {
+    "lemma": "רֹאשׁ",
+    "lemma_norm": "ראש",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ר/רֹאשׁ-i-rōʾš-i-רִאשָׁה-riʾšâ-רֹאשָׁה-rōʾšâ-מְרַאֲשׁוֹת-mᵉraʾᵃšôṯ.md"
+  },
+  {
+    "lemma": "רָגַם",
+    "lemma_norm": "רגמ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ר/רָגַם-rāg̱am-רֶגֶם-reg̱em-רִגְמָה-rig̱mâ-מַרְגֵּמָה-margēmâ.md"
+  },
+  {
+    "lemma": "INDEX",
+    "lemma_norm": "INDEX",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ר/INDEX.md"
+  },
+  {
+    "lemma": "רָקִיעַ",
+    "lemma_norm": "רקיע",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ר/רָקִיעַ-rāqı̂aʿ-רָקַע-rāqaʿ.md"
+  },
+  {
+    "lemma": "רָדָה",
+    "lemma_norm": "רדה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ר/רָדָה-rāḏâ-רָדָה-rāḏâ-ii-רָדַד-rāḏaḏ.md"
+  },
+  {
+    "lemma": "רְכוּשׁ",
+    "lemma_norm": "רכוש",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ר/רְכוּשׁ-rᵉḵûš-רָכַשׁ-rāḵaš.md"
+  },
+  {
+    "lemma": "רכל",
+    "lemma_norm": "רכל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ר/רכל-rkl-רֹכֵל-rōḵēl-רָכִיל-rāḵı̂l-רְכֻלָּה-rᵉḵullâ-מַרְכֹּלֶת-markōleṯ.md"
+  },
+  {
+    "lemma": "רוּץ",
+    "lemma_norm": "רוצ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ר/רוּץ-rûṣ-מֵרוֹץ-mērôṣ-מְרוּצָה-mᵉrûṣâ.md"
+  },
+  {
+    "lemma": "רָשַׁע",
+    "lemma_norm": "רשע",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ר/רָשַׁע-rāšaʿ-רָשָׁע-rāšāʿ-רֶשַׁע-rešaʿ-רִשְׁעָה-rišʿâ.md"
+  },
+  {
+    "lemma": "רָחַב",
+    "lemma_norm": "רחב",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ר/רָחַב-rāḥaḇ-רַחַב-raḥaḇ-רֹחַב-rōḥaḇ-רָחָב-rāḥāḇ-רְחוֹב-rᵉḥôḇ-מֶרְחָב-merḥāḇ.md"
+  },
+  {
+    "lemma": "רֵעַ",
+    "lemma_norm": "רע",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ר/רֵעַ-rēaʿ-רָעָה-rāʿâ-ii-רֵעֶה-rēʿeh-מֵרֵעַ-mērēaʿ-רֵעָה-rēʿâ-רַעְיָה-raʿyâ-רְעוּת-rᵉʿûṯ.md"
+  },
+  {
+    "lemma": "רֶשֶׁת",
+    "lemma_norm": "רשת",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ר/רֶשֶׁת-rešeṯ.md"
+  },
+  {
+    "lemma": "רוח",
+    "lemma_norm": "רוח",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ר/רוח-rwḥ-רֵיחַ-rêaḥ.md"
+  },
+  {
+    "lemma": "רֶחֶם",
+    "lemma_norm": "רחמ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ר/רֶחֶם-reḥem-רַחַם-raḥam-רַחֲמָה-raḥᵃmâ.md"
+  },
+  {
+    "lemma": "רושׁ",
+    "lemma_norm": "רוש",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ר/רושׁ-rwš-רָאשׁרָשׁ-rāšrāʾš-רֵאשׁרֵישׁרִישׁ-rı̂šrêšrēʾš.md"
+  },
+  {
+    "lemma": "רָבַץ",
+    "lemma_norm": "רבצ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ר/רָבַץ-rāḇaṣ-מַרְבֵּץ-marbēṣ-רֵבֶץ-rēḇeṣ.md"
+  },
+  {
+    "lemma": "רָצַץ",
+    "lemma_norm": "רצצ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ר/רָצַץ-rāṣaṣ-רעע-rʿʿ.md"
+  },
+  {
+    "lemma": "רֶגַע",
+    "lemma_norm": "רגע",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ר/רֶגַע-reg̱aʿ-רגע-rgʿ-רָגֵעַ-rāg̱ēaʿ-מַרְגּוֹעַ-margôaʿ-מַרְגֵּעָה-margēʿâ.md"
+  },
+  {
+    "lemma": "רָעַשׁ",
+    "lemma_norm": "רעש",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ר/רָעַשׁ-rāʿaš-רַעַשׁ-raʿaš.md"
+  },
+  {
+    "lemma": "רדַף",
+    "lemma_norm": "רדפ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ר/רדַף-rāḏap̱.md"
+  },
+  {
+    "lemma": "רוע",
+    "lemma_norm": "רוע",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ר/רוע-rwʿ-תְּרוּעָה-tᵉrûʿâ-רֵעַ-rēaʿ.md"
+  },
+  {
+    "lemma": "רָגַז",
+    "lemma_norm": "רגז",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ר/רָגַז-rāg̱az-רֹגֶז-rōg̱ez-רָגְזָה-rog̱zâ-רַגָּז-raggāz-אַרְגַּז-ʾargaz.md"
+  },
+  {
+    "lemma": "רֵאשִׁית",
+    "lemma_norm": "ראשית",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ר/רֵאשִׁית-rēʾšı̂ṯ.md"
+  },
+  {
+    "lemma": "רִיב",
+    "lemma_norm": "ריב",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ר/רִיב-rı̂ḇ-מְרִיבָה-mᵉrı̂ḇâ.md"
+  },
+  {
+    "lemma": "רָנַן",
+    "lemma_norm": "רננ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ר/רָנַן-rānan-רִנָּה-rinnâ-רְנָנָה-rᵉnānâ-רְנָנִים-rᵉnānı̂m.md"
+  },
+  {
+    "lemma": "רְפָאִים",
+    "lemma_norm": "רפאימ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ר/רְפָאִים-rᵉp̱āʾı̂m.md"
+  },
+  {
+    "lemma": "רָעָה",
+    "lemma_norm": "רעה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ר/רָעָה-rāʿâ-רֹעֶה-rōʿeh.md"
+  },
+  {
+    "lemma": "רָכַב",
+    "lemma_norm": "רכב",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ר/רָכַב-rāḵaḇ-רֶכֶב-reḵeḇ-רַכָּב-rakkāḇ-מֶרְכָּבָה-merkāḇâ.md"
+  },
+  {
+    "lemma": "צָהֳרַיִם",
+    "lemma_norm": "צהרימ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/צ/צָהֳרַיִם-ṣohᵒrayim.md"
+  },
+  {
+    "lemma": "צֶאֱצָאִים",
+    "lemma_norm": "צאצאימ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/צ/צֶאֱצָאִים-ṣeʾᵉṣāʾı̂m.md"
+  },
+  {
+    "lemma": "צִנָּה",
+    "lemma_norm": "צנה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/צ/צִנָּה-sinnâ-מגן-māg̱ēn.md"
+  },
+  {
+    "lemma": "צִיָּה",
+    "lemma_norm": "ציה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/צ/צִיָּה-ṣı̂yâ-צָיוֹן-ṣāyôn.md"
+  },
+  {
+    "lemma": "צוה",
+    "lemma_norm": "צוה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/צ/צוה-ṣwh.md"
+  },
+  {
+    "lemma": "צֵל",
+    "lemma_norm": "צל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/צ/צֵל-ṣēl-צָלַל-ṣālal-iii-טָלַל-ṭālal-i.md"
+  },
+  {
+    "lemma": "צַר",
+    "lemma_norm": "צר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/צ/צַר-ii-ṣar-ii-צֹרֵר-ṣōrēr-צרר-ṣrr-ii.md"
+  },
+  {
+    "lemma": "צַר",
+    "lemma_norm": "צר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/צ/צַר-ṣar-i-צרר-ṣrr-i-צָרָה-ṣārâ-i-צְרוֹר-ṣᵉrôr-מֵצַר-mēṣar-מָצוֹר-māṣôr.md"
+  },
+  {
+    "lemma": "צֹאָה",
+    "lemma_norm": "צאה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/צ/צֹאָה-ṣōʾâ-צֵאָה-ṣēʾâ-צֹאִי-ṣōʾı̂.md"
+  },
+  {
+    "lemma": "צָבָא",
+    "lemma_norm": "צבא",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/צ/צָבָא-ṣāḇāʾ.md"
+  },
+  {
+    "lemma": "צָדַק",
+    "lemma_norm": "צדק",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/צ/צָדַק-ṣāḏaq-צֶדֶק-ṣeḏeq-צְדָקָה-ṣᵉḏāqâ-צַדִּיק-ṣaddı̂q.md"
+  },
+  {
+    "lemma": "צֶלֶם",
+    "lemma_norm": "צלמ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/צ/צֶלֶם-ṣelem.md"
+  },
+  {
+    "lemma": "צָעִיר",
+    "lemma_norm": "צעיר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/צ/צָעִיר-ṣāʿı̂r-צָעַר-ṣāʿar-מִצְעָר-miṣʿār-צְעִירָה-ṣᵉʿı̂râ.md"
+  },
+  {
+    "lemma": "צָחַק",
+    "lemma_norm": "צחק",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/צ/צָחַק-ṣāḥaq-שׂחק-śāḥaq.md"
+  },
+  {
+    "lemma": "צעד",
+    "lemma_norm": "צעד",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/צ/צעד-ṣʿd-צַעַד-ṣaʿaḏ-צְעָדָה-ṣᵉʿāḏâ-מִצְעָד-miṣʿāḏ-אֶצְעָדָה-ʾeṣʿāḏâ.md"
+  },
+  {
+    "lemma": "צְבִי",
+    "lemma_norm": "צבי",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/צ/צְבִי-ṣᵉḇı̂-i-and-ii.md"
+  },
+  {
+    "lemma": "צָפָה",
+    "lemma_norm": "צפה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/צ/צָפָה-ṣāp̱â-מִצְפֶּה-miṣpeh-צִפִּיָּה-ṣippı̂yâ.md"
+  },
+  {
+    "lemma": "צַח",
+    "lemma_norm": "צח",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/צ/צַח-ṣaḥ-צָחִיחַ-ṣāḥı̂aḥ-צְחִיחָה-ṣᵉḥı̂ḥâ.md"
+  },
+  {
+    "lemma": "צפן",
+    "lemma_norm": "צפנ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/צ/צפן-ṣpn-מַצְפּוֹן-maṣpôn.md"
+  },
+  {
+    "lemma": "צִי",
+    "lemma_norm": "צי",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/צ/צִי-ṣı̂-צִיִּים-ṣı̂yı̂m.md"
+  },
+  {
+    "lemma": "צֵלָע",
+    "lemma_norm": "צלע",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/צ/צֵלָע-ṣēlāʿ.md"
+  },
+  {
+    "lemma": "צוּר",
+    "lemma_norm": "צור",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/צ/צוּר-ṣûr-צֹר-ṣōr-i-צֹר-ṣōr-ii.md"
+  },
+  {
+    "lemma": "צָפוֹן",
+    "lemma_norm": "צפונ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/צ/צָפוֹן-ṣāp̱ôn-צְפוֹנִי-ṣᵉp̱ônı̂.md"
+  },
+  {
+    "lemma": "צָרַעַת",
+    "lemma_norm": "צרעת",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/צ/צָרַעַת-ṣāraʿaṯ-צָרוַּע-ṣārûaʿ-מְצֹרָע-mᵉṣōrāʿ.md"
+  },
+  {
+    "lemma": "צֶמֶר",
+    "lemma_norm": "צמר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/צ/צֶמֶר-ṣemer.md"
+  },
+  {
+    "lemma": "צוּם",
+    "lemma_norm": "צומ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/צ/צוּם-ṣûm-צוֹם-ṣôm.md"
+  },
+  {
+    "lemma": "INDEX",
+    "lemma_norm": "INDEX",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/צ/INDEX.md"
+  },
+  {
+    "lemma": "צַוָּאר",
+    "lemma_norm": "צואר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/צ/צַוָּאר-ṣawwāʾr.md"
+  },
+  {
+    "lemma": "צַלְמָוֶת",
+    "lemma_norm": "צלמות",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/צ/צַלְמָוֶת-ṣalmāweṯ.md"
+  },
+  {
+    "lemma": "צוק",
+    "lemma_norm": "צוק",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/צ/צוק-i-ṣwq-i-צוֹק-ṣôq-צוּקָה-ṣûqâ-מָצוֹק-māṣôq-מְצוּקָה-mᵉṣûqâ.md"
+  },
+  {
+    "lemma": "צָרַף",
+    "lemma_norm": "צרפ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/צ/צָרַף-ṣārap̱-מַצְרֵף-maṣrēp̱-צֹרְפִי-ṣōrᵉp̱ı̂.md"
+  },
+  {
+    "lemma": "צנע",
+    "lemma_norm": "צנע",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/צ/צנע-ṣnʿ.md"
+  },
+  {
+    "lemma": "צָמֵא",
+    "lemma_norm": "צמא",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/צ/צָמֵא-ṣāmēʾ-צָמָא-ṣāmāʾ-צִמְאָה-ṣimʾâ-צִמָּאוֹן-ṣimmāʾôn.md"
+  },
+  {
+    "lemma": "צָלַח",
+    "lemma_norm": "צלח",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/צ/צָלַח-ṣālaḥ.md"
+  },
+  {
+    "lemma": "צָמַת",
+    "lemma_norm": "צמת",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/צ/צָמַת-ṣāmaṯ-צְמִיתֻת-ṣᵉmiı̂ṯuṯ.md"
+  },
+  {
+    "lemma": "צְבָאוֹת",
+    "lemma_norm": "צבאות",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/צ/צְבָאוֹת-ṣᵉḇāʾôṯ.md"
+  },
+  {
+    "lemma": "צוּר",
+    "lemma_norm": "צור",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/צ/צוּר-ṣûr-מָצוֹר-māṣôr-מְצוּרָה-mᵉṣûrâ-צוּרָה-ṣûrâ-צִיר-ṣı̂r.md"
+  },
+  {
+    "lemma": "צָעַק",
+    "lemma_norm": "צעק",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/צ/צָעַק-ṣāʿaq-זעק-zāʿaq.md"
+  },
+  {
+    "lemma": "צִיּוֹן",
+    "lemma_norm": "ציונ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/צ/צִיּוֹן-ṣı̂yôn.md"
+  },
+  {
+    "lemma": "צוד",
+    "lemma_norm": "צוד",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/צ/צוד-ṣwd-צַיִד-ṣayiḏ.md"
+  },
+  {
+    "lemma": "צָמַח",
+    "lemma_norm": "צמח",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/צ/צָמַח-ṣāmaḥ-צֶמַח-ṣemaḥ.md"
+  },
+  {
+    "lemma": "צִיץ",
+    "lemma_norm": "ציצ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/צ/צִיץ-ṣı̂ṣ-צוץ-ṣwṣ-צִיצָה-ṣı̂ṣâ-צִיצִית-ṣı̂ṣı̂ṯ-נצץ-nṣṣ-נֵץ-nēṣ.md"
+  },
+  {
+    "lemma": "צוק",
+    "lemma_norm": "צוק",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/צ/צוק-ṣwq-ii-יצק-yāṣaq.md"
+  },
+  {
+    "lemma": "צִפּוֹר",
+    "lemma_norm": "צפור",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/צ/צִפּוֹר-ṣippôr-צָפַר-ṣāp̱ar.md"
+  },
+  {
+    "lemma": "צֹאן",
+    "lemma_norm": "צאנ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/צ/צֹאן-ṣōʾn.md"
+  },
+  {
+    "lemma": "צְרוֹר",
+    "lemma_norm": "צרור",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/צ/צְרוֹר-ṣᵉrôr-צר-ṣar-i.md"
+  },
+  {
+    "lemma": "טוֹטָפֹת",
+    "lemma_norm": "טוטפת",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ט/טוֹטָפֹת-ṭôṭāp̱ōṯ.md"
+  },
+  {
+    "lemma": "טַבּוּר",
+    "lemma_norm": "טבור",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ט/טַבּוּר-ṭabbûr-הַר-har-iii-437f..md"
+  },
+  {
+    "lemma": "טָהַר",
+    "lemma_norm": "טהר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ט/טָהַר-ṭāhar-טָהוֹר-ṭāhôr-טֹהַר-ṭōhar-טָהֳרָה-ṭohᵒrâ.md"
+  },
+  {
+    "lemma": "טוֹב",
+    "lemma_norm": "טוב",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ט/טוֹב-ṭôḇ-טוּב-ṭûḇ-יטב-yṭb.md"
+  },
+  {
+    "lemma": "טַל",
+    "lemma_norm": "טל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ט/טַל-ṭal.md"
+  },
+  {
+    "lemma": "טָבַח",
+    "lemma_norm": "טבח",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ט/טָבַח-ṭāḇaḥ-טַבָּח-ṭabbāḥ-טֶבַח-ṭeḇaḥ-טִבְחָה-ṭiḇḥâ-מַטְבֵּחַ-maṭbēaḥ.md"
+  },
+  {
+    "lemma": "טוּחַ",
+    "lemma_norm": "טוח",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ט/טוּחַ-ṭûaḥ-טָחָח-ṭāḥāḥ-טִיחַ-ṭı̂aḥ-טֻחוֹת-ṭuḥôṯ.md"
+  },
+  {
+    "lemma": "INDEX",
+    "lemma_norm": "INDEX",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ט/INDEX.md"
+  },
+  {
+    "lemma": "טָמַן",
+    "lemma_norm": "טמנ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ט/טָמַן-ṭāman-מַטְמוֹן-maṭmôn.md"
+  },
+  {
+    "lemma": "טָעַם",
+    "lemma_norm": "טעמ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ט/טָעַם-ṭāʿam-טַעַם-ṭaʿam-טְעֵם-ṭᵉʿēm-מַטְעַמִּים-maṭʿammı̂m.md"
+  },
+  {
+    "lemma": "טָרַף",
+    "lemma_norm": "טרפ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ט/טָרַף-ṭārap̱-טֶרֶף-ṭerep̱-טְרֵפָה-ṭᵉrēp̱â-טָרָף-ṭārāp̱.md"
+  },
+  {
+    "lemma": "טַף",
+    "lemma_norm": "טפ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ט/טַף-ṭap̱.md"
+  },
+  {
+    "lemma": "טָמֵא",
+    "lemma_norm": "טמא",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ט/טָמֵא-ṭāmēʾ-טֻמְאָה-ṭumʾâ.md"
+  },
+  {
+    "lemma": "טִיט",
+    "lemma_norm": "טיט",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ט/טִיט-ṭı̂ṭ.md"
+  },
+  {
+    "lemma": "קָסַם",
+    "lemma_norm": "קסמ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ק/קָסַם-qāsam-קֶסֶם-qesem-מִקְסָם-miqsām.md"
+  },
+  {
+    "lemma": "קבל",
+    "lemma_norm": "קבל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ק/קבל-qbl-קֹבֶל-qōḇel.md"
+  },
+  {
+    "lemma": "קָהָל",
+    "lemma_norm": "קהל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ק/קָהָל-qāhāl-קהל-qhl-קְהִלָּה-qᵉhillâ-קֹהֶלֶת-qōheleṯ.md"
+  },
+  {
+    "lemma": "קיא",
+    "lemma_norm": "קיא",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ק/קיא-qyʾ-קִיא-qı̂ʾ.md"
+  },
+  {
+    "lemma": "קֶרֶב",
+    "lemma_norm": "קרב",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ק/קֶרֶב-qereḇ.md"
+  },
+  {
+    "lemma": "קטר",
+    "lemma_norm": "קטר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ק/קטר-qṭr-קִיטוֹר-qı̂ṭôr-מִקְטָר-miqṭār-מִקְטֶרֶת-miqṭereṯ-קְטֹרָה-qᵉṭōrâ-קְטֹרֶת-qᵉṭōreṯ.md"
+  },
+  {
+    "lemma": "קָשָׁה",
+    "lemma_norm": "קשה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ק/קָשָׁה-qāšâ-קָשֶׁה-qāšeh-קְשִׁי-qᵉšı̂-מִקְשֶׁה-miqšeh-קשׁח-qšḥ.md"
+  },
+  {
+    "lemma": "קָרָה",
+    "lemma_norm": "קרה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ק/קָרָה-qārâ-קָרָא-qārāʾ-ii-מִקְרֶה-miqreh-קְרִי-qᵉrı̂.md"
+  },
+  {
+    "lemma": "קֶדֶם",
+    "lemma_norm": "קדמ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ק/קֶדֶם-qeḏem-קֵדֶם-qēḏem-קַדְמָה-qaḏmâ-קִדְמָה-qiḏmâ-קַדְמוֹן-qaḏmôn-קַדְמוֹנִי-qaḏmônı̂.md"
+  },
+  {
+    "lemma": "קנא",
+    "lemma_norm": "קנא",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ק/קנא-qnʾ-קִנְאָה-qinʾâ-קַנָּא-qannāʾ-קַנּוֹא-qannôʾ.md"
+  },
+  {
+    "lemma": "קָצַץ",
+    "lemma_norm": "קצצ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ק/קָצַץ-qāṣaṣ.md"
+  },
+  {
+    "lemma": "קֵץ",
+    "lemma_norm": "קצ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ק/קֵץ-qēṣ.md"
+  },
+  {
+    "lemma": "קַשׁ",
+    "lemma_norm": "קש",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ק/קַשׁ-qaš-קשׁשׁ-qšš.md"
+  },
+  {
+    "lemma": "קָדִים",
+    "lemma_norm": "קדימ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ק/קָדִים-qāḏı̂m.md"
+  },
+  {
+    "lemma": "קִיר",
+    "lemma_norm": "קיר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ק/קִיר-qı̂r.md"
+  },
+  {
+    "lemma": "קַיִץ",
+    "lemma_norm": "קיצ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ק/קַיִץ-qayiṣ.md"
+  },
+  {
+    "lemma": "קָנֶה",
+    "lemma_norm": "קנה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ק/קָנֶה-qāneh-קָנָה-qānâ.md"
+  },
+  {
+    "lemma": "קיץ",
+    "lemma_norm": "קיצ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ק/קיץ-qyṣ-יקץ-yqṣ.md"
+  },
+  {
+    "lemma": "קָצַר",
+    "lemma_norm": "קצר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ק/קָצַר-qāṣar-ii-קָצֵר-qāṣēr-קֹצֶר-qōṣer.md"
+  },
+  {
+    "lemma": "קלה",
+    "lemma_norm": "קלה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ק/קלה-qlh-ii-קָלוֹן-qālôn.md"
+  },
+  {
+    "lemma": "קָטֹן",
+    "lemma_norm": "קטנ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ק/קָטֹן-qāṭōn-קָטָן-qāṭān-קֹטֶן-qōṭen.md"
+  },
+  {
+    "lemma": "קוּט",
+    "lemma_norm": "קוט",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ק/קוּט-qûṭ-קוּץ-qûṣ.md"
+  },
+  {
+    "lemma": "קוֹץ",
+    "lemma_norm": "קוצ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ק/קוֹץ-qôṣ.md"
+  },
+  {
+    "lemma": "קבב",
+    "lemma_norm": "קבב",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ק/קבב-qbb.md"
+  },
+  {
+    "lemma": "קָרַע",
+    "lemma_norm": "קרע",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ק/קָרַע-qāraʿ-קְרָעִים-qᵉrāʿı̂m.md"
+  },
+  {
+    "lemma": "קָדְקֹד",
+    "lemma_norm": "קדקד",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ק/קָדְקֹד-qoḏqōḏ.md"
+  },
+  {
+    "lemma": "קָצַף",
+    "lemma_norm": "קצפ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ק/קָצַף-qāṣap̱-קֶצֶף-qeṣep̱.md"
+  },
+  {
+    "lemma": "קלל",
+    "lemma_norm": "קלל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ק/קלל-qll-קַל-qal-קְלָלָה-qᵉlālâ.md"
+  },
+  {
+    "lemma": "קָשַׁר",
+    "lemma_norm": "קשר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ק/קָשַׁר-qāšar-קֶשֶׁר-qešer-קִשֻּׁרִים-qiššurı̂m.md"
+  },
+  {
+    "lemma": "קָדַר",
+    "lemma_norm": "קדר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ק/קָדַר-qāḏar-קַדְרוּת-qaḏrûṯ-קְדֹרַנִּית-qᵉḏōrannı̂ṯ.md"
+  },
+  {
+    "lemma": "קִינָה",
+    "lemma_norm": "קינה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ק/קִינָה-qı̂nâ-קִין-qı̂n.md"
+  },
+  {
+    "lemma": "קֶרֶן",
+    "lemma_norm": "קרנ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ק/קֶרֶן-qeren-קָרַן-qāran.md"
+  },
+  {
+    "lemma": "קֶרַח",
+    "lemma_norm": "קרח",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ק/קֶרַח-qeraḥ.md"
+  },
+  {
+    "lemma": "קָצַר",
+    "lemma_norm": "קצר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ק/קָצַר-qāṣar-i-קָצִיר-qāṣı̂r.md"
+  },
+  {
+    "lemma": "קוֹל",
+    "lemma_norm": "קול",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ק/קוֹל-qôl.md"
+  },
+  {
+    "lemma": "INDEX",
+    "lemma_norm": "INDEX",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ק/INDEX.md"
+  },
+  {
+    "lemma": "קָצִין",
+    "lemma_norm": "קצינ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ק/קָצִין-qāṣı̂n.md"
+  },
+  {
+    "lemma": "קֶבֶר",
+    "lemma_norm": "קבר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ק/קֶבֶר-qeḇer-קָבַר-qāḇar-קְבוּרָה-qᵉḇûrâ.md"
+  },
+  {
+    "lemma": "קוּם",
+    "lemma_norm": "קומ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ק/קוּם-qûm.md"
+  },
+  {
+    "lemma": "קָנָה",
+    "lemma_norm": "קנה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ק/קָנָה-qānâ-מִקְנֶה-miqneh-מִקְנָה-miqnâ-קִנְיָן-qinyān.md"
+  },
+  {
+    "lemma": "קִרְיָה",
+    "lemma_norm": "קריה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ק/קִרְיָה-qiryâ-קֶרֶת-qereṯ.md"
+  },
+  {
+    "lemma": "קדשׁ",
+    "lemma_norm": "קדש",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ק/קדשׁ-qdš-קֹדֶשׁ-qōḏeš-קָדוֹשׁ-qāḏôš-קָדֵשׁ-qāḏēš-קְדֵשָׁה-qᵉḏēšâ-מִקְדָּשׁ-miqdāš-קֶדֶשׁ-qeḏeš.md"
+  },
+  {
+    "lemma": "קרח",
+    "lemma_norm": "קרח",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ק/קרח-ii-גלת-gillaḥ.md"
+  },
+  {
+    "lemma": "קבץ",
+    "lemma_norm": "קבצ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ק/קבץ-qbṣ.md"
+  },
+  {
+    "lemma": "קַו",
+    "lemma_norm": "קו",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ק/קַו-qaw-קָוֶה-qāweh-תִּקְוָה-tiqwâ.md"
+  },
+  {
+    "lemma": "קדד",
+    "lemma_norm": "קדד",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ק/קדד-qdd.md"
+  },
+  {
+    "lemma": "קשׁב",
+    "lemma_norm": "קשב",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ק/קשׁב-qšb-קֶשֶׁב-qešeḇ-קַשָּׁב-qaššāḇ-קַשֶּׁב-qaššuḇ.md"
+  },
+  {
+    "lemma": "קֶשֶׁת",
+    "lemma_norm": "קשת",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ק/קֶשֶׁת-qešeṯ-קַשָּׁת-qaššāṯ.md"
+  },
+  {
+    "lemma": "קָדַם",
+    "lemma_norm": "קדמ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ק/קָדַם-qāḏam.md"
+  },
+  {
+    "lemma": "קָרָא",
+    "lemma_norm": "קרא",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ק/קָרָא-qārāʾ-מִקְרָא-miqrāʾ.md"
+  },
+  {
+    "lemma": "קֵן",
+    "lemma_norm": "קנ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ק/קֵן-qēn-קנן-qnn.md"
+  },
+  {
+    "lemma": "קוה",
+    "lemma_norm": "קוה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ק/קוה-qwh-מִקְוֶה-miqweh-תִּקְוָה-tiqwâ.md"
+  },
+  {
+    "lemma": "קָרְבָּן",
+    "lemma_norm": "קרבנ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ק/קָרְבָּן-qorbān-קֻרְבָּן-qurbān.md"
+  },
+  {
+    "lemma": "קָרַב",
+    "lemma_norm": "קרב",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/ק/קָרַב-qāraḇ-קָרֵב-qārēḇ-קָרוֹב-qārôḇ-קִרְבָה-qirbâ-קְרָב-qᵉrāḇ-קָרְבָּן-qorbān.md"
+  },
+  {
+    "lemma": "בָּרַח",
+    "lemma_norm": "ברח",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ב/בָּרַח-bārach-בָּרִיחַ-bārı̂ach-בְּרִיחַ-bᵉrı̂ach.md"
+  },
+  {
+    "lemma": "בְּלִיַּעַל",
+    "lemma_norm": "בליעל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ב/בְּלִיַּעַל-bᵉliyyaʿal.md"
+  },
+  {
+    "lemma": "בִּקֵּשׁ",
+    "lemma_norm": "בקש",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ב/בִּקֵּשׁ-biqqēsh-בַּקָּשָׁה-baqqāshāh.md"
+  },
+  {
+    "lemma": "בִּין",
+    "lemma_norm": "בינ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ב/בִּין-bı̂n-בִּינָה-bı̂nāh-תְּבוּנָה-tᵉbhûnāh.md"
+  },
+  {
+    "lemma": "בָּשָׂר",
+    "lemma_norm": "בשר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ב/בָּשָׂר-bāśār.md"
+  },
+  {
+    "lemma": "בָּטַח",
+    "lemma_norm": "בטח",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ב/בָּטַח-bāṭach-בֶּטַח-beṭach-בִּטְחָה-biṭchāh-בִּטָּחוֹן-biṭṭāchôn-מִבְטָח-mibhṭāch.md"
+  },
+  {
+    "lemma": "בֶּטֶן",
+    "lemma_norm": "בטנ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ב/בֶּטֶן-beṭen.md"
+  },
+  {
+    "lemma": "בָּגַד",
+    "lemma_norm": "בגד",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ב/בָּגַד-bāghadh-בֶּגֶד-beghedh.md"
+  },
+  {
+    "lemma": "בְּתוּלָה",
+    "lemma_norm": "בתולה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ב/בְּתוּלָה-bᵉthûlāh-בְּתוּלִים-bᵉthûlı̂m.md"
+  },
+  {
+    "lemma": "בָּחַר",
+    "lemma_norm": "בחר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ב/בָּחַר-bāchar.md"
+  },
+  {
+    "lemma": "בָּבֶל",
+    "lemma_norm": "בבל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ב/בָּבֶל-bābhel.md"
+  },
+  {
+    "lemma": "בֵּן",
+    "lemma_norm": "בנ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ב/בֵּן-bēn.md"
+  },
+  {
+    "lemma": "בֶּגֶד",
+    "lemma_norm": "בגד",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ב/בֶּגֶד-beghedh-clothing-לבשׁ-lbš.md"
+  },
+  {
+    "lemma": "בדל",
+    "lemma_norm": "בדל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ב/בדל-bdl.md"
+  },
+  {
+    "lemma": "בּוֹשׁ",
+    "lemma_norm": "בוש",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ב/בּוֹשׁ-bôsh-בּוּשָׁה-bûshāh-בֹּשֶׁת-bōsheth-מְבוּשִׁים-mᵉbhûshı̂m.md"
+  },
+  {
+    "lemma": "בְּהֵמָה",
+    "lemma_norm": "בהמה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ב/בְּהֵמָה-bᵉhēmāh-בְּהֵמוֹת-bᵉhēmôth.md"
+  },
+  {
+    "lemma": "בזז",
+    "lemma_norm": "בזז",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ב/בזז-bzz-בַּז-baz-שׁלל-šll-שָׁלָל-shālāl.md"
+  },
+  {
+    "lemma": "בָּנָה",
+    "lemma_norm": "בנה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ב/בָּנָה-bānāh-בִּנְיָה-binyāh-בִּנְיָן-binyān-מִבְנֶה-mibhneh-תַּבְנִית-tabhnı̂th.md"
+  },
+  {
+    "lemma": "בָּלַע",
+    "lemma_norm": "בלע",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ב/בָּלַע-bālaʿ-בֶּלַע-belaʿ.md"
+  },
+  {
+    "lemma": "בַּעַל",
+    "lemma_norm": "בעל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ב/בַּעַל-baʿal.md"
+  },
+  {
+    "lemma": "בּוֹד",
+    "lemma_norm": "בוד",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ב/בּוֹד-bôr-באר-bᵉʾēr.md"
+  },
+  {
+    "lemma": "בָּלָה",
+    "lemma_norm": "בלה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ב/בָּלָה-bālāh.md"
+  },
+  {
+    "lemma": "בְּכוֹר",
+    "lemma_norm": "בכור",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ב/בְּכוֹר-bᵉkhôr-בכר-bkr-בְּכֹרָה-bᵉkhōrāh-בִּכּוּרִים-bikkûrı̂m.md"
+  },
+  {
+    "lemma": "בחן",
+    "lemma_norm": "בחנ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ב/בחן-bḥn-בָּחוֹן-bāchôn.md"
+  },
+  {
+    "lemma": "בָּדָד",
+    "lemma_norm": "בדד",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ב/בָּדָד-bādhādh-בַּד-badh-בָּדַד-bādhadh.md"
+  },
+  {
+    "lemma": "בַּיִת",
+    "lemma_norm": "בית",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ב/בַּיִת-bayith.md"
+  },
+  {
+    "lemma": "בּוֹא",
+    "lemma_norm": "בוא",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ב/בּוֹא-bôʾ-אָתָה-ʾāthāh.md"
+  },
+  {
+    "lemma": "INDEX",
+    "lemma_norm": "INDEX",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ב/INDEX.md"
+  },
+  {
+    "lemma": "בְּרִית",
+    "lemma_norm": "ברית",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ב/בְּרִית-bᵉrı̂th.md"
+  },
+  {
+    "lemma": "בַּת",
+    "lemma_norm": "בת",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ב/בַּת-bath.md"
+  },
+  {
+    "lemma": "בְּאֵר",
+    "lemma_norm": "באר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ב/בְּאֵר-bᵉʾēr-בּוֹר-bôr.md"
+  },
+  {
+    "lemma": "בער",
+    "lemma_norm": "בער",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ב/בער-bʿr-בַּעַר-baʿar-בָּעִיר-bāʿı̂r.md"
+  },
+  {
+    "lemma": "בשׂר",
+    "lemma_norm": "בשר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ב/בשׂר-bśr-בְּשׂוֹרָה-bᵉśôrāh.md"
+  },
+  {
+    "lemma": "בֶּן־אָדָם",
+    "lemma_norm": "בנ־אדמ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ב/בֶּן־אָדָם-ben-ʾādhām.md"
+  },
+  {
+    "lemma": "בָּמָה",
+    "lemma_norm": "במה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ב/בָּמָה-bāmāh.md"
+  },
+  {
+    "lemma": "בהל",
+    "lemma_norm": "בהל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ב/בהל-bhl-בֶּהָלָה-behālāh.md"
+  },
+  {
+    "lemma": "בֹּקֶר",
+    "lemma_norm": "בקר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ב/בֹּקֶר-bōqer.md"
+  },
+  {
+    "lemma": "ברך",
+    "lemma_norm": "ברכ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ב/ברך-brk-בְּרָכָה-bᵉrākhāh.md"
+  },
+  {
+    "lemma": "בָּכָה",
+    "lemma_norm": "בכה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ב/בָּכָה-bākhāh.md"
+  },
+  {
+    "lemma": "בָּקָר",
+    "lemma_norm": "בקר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ב/בָּקָר-bāqār.md"
+  },
+  {
+    "lemma": "בָּרָא",
+    "lemma_norm": "ברא",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ב/בָּרָא-bārāʾ.md"
+  },
+  {
+    "lemma": "בּוּז",
+    "lemma_norm": "בוז",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ב/בּוּז-bûz-בזה-bāzāh.md"
+  },
+  {
+    "lemma": "בָּרַר",
+    "lemma_norm": "ברר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ב/בָּרַר-bārar-בַּר-bar-בֹּר-bōr-בֹּרִית-bōrı̂th.md"
+  },
+  {
+    "lemma": "בצע",
+    "lemma_norm": "בצע",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ב/בצע-bṣʿ-בֶּצַע-betsaʿ.md"
+  },
+  {
+    "lemma": "בָּזָה",
+    "lemma_norm": "בזה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ב/בָּזָה-bāzāh-בּוּז-bûz-בּוּזָה-bûzāh.md"
+  },
+  {
+    "lemma": "בלל",
+    "lemma_norm": "בלל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ב/בלל-bll-בבל-bābhel.md"
+  },
+  {
+    "lemma": "זָעַק",
+    "lemma_norm": "זעק",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ז/זָעַק-zāʿaq-זְעָקָה-zᵉʿāqāh-צָעַק-tsāʿaq-צְעָקָה-tsᵉʿāqāh.md"
+  },
+  {
+    "lemma": "זָעַם",
+    "lemma_norm": "זעמ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ז/זָעַם-zāʿam-זַעַם-zaʿam.md"
+  },
+  {
+    "lemma": "זָרַק",
+    "lemma_norm": "זרק",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ז/זָרַק-zāraq-מִזְרָק-mizrāq.md"
+  },
+  {
+    "lemma": "זָכָר",
+    "lemma_norm": "זכר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ז/זָכָר-zākhār-זְכוּר-zᵉkhûr-נְקֵבָה-nᵉqēbhāh.md"
+  },
+  {
+    "lemma": "זְרוֹעַ",
+    "lemma_norm": "זרוע",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ז/זְרוֹעַ-zᵉrôaʿ.md"
+  },
+  {
+    "lemma": "זָנָה",
+    "lemma_norm": "זנה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ז/זָנָה-zānāh-זְנוּנִים-zᵉnûnı̂m-זְנוּת-zᵉnûth-תַּזְנוּת-taznûth.md"
+  },
+  {
+    "lemma": "זְבֻל",
+    "lemma_norm": "זבל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ז/זְבֻל-zᵉbhul.md"
+  },
+  {
+    "lemma": "זמר",
+    "lemma_norm": "זמר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ז/זמר-zmr-זָמִיר-zāmı̂r-זִמְרָה-zimrāh-מִזְמוֹר-mizmôr.md"
+  },
+  {
+    "lemma": "זָרזוּר",
+    "lemma_norm": "זרזור",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ז/זָרזוּר-zûrzār.md"
+  },
+  {
+    "lemma": "זַיִת",
+    "lemma_norm": "זית",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ז/זַיִת-zayith.md"
+  },
+  {
+    "lemma": "זָעַף",
+    "lemma_norm": "זעפ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ז/זָעַף-zāʿaph-זָעֶף-zāʿēph-זַעַף-zaʿaph.md"
+  },
+  {
+    "lemma": "זֶרֶם",
+    "lemma_norm": "זרמ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ז/זֶרֶם-zerem-מטר-māṭār.md"
+  },
+  {
+    "lemma": "זָכַר",
+    "lemma_norm": "זכר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ז/זָכַר-zākhar-זֵכֶר-zēkher-זִכָּרוֹן-zikkārôn-אַזְכָּרָה-ʾazkārāh.md"
+  },
+  {
+    "lemma": "זָהַר",
+    "lemma_norm": "זהר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ז/זָהַר-zāhar-זֹהַר-zōhar.md"
+  },
+  {
+    "lemma": "זמם",
+    "lemma_norm": "זממ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ז/זמם-zmm-זְמָם-zᵉmām-זִמָּה-zimmāh-מְזִמָּה-mᵉzimmāh.md"
+  },
+  {
+    "lemma": "זָהָב",
+    "lemma_norm": "זהב",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ז/זָהָב-zāhābh-חָרוּץ-chārûts-כֶּתֶם-kethem-סְגוֹר-sᵉghôr-פַּז-paz.md"
+  },
+  {
+    "lemma": "זער",
+    "lemma_norm": "זער",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ז/זער-zʿr-צער-ṣʿr.md"
+  },
+  {
+    "lemma": "INDEX",
+    "lemma_norm": "INDEX",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ז/INDEX.md"
+  },
+  {
+    "lemma": "זָר",
+    "lemma_norm": "זר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ז/זָר-zār-זור-zwr.md"
+  },
+  {
+    "lemma": "זָבַח",
+    "lemma_norm": "זבח",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ז/זָבַח-zābhach-זֶבַח-zebhach.md"
+  },
+  {
+    "lemma": "זוּד",
+    "lemma_norm": "זוד",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ז/זוּד-zûdh-זִיד-zı̂dh-זֵד-zēdh-זָדוֹן-zādhôn.md"
+  },
+  {
+    "lemma": "זָנַח",
+    "lemma_norm": "זנח",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ז/זָנַח-zānach.md"
+  },
+  {
+    "lemma": "זָכָה",
+    "lemma_norm": "זכה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ז/זָכָה-zākhāh-זכךְ-zkk-זַךְ-zakh.md"
+  },
+  {
+    "lemma": "זְאֵב",
+    "lemma_norm": "זאב",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ז/זְאֵב-zᵉʾēbh.md"
+  },
+  {
+    "lemma": "זָרַח",
+    "lemma_norm": "זרח",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ז/זָרַח-zārach-מִזְרָח-mizrāch.md"
+  },
+  {
+    "lemma": "זָרָה",
+    "lemma_norm": "זרה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ז/זָרָה-zārāh-זרע-zāraʿ-i.1-ii-פוץ-pws̱.md"
+  },
+  {
+    "lemma": "זָקֵן",
+    "lemma_norm": "זקנ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ז/זָקֵן-zāqēn-זֹקֶו-zōqen-זִקְנָה-ziqnāh-זְקֻנִים-zᵉqunı̂m.md"
+  },
+  {
+    "lemma": "זָרַע",
+    "lemma_norm": "זרע",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ז/זָרַע-zāraʿ-זֶרַע-zeraʿ.md"
+  },
+  {
+    "lemma": "סָלַח",
+    "lemma_norm": "סלח",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ס/סָלַח-sālaḥ-סַלָּח-sallāḥ-סְלִיחָה-sᵉlı̂ḥâ.md"
+  },
+  {
+    "lemma": "סְגֻלָּה",
+    "lemma_norm": "סגלה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ס/סְגֻלָּה-sᵉg̱ullâ.md"
+  },
+  {
+    "lemma": "סוּג",
+    "lemma_norm": "סוג",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ס/סוּג-sûg̱.md"
+  },
+  {
+    "lemma": "סוֹף",
+    "lemma_norm": "סופ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ס/סוֹף-sôp̱-סוף-swp.md"
+  },
+  {
+    "lemma": "סָקַל",
+    "lemma_norm": "סקל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ס/סָקַל-sāqal.md"
+  },
+  {
+    "lemma": "סָלַל",
+    "lemma_norm": "סלל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ס/סָלַל-sālal-סֹלְלָה-sōlᵉlâ-מְסִלָּה-mᵉsillâ-מַסְלוּל-maslûl.md"
+  },
+  {
+    "lemma": "סרן",
+    "lemma_norm": "סרנ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ס/סרן-srn.md"
+  },
+  {
+    "lemma": "סֶלַע",
+    "lemma_norm": "סלע",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ס/סֶלַע-selaʿ.md"
+  },
+  {
+    "lemma": "סוּס",
+    "lemma_norm": "סוס",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ס/סוּס-sûs.md"
+  },
+  {
+    "lemma": "סָחַר",
+    "lemma_norm": "סחר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ס/סָחַר-sāḥar-סַחַר-saḥar-סְחֹרָה-sᵉḥōrâ-סֹחֵרָה-sōḥērâ.md"
+  },
+  {
+    "lemma": "סָעַד",
+    "lemma_norm": "סעד",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ס/סָעַד-sāʿaḏ-מִסְעָד-misʿāḏ.md"
+  },
+  {
+    "lemma": "סֹפֵר",
+    "lemma_norm": "ספר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ס/סֹפֵר-sōp̱ēr.md"
+  },
+  {
+    "lemma": "סָמַךְ",
+    "lemma_norm": "סמכ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ס/סָמַךְ-sāmaḵ-שְׂמִיכָה-śᵉmı̂ḵâ.md"
+  },
+  {
+    "lemma": "סָפַק",
+    "lemma_norm": "ספק",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ס/סָפַק-sāp̱aq-סֶפֶק-sep̱eq-שָׂפַק-śāp̱aq.md"
+  },
+  {
+    "lemma": "סוּר",
+    "lemma_norm": "סור",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ס/סוּר-sûr-סָרָה-sārâ.md"
+  },
+  {
+    "lemma": "סכל",
+    "lemma_norm": "סכל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ס/סכל-skl-סָכָל-sāḵāl-סִכְלוּת-siḵlûṯ-סֶכֶל-seḵel.md"
+  },
+  {
+    "lemma": "סָפָה",
+    "lemma_norm": "ספה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ס/סָפָה-sāp̱â.md"
+  },
+  {
+    "lemma": "סָגַר",
+    "lemma_norm": "סגר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ס/סָגַר-sāg̱ar-מַסְגֵּר-masgēr-מִסְגֶּרֶת-misgereṯ.md"
+  },
+  {
+    "lemma": "סוּף",
+    "lemma_norm": "סופ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ס/סוּף-sûp̱-יַם-סוּף-yam-sûp̱.md"
+  },
+  {
+    "lemma": "סבב",
+    "lemma_norm": "סבב",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ס/סבב-sbb-סָבִיב-sāḇı̂ḇ-מוּסַב-mûsaḇ-מֵסַב-mēsaḇ-נְסִבָּה-nᵉsibbâ-סִבָּה-sibbâ.md"
+  },
+  {
+    "lemma": "סִינַי",
+    "lemma_norm": "סיני",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ס/סִינַי-sı̂nay.md"
+  },
+  {
+    "lemma": "INDEX",
+    "lemma_norm": "INDEX",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ס/INDEX.md"
+  },
+  {
+    "lemma": "סות",
+    "lemma_norm": "סות",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ס/סות-swt.md"
+  },
+  {
+    "lemma": "סָרִיס",
+    "lemma_norm": "סריס",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ס/סָרִיס-sārı̂s.md"
+  },
+  {
+    "lemma": "סָעַר",
+    "lemma_norm": "סער",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ס/סָעַר-sāʿar-סַעַר-saʿar-סְעָרָה-sᵉʿārâ-שָׂעַר-śāʿar-ii-שַׂעַר-śaʿar-שְׂעָרָה-śᵉʿārâ.md"
+  },
+  {
+    "lemma": "סָכַךְ",
+    "lemma_norm": "סככ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ס/סָכַךְ-sāḵaḵ-מְסֻכָה-mᵉsuḵâ-סָךְ-sāḵ-סֹךְ-sōḵ-סֻכָּה-sukkâ-סֹכֵךְ-sōḵēḵ.md"
+  },
+  {
+    "lemma": "סוּךְ",
+    "lemma_norm": "סוכ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ס/סוּךְ-sûḵ-נסך-nāsaḵ.md"
+  },
+  {
+    "lemma": "סָבַל",
+    "lemma_norm": "סבל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ס/סָבַל-sāḇal-סֵבֶל-sēḇel-סֹבֶל-sōḇel-סַבָּל-sabbāl-סְבָלוֹת-sᵉḇālôṯ.md"
+  },
+  {
+    "lemma": "סָפַר",
+    "lemma_norm": "ספר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ס/סָפַר-sāp̱ar-מִסְפָּר-mispār.md"
+  },
+  {
+    "lemma": "סוּפָה",
+    "lemma_norm": "סופה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ס/סוּפָה-sûp̱â.md"
+  },
+  {
+    "lemma": "סֵפֶר",
+    "lemma_norm": "ספר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ס/סֵפֶר-sēp̱er.md"
+  },
+  {
+    "lemma": "סוֹד",
+    "lemma_norm": "סוד",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ס/סוֹד-sôḏ.md"
+  },
+  {
+    "lemma": "סְדֹם",
+    "lemma_norm": "סדמ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ס/סְדֹם-sᵉḏōm-עֲמֹרָה-ʿᵃmᵉḏōrâ.md"
+  },
+  {
+    "lemma": "סָתַר",
+    "lemma_norm": "סתר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ס/סָתַר-sāṯar-סֵתֶר-sēṯer-סִתְרָה-siṯrâ-מִסְתּוֹר-mistôr-מַסְתֵּר-mastēr-מִסְתָּר-mistār.md"
+  },
+  {
+    "lemma": "סָתַם",
+    "lemma_norm": "סתמ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ס/סָתַם-sāṯam-שָׂתַם-śāṯam-שָׁתַם-šāṯam.md"
+  },
+  {
+    "lemma": "סָפַד",
+    "lemma_norm": "ספד",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ס/סָפַד-sāp̱aḏ-מִסְפֵּד-mispēḏ.md"
+  },
+  {
+    "lemma": "סרר",
+    "lemma_norm": "סרר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ס/סרר-srr-i-סָרָה-sārâ-סַר-sar.md"
+  },
+  {
+    "lemma": "סַף",
+    "lemma_norm": "ספ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ס/סַף-sap̱.md"
+  },
+  {
+    "lemma": "נכה",
+    "lemma_norm": "נכה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/נכה-nkh-מַכָּה-makkâ-נָכֶה-nāḵeh-נכא-nkʾ.md"
+  },
+  {
+    "lemma": "נֶצַח",
+    "lemma_norm": "נצח",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/נֶצַח-neṣaḥ-לַמְנַצֵּחַ-lamᵉnaṣṣēaḥ.md"
+  },
+  {
+    "lemma": "נַעַר",
+    "lemma_norm": "נער",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/נַעַר-naʿar-נַעֲרָה-naʿᵃrâ-נְעוּרִים-nᵉʿûrı̂m-נְעֻרוֹת-nᵉʿurôṯ-נֹעַר-nōʿar.md"
+  },
+  {
+    "lemma": "נָחָה",
+    "lemma_norm": "נחה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/נָחָה-nāḥâ.md"
+  },
+  {
+    "lemma": "נָטַע",
+    "lemma_norm": "נטע",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/נָטַע-nāṭaʿ-מַטָּע-maṭṭāʿ-נֶטַע-neṭaʿ-נְטִעִים-nᵉṭiʿı̂m-שָׁתַל-šāṯal.md"
+  },
+  {
+    "lemma": "נָשָׁה",
+    "lemma_norm": "נשה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/נָשָׁה-nāšâ-נְשִׁיָּה-nᵉšı̂yâ.md"
+  },
+  {
+    "lemma": "נָקַף",
+    "lemma_norm": "נקפ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/נָקַף-nāqap̱.md"
+  },
+  {
+    "lemma": "נָשָׁא",
+    "lemma_norm": "נשא",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/נָשָׁא-nāšāʾ-ii-נשׁה-nšh-מַשָּׁא-maššāʾ-מַשָּׁאוֹת-maššāʾôṯ-נְשִׁי-nᵉšı̂.md"
+  },
+  {
+    "lemma": "נדב",
+    "lemma_norm": "נדב",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/נדב-ndb-נְדָבָה-nᵉḏāḇâ-נָדִיב-nāḏı̂ḇ-נְדִיבָה-nᵉḏı̂ḇâ.md"
+  },
+  {
+    "lemma": "נָעַם",
+    "lemma_norm": "נעמ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/נָעַם-nāʿam-נָעִים-nāʿı̂m-נֹעַם-nōʿam-מַנְעַמִּים-manʿammı̂m-נַעֲמָנִים-naʿᵃmānı̂m.md"
+  },
+  {
+    "lemma": "נֶפֶשׁ",
+    "lemma_norm": "נפש",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/נֶפֶשׁ-nep̱eš.md"
+  },
+  {
+    "lemma": "נַעַל",
+    "lemma_norm": "נעל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/נַעַל-naʿal.md"
+  },
+  {
+    "lemma": "נוּס",
+    "lemma_norm": "נוס",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/נוּס-nûs-מָבוֹס-mānôs-מְנוּסָה-mᵉnûsâ.md"
+  },
+  {
+    "lemma": "נָטַר",
+    "lemma_norm": "נטר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/נָטַר-nāṭar-מַטָּרָה-maṭṭārâ.md"
+  },
+  {
+    "lemma": "נָשִׂיא",
+    "lemma_norm": "נשיא",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/נָשִׂיא-nāśı̂ʾ.md"
+  },
+  {
+    "lemma": "נָזָה",
+    "lemma_norm": "נזה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/נָזָה-nāzâ.md"
+  },
+  {
+    "lemma": "נָקָה",
+    "lemma_norm": "נקה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/נָקָה-nāqâ-נָקִי-nāqı̂-נִקָּיוֹן-niqqāyôn.md"
+  },
+  {
+    "lemma": "נָגַהּ",
+    "lemma_norm": "נגה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/נָגַהּ-nāg̱ah-נֹגַהּ-nōg̱ah-נְגֹהוֹת-nᵉg̱ōhôṯ.md"
+  },
+  {
+    "lemma": "יצבנצב",
+    "lemma_norm": "יצבנצב",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/יצבנצב-nṣbyṣb-נִצָּב-niṣṣāḇ-נְצִיב-nᵉṣı̂ḇ-מַצָּב-maṣṣāḇ-מִמַצָּבָה-mimaṣṣāḇâ-מֻצָּב-muṣṣāḇ.md"
+  },
+  {
+    "lemma": "נְתִיבָה",
+    "lemma_norm": "נתיבה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/נְתִיבָה-nᵉṯı̂ḇâ-דֶּרֶךְ-dereḵ-derekh-iii-27093.md"
+  },
+  {
+    "lemma": "נָתַר",
+    "lemma_norm": "נתר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/נָתַר-nāṯar-נֶתֶר-neṯer.md"
+  },
+  {
+    "lemma": "נָתַךְ",
+    "lemma_norm": "נתכ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/נָתַךְ-nāṯaḵ.md"
+  },
+  {
+    "lemma": "נָאַף",
+    "lemma_norm": "נאפ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/נָאַף-nāʾap̱.md"
+  },
+  {
+    "lemma": "נָבִיא",
+    "lemma_norm": "נביא",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/נָבִיא-nāḇı̂ʾ-נבא-nbʾ-niphal-and-hithpael-נְבִיאָה-nᵉḇı̂ʾâ-נְבוּאָה-nᵉḇûʾâ.md"
+  },
+  {
+    "lemma": "נופ",
+    "lemma_norm": "נופ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/נופ-nwp-תְּנוּפָה-tᵉnûp̱â.md"
+  },
+  {
+    "lemma": "נָטַשׁ",
+    "lemma_norm": "נטש",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/נָטַשׁ-nāṭaš-נְטִישָׁה-nᵉṭı̂šâ.md"
+  },
+  {
+    "lemma": "נחם",
+    "lemma_norm": "נחמ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/נחם-nḥm.md"
+  },
+  {
+    "lemma": "נוּד",
+    "lemma_norm": "נוד",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/נוּד-nûḏ.md"
+  },
+  {
+    "lemma": "נִדָּה",
+    "lemma_norm": "נדה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/נִדָּה-niddâ.md"
+  },
+  {
+    "lemma": "נָשַׁךְ",
+    "lemma_norm": "נשכ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/נָשַׁךְ-nāšaḵ-נֶשֶׁךְ-nešeḵ.md"
+  },
+  {
+    "lemma": "נָשַׂג",
+    "lemma_norm": "נשג",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/נָשַׂג-nāśag̱.md"
+  },
+  {
+    "lemma": "נצל",
+    "lemma_norm": "נצל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/נצל-nṣl-הַצָּלָה-haṣṣālâ.md"
+  },
+  {
+    "lemma": "נָגַשׂ",
+    "lemma_norm": "נגש",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/נָגַשׂ-nāg̱aś.md"
+  },
+  {
+    "lemma": "נְאֻם",
+    "lemma_norm": "נאמ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/נְאֻם-nᵉʾum.md"
+  },
+  {
+    "lemma": "נָמֵר",
+    "lemma_norm": "נמר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/נָמֵר-nāmēr.md"
+  },
+  {
+    "lemma": "נבט",
+    "lemma_norm": "נבט",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/נבט-nbṭ.md"
+  },
+  {
+    "lemma": "נָבָל",
+    "lemma_norm": "נבל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/נָבָל-nāḇāl-נְבָלָה-nᵉḇālâ.md"
+  },
+  {
+    "lemma": "נָדַד",
+    "lemma_norm": "נדד",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/נָדַד-nāḏaḏ.md"
+  },
+  {
+    "lemma": "נָהַל",
+    "lemma_norm": "נהל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/נָהַל-nāhal.md"
+  },
+  {
+    "lemma": "נָפַח",
+    "lemma_norm": "נפח",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/נָפַח-nāp̱aḥ.md"
+  },
+  {
+    "lemma": "נִיחוֹחַ",
+    "lemma_norm": "ניחוח",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/נִיחוֹחַ-nı̂ḥôaḥ.md"
+  },
+  {
+    "lemma": "נָדַח",
+    "lemma_norm": "נדח",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/נָדַח-nāḏaḥ-מַדּוּחִים-maddûḥı̂m.md"
+  },
+  {
+    "lemma": "נָקַם",
+    "lemma_norm": "נקמ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/נָקַם-nāqam-נָקָם-nāqām-נְקָמָה-nᵉqāmâ.md"
+  },
+  {
+    "lemma": "נַחַל",
+    "lemma_norm": "נחל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/נַחַל-naḥal-אֵיתָן-ʾêṯān.md"
+  },
+  {
+    "lemma": "נָתַן",
+    "lemma_norm": "נתנ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/נָתַן-nāṯan-מַתָּן-mattān-מַתָּנָה-mattānâ-מַתַּת-mattaṯ-אֶתְנָה-ʾeṯnâ-אֶתְנַןאֶתְנָן-ʾeṯnānʾeṯnan.md"
+  },
+  {
+    "lemma": "נָפַל",
+    "lemma_norm": "נפל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/נָפַל-nāp̱al-נֵפֶל-nēp̱el-נְפִילִים-nᵉp̱ı̂lı̂m.md"
+  },
+  {
+    "lemma": "נשׁא",
+    "lemma_norm": "נשא",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/נשׁא-nšʾ-i.md"
+  },
+  {
+    "lemma": "נָתַשׁ",
+    "lemma_norm": "נתש",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/נָתַשׁ-nāṯaš.md"
+  },
+  {
+    "lemma": "INDEX",
+    "lemma_norm": "INDEX",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/INDEX.md"
+  },
+  {
+    "lemma": "נְשָׁמָה",
+    "lemma_norm": "נשמה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/נְשָׁמָה-nᵉšāmâ.md"
+  },
+  {
+    "lemma": "נְחֹשֶׁת",
+    "lemma_norm": "נחשת",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/נְחֹשֶׁת-nᵉḥōšeṯ-נְחוּשֶׁה-nᵉḥûšâ-נְחֻשְׁתָּו-nᵉḥuštān.md"
+  },
+  {
+    "lemma": "נָבֵל",
+    "lemma_norm": "נבל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/נָבֵל-nāḇēl-i-נְבֵלָה-nᵉḇēlâ-נֹבֶלֶת-nōḇeleṯ.md"
+  },
+  {
+    "lemma": "נֵבֶל",
+    "lemma_norm": "נבל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/נֵבֶל-nēḇel.md"
+  },
+  {
+    "lemma": "נָקַב",
+    "lemma_norm": "נקב",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/נָקַב-nāqaḇ-נֶקֶב-neqeḇ-נְקֵבָה-nᵉqēḇâ-מַקֶּבֶת-maqqeḇeṯ.md"
+  },
+  {
+    "lemma": "נָגַשׁ",
+    "lemma_norm": "נגש",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/נָגַשׁ-nāg̱aš.md"
+  },
+  {
+    "lemma": "נֵס",
+    "lemma_norm": "נס",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/נֵס-nēs-נסס-nss-ii.md"
+  },
+  {
+    "lemma": "נָשַׁק",
+    "lemma_norm": "נשק",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/נָשַׁק-nāšaq-נְשִׁיקָה-nᵉšı̂qâ.md"
+  },
+  {
+    "lemma": "נָתַץ",
+    "lemma_norm": "נתצ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/נָתַץ-nāṯaṣ.md"
+  },
+  {
+    "lemma": "נָהָר",
+    "lemma_norm": "נהר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/נָהָר-nāhār-נָהַר-nāhar.md"
+  },
+  {
+    "lemma": "נאה",
+    "lemma_norm": "נאה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/נאה-nʾh-נָאוֶה-nāʾweh.md"
+  },
+  {
+    "lemma": "נָסַע",
+    "lemma_norm": "נסע",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/נָסַע-nāsaʿ-מַסַּע-massaʿ-מַסָּע-massāʿ.md"
+  },
+  {
+    "lemma": "נָחַל",
+    "lemma_norm": "נחל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/נָחַל-nāḥal-נַחֲלָה-naḥᵃlâ.md"
+  },
+  {
+    "lemma": "נָאַץ",
+    "lemma_norm": "נאצ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/נָאַץ-nāʾaṣ-נְאָצָה-nᵉʾāṣâ-נֶאָצָה-neʾāṣâ.md"
+  },
+  {
+    "lemma": "נֵצֶר",
+    "lemma_norm": "נצר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/נֵצֶר-nēṣer.md"
+  },
+  {
+    "lemma": "נָצַר",
+    "lemma_norm": "נצר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/נָצַר-nāṣar.md"
+  },
+  {
+    "lemma": "נזר",
+    "lemma_norm": "נזר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/נזר-nzr-נֵזֶר-nēzer-נָזִיר-nāzı̂r.md"
+  },
+  {
+    "lemma": "נֵר",
+    "lemma_norm": "נר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/נֵר-nēr-נִיר-nı̂r.md"
+  },
+  {
+    "lemma": "נָזַל",
+    "lemma_norm": "נזל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/נָזַל-nāzal.md"
+  },
+  {
+    "lemma": "נֶשֶׁר",
+    "lemma_norm": "נשר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/נֶשֶׁר-nešer.md"
+  },
+  {
+    "lemma": "נָדַר",
+    "lemma_norm": "נדר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/נָדַר-nāḏar-נֶדֶר-neḏer.md"
+  },
+  {
+    "lemma": "נֶשֶׁף",
+    "lemma_norm": "נשפ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/נֶשֶׁף-nešep̱.md"
+  },
+  {
+    "lemma": "נגד",
+    "lemma_norm": "נגד",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/נגד-ngd.md"
+  },
+  {
+    "lemma": "נָטַף",
+    "lemma_norm": "נטפ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/נָטַף-nāṭap̱-נָטָפ-nāṭāp̱-נֶטֶפ-neṭep̱-נְטִיפוֹת-nᵉṭı̂p̱ôṯ-נְטֹפָה-nᵉṭōp̱â-נְטֹפָתִי-nᵉṭōp̱āṯı̂.md"
+  },
+  {
+    "lemma": "נָתַק",
+    "lemma_norm": "נתק",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/נָתַק-nāṯaq-נֶתֶק-neṯeq.md"
+  },
+  {
+    "lemma": "נכר",
+    "lemma_norm": "נכר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/נכר-nkr-נֵכָר-nēḵār-נָכְרִי-noḵrı̂.md"
+  },
+  {
+    "lemma": "נִסָּה",
+    "lemma_norm": "נסה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/נִסָּה-nissâ-מַסּוֹת-massôṯ-מַסָּה-massâ.md"
+  },
+  {
+    "lemma": "נָהַג",
+    "lemma_norm": "נהג",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/נָהַג-nāhag̱.md"
+  },
+  {
+    "lemma": "נָטָה",
+    "lemma_norm": "נטה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/נָטָה-nāṭâ.md"
+  },
+  {
+    "lemma": "נוּחַ",
+    "lemma_norm": "נוח",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/נוּחַ-nûaḥ-מְנוּחָה-mᵉnûḥâ.md"
+  },
+  {
+    "lemma": "נָגַיד",
+    "lemma_norm": "נגיד",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/נָגַיד-nāg̱ı̂ḏ.md"
+  },
+  {
+    "lemma": "נוּעַ",
+    "lemma_norm": "נוע",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/נוּעַ-nûaʿ.md"
+  },
+  {
+    "lemma": "נָגַע",
+    "lemma_norm": "נגע",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/נָגַע-nāg̱aʿ-נֶגַע-neg̱aʿ.md"
+  },
+  {
+    "lemma": "נָוֶה",
+    "lemma_norm": "נוה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/נָוֶה-nāweh.md"
+  },
+  {
+    "lemma": "נָגַף",
+    "lemma_norm": "נגפ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/נָגַף-nāg̱ap̱-נֶגֶף-neg̱ep̱-מַגֵּפָה-maggēp̱â.md"
+  },
+  {
+    "lemma": "נָסַך",
+    "lemma_norm": "נסכ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎נ/נָסַך-nāsaḵ-נֶסֶך-neseḵ-נָסִיך-nāsı̂ḵ-מַסֵּכָה-massēḵâ-מַסֶּכֶת-masseḵeṯ-סוּך-ii-sûḵ-אָסוּך-ʾāsûḵ.md"
+  },
+  {
+    "lemma": "יָתוֹם",
+    "lemma_norm": "יתומ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎י/יָתוֹם-yāṯôm.md"
+  },
+  {
+    "lemma": "ידה",
+    "lemma_norm": "ידה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎י/ידה-ydh-תּוֹדָה-tôḏâ.md"
+  },
+  {
+    "lemma": "יָשַׁב",
+    "lemma_norm": "ישב",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎י/יָשַׁב-yāšaḇ-מוֹשָׁב-môšāḇ.md"
+  },
+  {
+    "lemma": "יְאֹר",
+    "lemma_norm": "יאר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎י/יְאֹר-yᵉʾōr.md"
+  },
+  {
+    "lemma": "יְהוּדָה",
+    "lemma_norm": "יהודה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎י/יְהוּדָה-yᵉhûḏâ.md"
+  },
+  {
+    "lemma": "יעל",
+    "lemma_norm": "יעל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎י/יעל-yʿl.md"
+  },
+  {
+    "lemma": "יָרַד",
+    "lemma_norm": "ירד",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎י/יָרַד-yāraḏ.md"
+  },
+  {
+    "lemma": "יָגַע",
+    "lemma_norm": "יגע",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎י/יָגַע-yāg̱aʿ-יְגִיעַ-yᵉg̱ı̂aʿ-יְגִיעָה-yᵉg̱ı̂ʿâ-יָגָע-yāg̱āʿ-יָגֵעַ-yāg̱ēaʿ-יָגִיעַ-yāg̱ı̂aʿ.md"
+  },
+  {
+    "lemma": "יָרַשׁ",
+    "lemma_norm": "ירש",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎י/יָרַשׁ-yāraš-יְרֵשָׁה-yᵉrēšâ-יְרֻשָּׁה-yᵉruššâ-מוֹרָשׁ-môrāš-מוֹרָשָׁה-môrāšâ.md"
+  },
+  {
+    "lemma": "יָקַר",
+    "lemma_norm": "יקר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎י/יָקַר-yāqar-יָקָר-yāqār-יַקִּיר-yaqqı̂r-יְקָר-yᵉqār.md"
+  },
+  {
+    "lemma": "יָרָה",
+    "lemma_norm": "ירה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎י/יָרָה-yārâ-iii-מוֹרֶה-môreh.md"
+  },
+  {
+    "lemma": "יִצְהָר",
+    "lemma_norm": "יצהר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎י/יִצְהָר-yiṣhār.md"
+  },
+  {
+    "lemma": "יִשְׂרָאֵל",
+    "lemma_norm": "ישראל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎י/יִשְׂרָאֵל-yiśrāʾēl.md"
+  },
+  {
+    "lemma": "יָעַד",
+    "lemma_norm": "יעד",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎י/יָעַד-yāʿaḏ.md"
+  },
+  {
+    "lemma": "יָבֵשׁ",
+    "lemma_norm": "יבש",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎י/יָבֵשׁ-yāḇēš-יַבָּשָׁה-yabbāšâ-יַבֶּשֶׁת-yabbešeṯ.md"
+  },
+  {
+    "lemma": "יֶקֶב",
+    "lemma_norm": "יקב",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎י/יֶקֶב-yeqeḇ.md"
+  },
+  {
+    "lemma": "יָצַק",
+    "lemma_norm": "יצק",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎י/יָצַק-yāṣaq-צוּק-ṣûq-ii-יְצֻקָה-yᵉṣuqâ-מָצוּק-māṣûq.md"
+  },
+  {
+    "lemma": "יָרָה",
+    "lemma_norm": "ירה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎י/יָרָה-yārâ-ii-יוֹרֶה-yôreh-מוֹרֶה-môreh.md"
+  },
+  {
+    "lemma": "יָסַר",
+    "lemma_norm": "יסר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎י/יָסַר-yāsar-מוּסָר-mûsār.md"
+  },
+  {
+    "lemma": "יָצַר",
+    "lemma_norm": "יצר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎י/יָצַר-yāṣar-יֵצֶר-yēṣer-צוּר-ṣûr-צִיר-ṣı̂r-צוּרָה-ṣûrâ.md"
+  },
+  {
+    "lemma": "יָם",
+    "lemma_norm": "ימ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎י/יָם-yām.md"
+  },
+  {
+    "lemma": "יבל",
+    "lemma_norm": "יבל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎י/יבל-ybl-יְבוּל-yᵉḇûl.md"
+  },
+  {
+    "lemma": "יַעֲקוֹביַעֲקֹב",
+    "lemma_norm": "יעקוביעקב",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎י/יַעֲקוֹביַעֲקֹב-yaʿᵃqōḇyaʿᵃqôḇ.md"
+  },
+  {
+    "lemma": "יבם",
+    "lemma_norm": "יבמ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎י/יבם-ybm-יָבָם-yāḇām-יְבָמָה-yᵉḇāmâ.md"
+  },
+  {
+    "lemma": "יאל",
+    "lemma_norm": "יאל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎י/יאל-yʾl.md"
+  },
+  {
+    "lemma": "יָקַשׁ",
+    "lemma_norm": "יקש",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎י/יָקַשׁ-yāqaš-יָקוֹשׁ-yāqôš-מוֹקֵשׁ-môqēš.md"
+  },
+  {
+    "lemma": "יָסַף",
+    "lemma_norm": "יספ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎י/יָסַף-yāsap̱.md"
+  },
+  {
+    "lemma": "יְשֻׁרוּן",
+    "lemma_norm": "ישרונ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎י/יְשֻׁרוּן-yᵉšurûn.md"
+  },
+  {
+    "lemma": "יָלַד",
+    "lemma_norm": "ילד",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎י/יָלַד-yālaḏ-יֶלֶד-yeleḏ-יַלְדָּה-yaldâ-יַלְדוּת-yalᵉḏûṯ-יָלִיד-yālı̂ḏ-תּוֹלְדוֹת-tôlᵉḏôṯ.md"
+  },
+  {
+    "lemma": "ילל",
+    "lemma_norm": "ילל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎י/ילל-yll-יְלֵל-yᵉlēl-יְלָלָה-yᵉlālâ.md"
+  },
+  {
+    "lemma": "יָרֵךְ",
+    "lemma_norm": "ירכ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎י/יָרֵךְ-yārēḵ-חֲלָצַיִם-ḥᵃlāṣayim-chᵃlātsayim.md"
+  },
+  {
+    "lemma": "יצב",
+    "lemma_norm": "יצב",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎י/יצב-yṣb-נצב-nṣb.md"
+  },
+  {
+    "lemma": "יָנַק",
+    "lemma_norm": "ינק",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎י/יָנַק-yānaq-יוֹנֵק-yônēq-יוֹנֶקֶת-yôneqeṯ.md"
+  },
+  {
+    "lemma": "יָרֵחַ",
+    "lemma_norm": "ירח",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎י/יָרֵחַ-yārēaḥ-יֶרַח-yeraḥ.md"
+  },
+  {
+    "lemma": "יָנָה",
+    "lemma_norm": "ינה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎י/יָנָה-yānâ.md"
+  },
+  {
+    "lemma": "יָשֵׁן",
+    "lemma_norm": "ישנ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎י/יָשֵׁן-yāšēn-יָשָׁן-yāšān-שֵׁנָא-šēnāʾ-שֵׁנָה-šēnâ.md"
+  },
+  {
+    "lemma": "יקץ",
+    "lemma_norm": "יקצ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎י/יקץ-yqṣ-קיץ-qyṣ.md"
+  },
+  {
+    "lemma": "יָחַל",
+    "lemma_norm": "יחל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎י/יָחַל-yāḥal-תּוֹחֶלֶת-tôḥeleṯ.md"
+  },
+  {
+    "lemma": "INDEX",
+    "lemma_norm": "INDEX",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎י/INDEX.md"
+  },
+  {
+    "lemma": "יַיִן",
+    "lemma_norm": "יינ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎י/יַיִן-yayin.md"
+  },
+  {
+    "lemma": "יָצָא",
+    "lemma_norm": "יצא",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎י/יָצָא-yāṣāʾ-מוֹצָא-môṣāʾ-תּוֹצָאוֹת-tôṣāʾôṯ.md"
+  },
+  {
+    "lemma": "יצג",
+    "lemma_norm": "יצג",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎י/יצג-yṣg.md"
+  },
+  {
+    "lemma": "יְרוּשָׁלַםִ",
+    "lemma_norm": "ירושלמ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎י/יְרוּשָׁלַםִ-yᵉrûšālēmyᵉrûšālayim.md"
+  },
+  {
+    "lemma": "יָפָה",
+    "lemma_norm": "יפה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎י/יָפָה-yāp̱â-יָפֶה-yāp̱eh-יְפִי-yᵉp̱ı̂-יְפֵיפֶה-yᵉp̱êp̱eh.md"
+  },
+  {
+    "lemma": "יוֹבֵל",
+    "lemma_norm": "יובל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎י/יוֹבֵל-yôḇēl.md"
+  },
+  {
+    "lemma": "יָדִיד",
+    "lemma_norm": "ידיד",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎י/יָדִיד-yāḏı̂ḏ.md"
+  },
+  {
+    "lemma": "יָמִין",
+    "lemma_norm": "ימינ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎י/יָמִין-yāmı̂n-ימן-ymn-hiphil-יְמָנִי-yᵉmānı̂-יְמִינִי-yᵉmı̂nı̂-יָמִינִי-yāmı̂nı̂-יִמְנָה-yimnâ-תֵּימָן-têmān.md"
+  },
+  {
+    "lemma": "יַעַר",
+    "lemma_norm": "יער",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎י/יַעַר-yaʿar.md"
+  },
+  {
+    "lemma": "יכח",
+    "lemma_norm": "יכח",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎י/יכח-ykḥ-תּוֹכַחַת-tôḵaḥaṯ-תּוֹכֵחָה-tôḵēḥâ.md"
+  },
+  {
+    "lemma": "יָרָה",
+    "lemma_norm": "ירה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎י/יָרָה-yārâ-i-יוֹרֶה-yôreh-מוֹרֶה-môreh.md"
+  },
+  {
+    "lemma": "יוֹנָה",
+    "lemma_norm": "יונה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎י/יוֹנָה-yônâ-תּוֹר-tôr-ii-גּוֹזָל-gôzāl-יְמִימָה-yᵉmı̂mâ.md"
+  },
+  {
+    "lemma": "יוֹם",
+    "lemma_norm": "יומ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎י/יוֹם-yôm-יוֹמָם-yômām-יוֹם-יהוה-yôm-yhwh.md"
+  },
+  {
+    "lemma": "יָפַע",
+    "lemma_norm": "יפע",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎י/יָפַע-yāp̱aʿ-יִפְעָה-yip̱ʿâ.md"
+  },
+  {
+    "lemma": "יעף",
+    "lemma_norm": "יעפ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎י/יעף-yʿp-i-יָעֵף-yāʿēp̱-עיף-ʿyp-ii-עָיֵף-ʿāyēp̱.md"
+  },
+  {
+    "lemma": "יָד",
+    "lemma_norm": "יד",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎י/יָד-yāḏ-זְרוֹעַ-zᵉrôaʿ-יָמִין-yāmı̂n-כַּף-kap̱-אֶצְבַּע-ʾeṣbaʿ.md"
+  },
+  {
+    "lemma": "ישׁע",
+    "lemma_norm": "ישע",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎י/ישׁע-yšʿ-הוֹשִׁיעַ-hôšı̂aʿ-יְשׁוּעָה-yᵉšûʿâ-יֵשַׁע-יֶשַׁע-yēšaʿ-yešaʿ-מוֹשָׁעוֹת-môšāʿôṯ-תְּשׁוּעָה-tᵉšûʿâ.md"
+  },
+  {
+    "lemma": "יהוה",
+    "lemma_norm": "יהוה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎י/יהוה-yhwh.md"
+  },
+  {
+    "lemma": "יָרֵא",
+    "lemma_norm": "ירא",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎י/יָרֵא-yārēʾ-יָרֵא-yārēʾ-יִרְאָה-yirʾâ-מוֹרָא-môrāʾ.md"
+  },
+  {
+    "lemma": "יָחַשׂ",
+    "lemma_norm": "יחש",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎י/יָחַשׂ-yāḥaś-יַחַשׂ-yaḥaś.md"
+  },
+  {
+    "lemma": "יָכֹל",
+    "lemma_norm": "יכל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎י/יָכֹל-yāḵōl.md"
+  },
+  {
+    "lemma": "יַרְדֵּן",
+    "lemma_norm": "ירדנ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎י/יַרְדֵּן-yardēn.md"
+  },
+  {
+    "lemma": "יָשַׁר",
+    "lemma_norm": "ישר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎י/יָשַׁר-yāšar-ישֶׁר-yōšer-יִשְׁרָה-yišrâ-מִישׁוֹר-mı̂šôr-מֵישָׁרִים-mêšārı̂m.md"
+  },
+  {
+    "lemma": "יָקַד",
+    "lemma_norm": "יקד",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎י/יָקַד-yāqaḏ-יְקֹד-yᵉqōḏ-מוֹקֵד-môqēḏ.md"
+  },
+  {
+    "lemma": "יָעַץ",
+    "lemma_norm": "יעצ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎י/יָעַץ-yāʿaṣ-עֵצָה-ʿēṣâ-מוֹעֵצָה-môʿēṣâ.md"
+  },
+  {
+    "lemma": "יָחַד",
+    "lemma_norm": "יחד",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎י/יָחַד-yāḥaḏ-יַחַד-yaḥaḏ-יָחִיד-yāḥı̂ḏ-יַחְדָו-yaḥdāw.md"
+  },
+  {
+    "lemma": "יָגָה",
+    "lemma_norm": "יגה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎י/יָגָה-yāg̱â-יָגוֹן-yāg̱ôn-תּוּגָה-tûg̱â.md"
+  },
+  {
+    "lemma": "יצת",
+    "lemma_norm": "יצת",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎י/יצת-yṣt.md"
+  },
+  {
+    "lemma": "מְצוּלָה",
+    "lemma_norm": "מצולה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מְצוּלָה-mᵉṣûlâ-מְצוֹלָה-mᵉṣôlâ-צוּלָה-ṣûlâ-ii-צָלַל-ṣālal-ii.md"
+  },
+  {
+    "lemma": "מָרַד",
+    "lemma_norm": "מרד",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מָרַד-māraḏ-מֶרֶד-mereḏ-מַרְדּוּת-mardûṯ.md"
+  },
+  {
+    "lemma": "מִשְׁכָּן",
+    "lemma_norm": "משכנ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מִשְׁכָּן-miškān.md"
+  },
+  {
+    "lemma": "מָתַק",
+    "lemma_norm": "מתק",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מָתַק-māṯaq-מָתוֹק-māṯôq-מֹתֶק-mōṯeq-מֶתֶק-meṯeq-מַמְתַקִּים-mamᵉṯaqqı̂m.md"
+  },
+  {
+    "lemma": "מְלָאכָה",
+    "lemma_norm": "מלאכה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מְלָאכָה-mᵉlāʾḵâ.md"
+  },
+  {
+    "lemma": "מָצָא",
+    "lemma_norm": "מצא",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מָצָא-māṣāʾ.md"
+  },
+  {
+    "lemma": "מִצְרַיִם",
+    "lemma_norm": "מצרימ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מִצְרַיִם-miṣrayim.md"
+  },
+  {
+    "lemma": "מָן",
+    "lemma_norm": "מנ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מָן-mān.md"
+  },
+  {
+    "lemma": "מַעֲשֶׂה",
+    "lemma_norm": "מעשה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מַעֲשֶׂה-maʿᵃśeh-עָשָׂה-ʿāśâ.md"
+  },
+  {
+    "lemma": "מוט",
+    "lemma_norm": "מוט",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מוט-mwṭ-מוֹט-môṭ-מוֹטָה-môṭâ.md"
+  },
+  {
+    "lemma": "מָדַד",
+    "lemma_norm": "מדד",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מָדַד-māḏaḏ-מִדָּה-middâ-מַד-maḏ-מֵמַד-mēmaḏ.md"
+  },
+  {
+    "lemma": "מַבּוּל",
+    "lemma_norm": "מבול",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מַבּוּל-mabbûl.md"
+  },
+  {
+    "lemma": "מָאַס",
+    "lemma_norm": "מאס",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מָאַס-māʾas.md"
+  },
+  {
+    "lemma": "מֹהַר",
+    "lemma_norm": "מהר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מֹהַר-mōhar.md"
+  },
+  {
+    "lemma": "מִנְחָה",
+    "lemma_norm": "מנחה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מִנְחָה-minḥâ.md"
+  },
+  {
+    "lemma": "מֵעִים",
+    "lemma_norm": "מעימ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מֵעִים-mēʿı̂m.md"
+  },
+  {
+    "lemma": "מהר",
+    "lemma_norm": "מהר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מהר-mhr-מְהֵרָה-mᵉhērâ-מָהִיר-māhı̂r.md"
+  },
+  {
+    "lemma": "מִשְׁפָּחָה",
+    "lemma_norm": "משפחה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מִשְׁפָּחָה-mišpāḥâ.md"
+  },
+  {
+    "lemma": "מַצָּה",
+    "lemma_norm": "מצה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מַצָּה-maṣṣâ-מַצּוֹת-maṣṣôṯ.md"
+  },
+  {
+    "lemma": "מָנָה",
+    "lemma_norm": "מנה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מָנָה-mānâ-מְנָת-mᵉnāṯ-מְנִי-mᵉnı̂.md"
+  },
+  {
+    "lemma": "מָנַע",
+    "lemma_norm": "מנע",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מָנַע-mānaʿ.md"
+  },
+  {
+    "lemma": "מכר",
+    "lemma_norm": "מכר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מכר-mkr.md"
+  },
+  {
+    "lemma": "מָחָר",
+    "lemma_norm": "מחר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מָחָר-māḥār-מָחֳרָת-moḥᵒrāṯ.md"
+  },
+  {
+    "lemma": "מלט",
+    "lemma_norm": "מלט",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מלט-mlṭ-פלט-plṭ.md"
+  },
+  {
+    "lemma": "מוֹפֵת",
+    "lemma_norm": "מופת",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מוֹפֵת-môp̱ēṯ.md"
+  },
+  {
+    "lemma": "מָרָה",
+    "lemma_norm": "מרה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מָרָה-mārâ-מְרִי-mᵉrı̂.md"
+  },
+  {
+    "lemma": "מת",
+    "lemma_norm": "מת",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מת-mt.md"
+  },
+  {
+    "lemma": "מְנוֹרָה",
+    "lemma_norm": "מנורה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מְנוֹרָה-mᵉnôrâ.md"
+  },
+  {
+    "lemma": "מַטֶּה",
+    "lemma_norm": "מטה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מַטֶּה-maṭṭeh.md"
+  },
+  {
+    "lemma": "מֹר",
+    "lemma_norm": "מר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מֹר-mōr.md"
+  },
+  {
+    "lemma": "מסס",
+    "lemma_norm": "מסס",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מסס-mss-מסה-msh.md"
+  },
+  {
+    "lemma": "מִשְׁפָּט",
+    "lemma_norm": "משפט",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מִשְׁפָּט-mišpāṭ-שֶׁפֶט-šep̱eṭ-שְׁפוֹט-šᵉp̱ôṭ.md"
+  },
+  {
+    "lemma": "מאן",
+    "lemma_norm": "מאנ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מאן-mʾn.md"
+  },
+  {
+    "lemma": "מֹאזְנַיִמ",
+    "lemma_norm": "מאזנימ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מֹאזְנַיִמ-mōʾzᵉnayim.md"
+  },
+  {
+    "lemma": "מִשְׁמֶרֶת",
+    "lemma_norm": "משמרת",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מִשְׁמֶרֶת-mišmereṯ.md"
+  },
+  {
+    "lemma": "מֶלֶךְ",
+    "lemma_norm": "מלכ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מֶלֶךְ-meleḵ-מָלַךְ-mālaḵ-מְלוּכָה-mᵉlûḵâ-מַלְכוּת-malḵûṯ-מַמְלָכָה-mamlāḵâ-מַמְלָכוּת-mamlāḵûṯ.md"
+  },
+  {
+    "lemma": "מור",
+    "lemma_norm": "מור",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מור-mwr.md"
+  },
+  {
+    "lemma": "מְצוּדָה",
+    "lemma_norm": "מצודה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מְצוּדָה-mᵉṣûḏâ-מָצוֹד-māṣôḏ-מְצוֹדָה-mᵉṣôḏâ-מְצָד-mᵉṣāḏ.md"
+  },
+  {
+    "lemma": "מֹלֶךְ",
+    "lemma_norm": "מלכ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מֹלֶךְ-mōleḵ.md"
+  },
+  {
+    "lemma": "מְחִיר",
+    "lemma_norm": "מחיר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מְחִיר-mᵉḥı̂r.md"
+  },
+  {
+    "lemma": "מָחָה",
+    "lemma_norm": "מחה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מָחָה-māḥâ.md"
+  },
+  {
+    "lemma": "מָחַצ",
+    "lemma_norm": "מחצ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מָחַצ-māḥaṣ.md"
+  },
+  {
+    "lemma": "מַקֵּל",
+    "lemma_norm": "מקל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מַקֵּל-maqqēl.md"
+  },
+  {
+    "lemma": "מָעַד",
+    "lemma_norm": "מעד",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מָעַד-māʿaḏ.md"
+  },
+  {
+    "lemma": "מוֹלֶדֶת",
+    "lemma_norm": "מולדת",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מוֹלֶדֶת-môleḏeṯ.md"
+  },
+  {
+    "lemma": "מַצֵּבָה",
+    "lemma_norm": "מצבה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מַצֵּבָה-maṣṣēḇâ.md"
+  },
+  {
+    "lemma": "מַרְזֵחַ",
+    "lemma_norm": "מרזח",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מַרְזֵחַ-marzēaḥ.md"
+  },
+  {
+    "lemma": "מַקֶּבֶת",
+    "lemma_norm": "מקבת",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מַקֶּבֶת-maqqeḇeṯ-פַּטִּישׁ-paṭṭı̂š-מַפֵּץ-mappēṣ.md"
+  },
+  {
+    "lemma": "מְזוּזָה",
+    "lemma_norm": "מזוזה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מְזוּזָה-mᵉzûzâ.md"
+  },
+  {
+    "lemma": "מִדְבָּר",
+    "lemma_norm": "מדבר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מִדְבָּר-miḏbār-ערָבָה-ʿᵃrāḇâ.md"
+  },
+  {
+    "lemma": "מָתַי",
+    "lemma_norm": "מתי",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מָתַי-māṯay.md"
+  },
+  {
+    "lemma": "INDEX",
+    "lemma_norm": "INDEX",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/INDEX.md"
+  },
+  {
+    "lemma": "מָעַל",
+    "lemma_norm": "מעל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מָעַל-māʿal-מַעַל-maʿal.md"
+  },
+  {
+    "lemma": "מָקוֹר",
+    "lemma_norm": "מקור",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מָקוֹר-māqôr.md"
+  },
+  {
+    "lemma": "מִצְוָה",
+    "lemma_norm": "מצוה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מִצְוָה-miṣwâ.md"
+  },
+  {
+    "lemma": "מוּת",
+    "lemma_norm": "מות",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מוּת-mûṯ-מָוֶת-māweṯ-תְמוּתָה-tᵉmûṯâ-מְמוֹתִים-mᵉmôṯı̂m.md"
+  },
+  {
+    "lemma": "מָשַׁל",
+    "lemma_norm": "משל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מָשַׁל-māšal-i-מָשָׁל-māšāl.md"
+  },
+  {
+    "lemma": "מוּל",
+    "lemma_norm": "מול",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מוּל-mûl-מוּלָה-mûlâ.md"
+  },
+  {
+    "lemma": "מִבְצָר",
+    "lemma_norm": "מבצר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מִבְצָר-miḇṣār.md"
+  },
+  {
+    "lemma": "משֶׁה",
+    "lemma_norm": "משה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/משֶׁה-mōšeh.md"
+  },
+  {
+    "lemma": "מִזְבֵּחַ",
+    "lemma_norm": "מזבח",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מִזְבֵּחַ-mizbēaḥ.md"
+  },
+  {
+    "lemma": "מְאֹד",
+    "lemma_norm": "מאד",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מְאֹד-mᵉʾōḏ.md"
+  },
+  {
+    "lemma": "מִקְלָט",
+    "lemma_norm": "מקלט",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מִקְלָט-miqlâṭ.md"
+  },
+  {
+    "lemma": "מָשַׁח",
+    "lemma_norm": "משח",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מָשַׁח-māšaḥ-i-מָשִׁיחַ-māšı̂aḥ.md"
+  },
+  {
+    "lemma": "מֶלַח",
+    "lemma_norm": "מלח",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מֶלַח-melaḥ.md"
+  },
+  {
+    "lemma": "מהה",
+    "lemma_norm": "מהה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מהה-mhh-אחר-ʾḥr.md"
+  },
+  {
+    "lemma": "מַלְאָךְ",
+    "lemma_norm": "מלאכ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מַלְאָךְ-malʾāḵ.md"
+  },
+  {
+    "lemma": "מִשְׁבָּרִים",
+    "lemma_norm": "משברימ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מִשְׁבָּרִים-mišbārı̂m.md"
+  },
+  {
+    "lemma": "מַעֲלָל",
+    "lemma_norm": "מעלל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מַעֲלָל-maʿᵃlāl-עלל-ʿll.md"
+  },
+  {
+    "lemma": "מֹץ",
+    "lemma_norm": "מצ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מֹץ-mōṣ.md"
+  },
+  {
+    "lemma": "מָשַׁל",
+    "lemma_norm": "משל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מָשַׁל-māšal-ii-מֹשֶׁל-mōšel-מִמְשָׁל-mimšāl-מֶמְשָׁלָה-memšālâ.md"
+  },
+  {
+    "lemma": "מָטָר",
+    "lemma_norm": "מטר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מָטָר-māṭār-גֶּשֶׁם-gešem-זֶרֶם-zerem.md"
+  },
+  {
+    "lemma": "מוּג",
+    "lemma_norm": "מוג",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מוּג-mûg̱.md"
+  },
+  {
+    "lemma": "מָעוֹז",
+    "lemma_norm": "מעוז",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מָעוֹז-māʿôz.md"
+  },
+  {
+    "lemma": "מַסֵּכָה",
+    "lemma_norm": "מסכה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מַסֵּכָה-massēḵâ.md"
+  },
+  {
+    "lemma": "מַס",
+    "lemma_norm": "מס",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מַס-mas-סֵבֶל-sēḇel.md"
+  },
+  {
+    "lemma": "מָעוֹן",
+    "lemma_norm": "מעונ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מָעוֹן-māʿôn-מְעֹנָה-mᵉʿōnâ.md"
+  },
+  {
+    "lemma": "מִלְחָמָה",
+    "lemma_norm": "מלחמה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מִלְחָמָה-milḥāmâ-לָחַמ-lāḥam.md"
+  },
+  {
+    "lemma": "מָעַט",
+    "lemma_norm": "מעט",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מָעַט-māʿaṭ-מְעַט-mᵉʿaṭ.md"
+  },
+  {
+    "lemma": "מִישׁמוּשׁ",
+    "lemma_norm": "מישמוש",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מִישׁמוּשׁ-mûšmı̂š.md"
+  },
+  {
+    "lemma": "מִגְדָּל",
+    "lemma_norm": "מגדל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מִגְדָּל-mig̱dāl.md"
+  },
+  {
+    "lemma": "מוֹעֵד",
+    "lemma_norm": "מועד",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מוֹעֵד-môʿēḏ.md"
+  },
+  {
+    "lemma": "מַיִם",
+    "lemma_norm": "מימ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מַיִם-mayim.md"
+  },
+  {
+    "lemma": "מָשַׁךְ",
+    "lemma_norm": "משכ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מָשַׁךְ-māšaḵ.md"
+  },
+  {
+    "lemma": "מָלֵא",
+    "lemma_norm": "מלא",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מָלֵא-mālēʾ-מְלֹא-mᵉlōʾ-מִלַּאָה-milluʾâ-מִלַּאִים-milluʾı̂m-מִלּוֹא-millôʾ.md"
+  },
+  {
+    "lemma": "מָגֵן",
+    "lemma_norm": "מגנ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מָגֵן-māg̱ēn-גָנַן-gānan-צִנָּה-ṣinnâ-שֶׁלֶט-šeleṭ.md"
+  },
+  {
+    "lemma": "מִין",
+    "lemma_norm": "מינ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מִין-mı̂n.md"
+  },
+  {
+    "lemma": "מָקוֹם",
+    "lemma_norm": "מקומ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎מ/מָקוֹם-māqôm.md"
+  },
+  {
+    "lemma": "חָדַל",
+    "lemma_norm": "חדל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חָדַל-chādhal.md"
+  },
+  {
+    "lemma": "חֵמָה",
+    "lemma_norm": "חמה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חֵמָה-chēmāh.md"
+  },
+  {
+    "lemma": "חָשַׁב",
+    "lemma_norm": "חשב",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חָשַׁב-ḥāšaḇ-חֹשֵׁב-ḥōšēḇ-חֶשְׁבּוֹן-ḥešbôn-חִשָּׁבוֹן-ḥiššāḇôn-מַחֲשֶׁבֶת-maḥᵃšeḇeṯ.md"
+  },
+  {
+    "lemma": "חֵיק",
+    "lemma_norm": "חיק",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חֵיק-chêq.md"
+  },
+  {
+    "lemma": "חָשַׁךְ",
+    "lemma_norm": "חשכ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חָשַׁךְ-ḥāšaḵ-חשֶׁךְ-ḥōšeḵ-חֲשֵׁכָה-ḥᵃšēḵâ-חָשֹׁךְ-ḥāšōḵ-מַחְשָׁךְ-maḥšāḵ.md"
+  },
+  {
+    "lemma": "חָלַל",
+    "lemma_norm": "חלל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חָלַל-chālal-ii.md"
+  },
+  {
+    "lemma": "חבשׁ",
+    "lemma_norm": "חבש",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חבשׁ-ḥbš.md"
+  },
+  {
+    "lemma": "חָדָשׁ",
+    "lemma_norm": "חדש",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חָדָשׁ-chādhāsh-חֹדֶשׁ-chōdhesh.md"
+  },
+  {
+    "lemma": "חיל",
+    "lemma_norm": "חיל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חיל-ḥyl-חִיל-chı̂l-חִילָה-chı̂lāh-חַלְחָלָה-chalchālāh.md"
+  },
+  {
+    "lemma": "חָקַר",
+    "lemma_norm": "חקר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חָקַר-ḥāqar-חֵקֶר-ḥēqer-מֶחְקָר-meḥqār.md"
+  },
+  {
+    "lemma": "חָפַר",
+    "lemma_norm": "חפר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חָפַר-ḥāp̱ar.md"
+  },
+  {
+    "lemma": "חֶמְאָה",
+    "lemma_norm": "חמאה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חֶמְאָה-chemʾāh-חָלָב-chālābh.md"
+  },
+  {
+    "lemma": "חָשַׂךְ",
+    "lemma_norm": "חשכ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חָשַׂךְ-ḥāśaḵ.md"
+  },
+  {
+    "lemma": "חָבַל",
+    "lemma_norm": "חבל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חָבַל-chābhal-ii-חֲבֹל-chᵃbhōl-חֲבֹלָה-chᵃbhōlāh.md"
+  },
+  {
+    "lemma": "חָצַב",
+    "lemma_norm": "חצב",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חָצַב-ḥāṣaḇ-מַחְצֵב-maḥṣēḇ-גָּזִית-gāzı̂ṯ.md"
+  },
+  {
+    "lemma": "חָמַל",
+    "lemma_norm": "חמל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חָמַל-chāmal-חֶמְלָה-chemlāh.md"
+  },
+  {
+    "lemma": "חרף",
+    "lemma_norm": "חרפ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חרף-ḥrp-ii.md"
+  },
+  {
+    "lemma": "חָשַׁק",
+    "lemma_norm": "חשק",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חָשַׁק-ḥāšaq-חֵשֶׁק-ḥēšeq-חִשֻּׁק-ḥiššuq-חָשׁוּק-ḥāšûq.md"
+  },
+  {
+    "lemma": "חוּג",
+    "lemma_norm": "חוג",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חוּג-chûgh.md"
+  },
+  {
+    "lemma": "חָפַשׂ",
+    "lemma_norm": "חפש",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חָפַשׂ-ḥāp̱aś-חֵפֶשׂ-ḥēp̱eś.md"
+  },
+  {
+    "lemma": "חִידָה",
+    "lemma_norm": "חידה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חִידָה-chı̂dhāh.md"
+  },
+  {
+    "lemma": "חָלַף",
+    "lemma_norm": "חלפ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חָלַף-chālaph-חֲלִיפָה-chᵃlı̂phāh-חֵלֶף-chēleph-מַחְלְפוֹת-machlᵉphôth.md"
+  },
+  {
+    "lemma": "חָפַז",
+    "lemma_norm": "חפז",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חָפַז-ḥāp̱az-חִפָּזוֹן-ḥippāzôn.md"
+  },
+  {
+    "lemma": "חָבַר",
+    "lemma_norm": "חבר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חָבַר-chābhar-חָבֵר-chābhēr.md"
+  },
+  {
+    "lemma": "חָגַר",
+    "lemma_norm": "חגר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חָגַר-chāghar-חָגוֹר-chāghôr-חֲגוֹר-chᵃghôr-חֲגוֹרָה-chᵃghôrāh.md"
+  },
+  {
+    "lemma": "חָסִיד",
+    "lemma_norm": "חסיד",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חָסִיד-ḥāsı̂ḏ.md"
+  },
+  {
+    "lemma": "חלל",
+    "lemma_norm": "חלל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חלל-ḥll-i-חֹל-chōl-חָלִיל-chālı̂l.md"
+  },
+  {
+    "lemma": "חֲזִיר",
+    "lemma_norm": "חזיר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חֲזִיר-chᵃzı̂r.md"
+  },
+  {
+    "lemma": "חָרַץ",
+    "lemma_norm": "חרצ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חָרַץ-ḥāraṣ-חָרוּץ-ḥārûṣ-חָרִיץ-ḥārı̂ṣ.md"
+  },
+  {
+    "lemma": "חֹטֶר",
+    "lemma_norm": "חטר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חֹטֶר-chōṭer-נֵצֶר-nētser.md"
+  },
+  {
+    "lemma": "חָלַק",
+    "lemma_norm": "חלק",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חָלַק-chālaq-ii-חֵלֶק-chēleq-חֶלְקָה-chelqāh-חֲלֻקָּה-chᵃluqqāh-מַחֲלֹקֶת-machᵃlōqeth.md"
+  },
+  {
+    "lemma": "חָפֵץ",
+    "lemma_norm": "חפצ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חָפֵץ-ḥāp̱ēṣ-חֵפֶץ-ḥēp̱eṣ.md"
+  },
+  {
+    "lemma": "חֲלָצַיִם",
+    "lemma_norm": "חלצימ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חֲלָצַיִם-chᵃlātsayim-מָתְנַיִם-mothnayim-יָרֵךְ-yārēkh-כֶּסֶל-kesel.md"
+  },
+  {
+    "lemma": "חוה",
+    "lemma_norm": "חוה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חוה-ḥwh-הִשְׁתַּחֲוָה-hishtachᵃvāh.md"
+  },
+  {
+    "lemma": "חָלַם",
+    "lemma_norm": "חלמ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חָלַם-chālam-חֲלוֹם-chᵃlôm.md"
+  },
+  {
+    "lemma": "חוּל",
+    "lemma_norm": "חול",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חוּל-chûl-מָחוֹל-māchôl-מְחוֹלָה-mᵉchōlāh.md"
+  },
+  {
+    "lemma": "חַג",
+    "lemma_norm": "חג",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חַג-chagh-חגג-ḥgg.md"
+  },
+  {
+    "lemma": "חָצִיר",
+    "lemma_norm": "חציר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חָצִיר-ḥāṣı̂r.md"
+  },
+  {
+    "lemma": "חָסָה",
+    "lemma_norm": "חסה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חָסָה-ḥāsâ-מַחֲסֶה-maḥᵃseh-חָסוּת-ḥāsûṯ.md"
+  },
+  {
+    "lemma": "חָכָה",
+    "lemma_norm": "חכה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חָכָה-chākhāh.md"
+  },
+  {
+    "lemma": "חרם",
+    "lemma_norm": "חרמ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חרם-ḥrm-ii-חָרוּם-ḥārûm-חֲרוּמַף-ḥᵃrûmap-חֵרֶם-ḥērem-ii.md"
+  },
+  {
+    "lemma": "חָבַל",
+    "lemma_norm": "חבל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חָבַל-chābhal-iii.md"
+  },
+  {
+    "lemma": "חָנַן",
+    "lemma_norm": "חננ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חָנַן-ḥānan-חֵן-ḥēn-חַנּוּן-ḥannûn-חֲנִינָה-ḥᵃnı̂nâ-תְּחִנָּה-tᵉḥinnâ-תַּחֲנוּן-taḥᵃnûn.md"
+  },
+  {
+    "lemma": "חָנַךְ",
+    "lemma_norm": "חנכ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חָנַךְ-ḥānaḵ-חֲנֻכָּה-ḥᵃnukkâ-חָנִיךְ-ḥānı̂ḵ.md"
+  },
+  {
+    "lemma": "חָצֵר",
+    "lemma_norm": "חצר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חָצֵר-ḥāṣēr.md"
+  },
+  {
+    "lemma": "חָרַב",
+    "lemma_norm": "חרב",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חָרַב-ḥāraḇ-i-חָרֵב-ḥārēḇ-חֹרֶב-ḥōreḇ-חָרְבָּה-ḥorbâ-חָרָבָה-ḥārāḇâ-חֲרָבוֹן-ḥᵃrāḇôn.md"
+  },
+  {
+    "lemma": "חֶרֶב",
+    "lemma_norm": "חרב",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חֶרֶב-ḥereḇ-חָרַב-ḥāraḇ-ii.md"
+  },
+  {
+    "lemma": "חָתַם",
+    "lemma_norm": "חתמ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חָתַם-ḥāṯam-חוֹתָם-ḥôṯām.md"
+  },
+  {
+    "lemma": "חָרַד",
+    "lemma_norm": "חרד",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חָרַד-ḥāraḏ-חָרֵד-ḥārēḏ-חֲרָדָה-ḥᵃrāḏâ.md"
+  },
+  {
+    "lemma": "חָמָס",
+    "lemma_norm": "חמס",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חָמָס-chāmās.md"
+  },
+  {
+    "lemma": "חמם",
+    "lemma_norm": "חממ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חמם-ḥmm-חֹם-chōm-חָם-chām-חוּם-chûm-חַמָּה-chammāh-חַמָּן-chammān.md"
+  },
+  {
+    "lemma": "חוּשׁ",
+    "lemma_norm": "חוש",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חוּשׁ-chûsh-חִישׁ-chı̂sh.md"
+  },
+  {
+    "lemma": "חַיִל",
+    "lemma_norm": "חיל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חַיִל-chayil.md"
+  },
+  {
+    "lemma": "חָרַשׁ",
+    "lemma_norm": "חרש",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חָרַשׁ-ḥāraš-i-חָרָשׁ-ḥārāš-חֲרַשִׁים-ḥᵃrāšı̂m.md"
+  },
+  {
+    "lemma": "חֶלֶד",
+    "lemma_norm": "חלד",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חֶלֶד-cheledh-חֹלֶד-chōledh-חֻלְדָּה-chuldāh-חֵלֶד-chēledh-חֶלְדַּי-cheldai.md"
+  },
+  {
+    "lemma": "חָשָׁה",
+    "lemma_norm": "חשה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חָשָׁה-ḥāšâ-דמה-ii-דמם-dāmâ-dāmāh-ii-dmm.md"
+  },
+  {
+    "lemma": "INDEX",
+    "lemma_norm": "INDEX",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/INDEX.md"
+  },
+  {
+    "lemma": "חשֶׁן",
+    "lemma_norm": "חשנ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חשֶׁן-ḥōšen.md"
+  },
+  {
+    "lemma": "חָרַם",
+    "lemma_norm": "חרמ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חָרַם-ḥāram-חֵרֶם-ḥērem.md"
+  },
+  {
+    "lemma": "חָכַם",
+    "lemma_norm": "חכמ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חָכַם-chākham-חָכָם-chākhām-חָכְמָה-chokhmāh-חָכְמוֹת-chokhmôth.md"
+  },
+  {
+    "lemma": "חָנֵף",
+    "lemma_norm": "חנפ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חָנֵף-ḥānēp̱-חָנֵף-ḥānēp̱-חֹנֶף-ḥōnep̱-חֲנֻפָּה-ḥᵃnuppâ.md"
+  },
+  {
+    "lemma": "חָיָה",
+    "lemma_norm": "חיה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חָיָה-chāyāh-חַי-chai-חַיִּים-chaiyı̂m-חַיָּה-chaiyāh-מִחְיָה-michyāh.md"
+  },
+  {
+    "lemma": "חֵץ",
+    "lemma_norm": "חצ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חֵץ-ḥēṣ.md"
+  },
+  {
+    "lemma": "חתן",
+    "lemma_norm": "חתנ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חתן-ḥtn-חָתָן-ḥāṯān-חֹתֵן-ḥōṯēn.md"
+  },
+  {
+    "lemma": "חָלָה",
+    "lemma_norm": "חלה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חָלָה-chālāh-חֳלִי-chᵒlı̂-חִלָּה-פָנִים-chillāh-phānı̂m.md"
+  },
+  {
+    "lemma": "חָזַק",
+    "lemma_norm": "חזק",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חָזַק-chāzaq-חָזָק-chāzāq-חָזֵק-chāzēq-חֶזֶק-chezeq-חֹזֶק-chōzeq-חֶזְקָה-chezqāh-חָזְקָה-chozqāh.md"
+  },
+  {
+    "lemma": "חָקַק",
+    "lemma_norm": "חקק",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חָקַק-ḥāqaq-חָקָה-ḥāqâ-חֹק-ḥōq-חֻקָּה-ḥuqqâ.md"
+  },
+  {
+    "lemma": "חמץ",
+    "lemma_norm": "חמצ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חמץ-ḥmṣ-חָמֵץ-chāmēts-חֹמֶץ-chōmets-חָמוּץ-chāmûts-חָמִיץ-chāmı̂ts.md"
+  },
+  {
+    "lemma": "חֶדֶרchedher",
+    "lemma_norm": "חדרchedher",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חֶדֶרchedher.md"
+  },
+  {
+    "lemma": "חַרְטֹם",
+    "lemma_norm": "חרטמ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חַרְטֹם-ḥarṭōm.md"
+  },
+  {
+    "lemma": "חֲמוֹר",
+    "lemma_norm": "חמור",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חֲמוֹר-chᵃmôr.md"
+  },
+  {
+    "lemma": "חבל",
+    "lemma_norm": "חבל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חבל-ḥbl-iv-חֵבֶל-chēbhel.md"
+  },
+  {
+    "lemma": "חֵלֶבchēlebh",
+    "lemma_norm": "חלבchelebh",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חֵלֶבchēlebh.md"
+  },
+  {
+    "lemma": "חוּס",
+    "lemma_norm": "חוס",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חוּס-chûs.md"
+  },
+  {
+    "lemma": "חָרָה",
+    "lemma_norm": "חרה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חָרָה-ḥārâ-חָרוֹן-ḥārôn-חֳרִי-ḥᵒrı̂.md"
+  },
+  {
+    "lemma": "חַוָּה",
+    "lemma_norm": "חוה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חַוָּה-chavvāh.md"
+  },
+  {
+    "lemma": "חָסֵר",
+    "lemma_norm": "חסר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חָסֵר-ḥāsēr-חָסֵר-ḥāsēr-חֶסֶר-ḥeser-חֹסֶר-ḥōser-חֶסְרוֹן-ḥesrôn-מַחְסוֹר-maḥsôr.md"
+  },
+  {
+    "lemma": "חָרַשׁ",
+    "lemma_norm": "חרש",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חָרַשׁ-ḥārāš-ii-דמה-iiדמם-dāmâ-dāmāhdmm.md"
+  },
+  {
+    "lemma": "חוֹמָה",
+    "lemma_norm": "חומה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חוֹמָה-chômāh.md"
+  },
+  {
+    "lemma": "חָנָה",
+    "lemma_norm": "חנה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חָנָה-ḥānâ-מַחֲנֶה-maḥᵃneh.md"
+  },
+  {
+    "lemma": "חמר",
+    "lemma_norm": "חמר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חמר-ḥmr-חֹמֶר-ḥōmer-חֵמָר-ḥēmār.md"
+  },
+  {
+    "lemma": "חָבָא",
+    "lemma_norm": "חבא",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חָבָא-chābhāʾ-חָבָה-chābhāh-מַחֲבֵא-machᵃbhēʾ-מַחֲבֹאִים-machᵃbhōʾı̂m-חֶבְיוֹן-chebhyôn.md"
+  },
+  {
+    "lemma": "חוֹתָם",
+    "lemma_norm": "חותמ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חוֹתָם-chôthām-חתם-ḥtm.md"
+  },
+  {
+    "lemma": "חָלָב",
+    "lemma_norm": "חלב",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חָלָב-chālābh-גְּבִינָה-gᵉbhı̂nāh-חֶמְאָה-chemʾāh.md"
+  },
+  {
+    "lemma": "חוֹל",
+    "lemma_norm": "חול",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חוֹל-chôl.md"
+  },
+  {
+    "lemma": "חָלַץ",
+    "lemma_norm": "חלצ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חָלַץ-chālats.md"
+  },
+  {
+    "lemma": "חָפְשִׁי",
+    "lemma_norm": "חפשי",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חָפְשִׁי-ḥop̱šı̂-חֻפְשָׁה-ḥup̱šâ-חָפְשִׁית-ḥop̱šı̂ṯ.md"
+  },
+  {
+    "lemma": "חֵלְכָאִים",
+    "lemma_norm": "חלכאימ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חֵלְכָאִים-דָּכָא-dākhāʾ.md"
+  },
+  {
+    "lemma": "חרף",
+    "lemma_norm": "חרפ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חרף-ḥrp-i.md"
+  },
+  {
+    "lemma": "חבל",
+    "lemma_norm": "חבל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חבל-ḥbl-i-חֶבֶל-chebhel-i-and-ii-חֹבֵל-chōbhēl-חֹבְלִים-chōbhᵉlı̂m-חִבֵּל-chibbēl.md"
+  },
+  {
+    "lemma": "חֶסֶד",
+    "lemma_norm": "חסד",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎ח/חֶסֶד-ḥeseḏ.md"
+  },
+  {
+    "lemma": "אָמַץ",
+    "lemma_norm": "אמצ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎א/אָמַץ-ʾāmats-אֹמֶץ-ʾōmets-אַמְצָה-ʾamtsāh-אַמִּיץ-ʾammı̂ts-מַאֲמָץ-maʾᵃmāts.md"
+  },
+  {
+    "lemma": "אָיַב",
+    "lemma_norm": "איב",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎א/אָיַב-ʾāyabh-אוֹיֵב-ʾôyēbh-אֵיבָה-ʾêbhāh.md"
+  },
+  {
+    "lemma": "אָלָה",
+    "lemma_norm": "אלה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎א/אָלָה-ʾālāh-אָלָה-ʾālāh-תַּאֲלָה-taʾᵃlāh.md"
+  },
+  {
+    "lemma": "אוֹב",
+    "lemma_norm": "אוב",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎א/אוֹב-ʾôbh.md"
+  },
+  {
+    "lemma": "אֵימָה",
+    "lemma_norm": "אימה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎א/אֵימָה-ʾêmāh-אָיֹם-ʾāyōm-אֵימְתָן-ʾêmᵉthān.md"
+  },
+  {
+    "lemma": "אֱלִיל",
+    "lemma_norm": "אליל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎א/אֱלִיל-ʾᵉlı̂l.md"
+  },
+  {
+    "lemma": "אוּרִים",
+    "lemma_norm": "אורימ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎א/אוּרִים-ʾûrı̂m-גּוֹרָל-gôrāl.md"
+  },
+  {
+    "lemma": "אָנַף",
+    "lemma_norm": "אנפ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎א/אָנַף-ʾānaph-אַף-ʾaph-zaʿam-zaʿaph-chemah-charah-ʿabhar-qatsaph-raghaz.md"
+  },
+  {
+    "lemma": "אָבַל",
+    "lemma_norm": "אבל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎א/אָבַל-ʾābhal-אָבֵל-ʾābhēl-אֵבֶל-ʾēbhel.md"
+  },
+  {
+    "lemma": "אִשָּׁה",
+    "lemma_norm": "אשה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎א/אִשָּׁה-ʾishshāh-אִישׁ-ʾı̂sh.md"
+  },
+  {
+    "lemma": "אָדָם",
+    "lemma_norm": "אדמ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎א/אָדָם-ʾādhām.md"
+  },
+  {
+    "lemma": "אָבִיר",
+    "lemma_norm": "אביר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎א/אָבִיר-ʾābhı̂r-אַבִּיר-ʾabbı̂r.md"
+  },
+  {
+    "lemma": "אֵת",
+    "lemma_norm": "את",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎א/אֵת-ʾēth-עִם-ʿim.md"
+  },
+  {
+    "lemma": "אפס",
+    "lemma_norm": "אפס",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎א/אפס-ʾps-אֶפֶס-ʾephes.md"
+  },
+  {
+    "lemma": "אֶבְיוֹן",
+    "lemma_norm": "אביונ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎א/אֶבְיוֹן-ʾebhyôn.md"
+  },
+  {
+    "lemma": "אֹהֶל",
+    "lemma_norm": "אהל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎א/אֹהֶל-ʾōhel-אָהַל-ʾāhal.md"
+  },
+  {
+    "lemma": "אַשְׁרֵי",
+    "lemma_norm": "אשרי",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎א/אַשְׁרֵי-ʾashrê.md"
+  },
+  {
+    "lemma": "אָמַר",
+    "lemma_norm": "אמר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎א/אָמַר-ʾāmar-אֹמֶר-ʾōmer-אֵמֶר-ʾēmer-אִמְרָה-ʾimrāh-אֶמְרָה-ʾemrāh-מַאֲמָר-maʾᵃmār-מֵאמַר-mēʾmar.md"
+  },
+  {
+    "lemma": "אַדִּיר",
+    "lemma_norm": "אדיר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎א/אַדִּיר-ʾaddı̂r-אַדֶּרֶת-ʾaddereth.md"
+  },
+  {
+    "lemma": "אַחֵר",
+    "lemma_norm": "אחר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎א/אַחֵר-ʾachēr.md"
+  },
+  {
+    "lemma": "אוֹר",
+    "lemma_norm": "אור",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎א/אוֹר-ʾôr.md"
+  },
+  {
+    "lemma": "אֵשׁ",
+    "lemma_norm": "אש",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎א/אֵשׁ-ʾēsh-אִשֶּׁה-ʾishsheh.md"
+  },
+  {
+    "lemma": "אָוָה",
+    "lemma_norm": "אוה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎א/אָוָה-ʾāvāh-הַוָּה-אַוָּה-ʾavvāh-havvāh-תַּאֲוָה-taʾᵃvāh-מַאֲוִיִּים-maʾᵃviyyı̂m.md"
+  },
+  {
+    "lemma": "אֱנוֹשׁ",
+    "lemma_norm": "אנוש",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎א/אֱנוֹשׁ-ʾᵉnôsh.md"
+  },
+  {
+    "lemma": "אִישׁ",
+    "lemma_norm": "איש",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎א/אִישׁ-ʾı̂sh-אִשָּׁה-ʾishshāh.md"
+  },
+  {
+    "lemma": "אֶרֶץ",
+    "lemma_norm": "ארצ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎א/אֶרֶץ-ʾerets.md"
+  },
+  {
+    "lemma": "אָשָׁם",
+    "lemma_norm": "אשמ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎א/אָשָׁם-ʾāshām-אָשַׁם-ʾāsham-אָשֵׁם-ʾāshēm-אַשְׁמָה-ʾashmāh.md"
+  },
+  {
+    "lemma": "אֶבֶן",
+    "lemma_norm": "אבנ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎א/אֶבֶן-ʾebhen.md"
+  },
+  {
+    "lemma": "אָח",
+    "lemma_norm": "אח",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎א/אָח-ʾāch-אָחוֹת-ʾāchôth.md"
+  },
+  {
+    "lemma": "אֲשֵׁרָה",
+    "lemma_norm": "אשרה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎א/אֲשֵׁרָה-ʾᵃshērāh.md"
+  },
+  {
+    "lemma": "אָהַב",
+    "lemma_norm": "אהב",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎א/אָהַב-ʾāhabh-אַהֲבָה-ʾahᵃbhāh-אַהַב-ʾahabh-אֹהַב-ʾōhabh.md"
+  },
+  {
+    "lemma": "אָבָה",
+    "lemma_norm": "אבה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎א/אָבָה-ʾābhāh.md"
+  },
+  {
+    "lemma": "אָוֶן",
+    "lemma_norm": "אונ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎א/אָוֶן-ʾāven-פֹּעֲלֵי-אָוֶן-pōʾᵃlê-ʾāven.md"
+  },
+  {
+    "lemma": "INDEX",
+    "lemma_norm": "INDEX",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎א/INDEX.md"
+  },
+  {
+    "lemma": "אוֹת",
+    "lemma_norm": "אות",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎א/אוֹת-ʾôth.md"
+  },
+  {
+    "lemma": "אָמַן",
+    "lemma_norm": "אמנ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎א/אָמַן-ʾāman-אֱמוּנָה-ʾᵉmûnāh-אָמֵן-ʾāmēn-אֱמֶת-ʾᵉmeth.md"
+  },
+  {
+    "lemma": "אֶחָד",
+    "lemma_norm": "אחד",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎א/אֶחָד-ʾechādh.md"
+  },
+  {
+    "lemma": "אֲדָמָה",
+    "lemma_norm": "אדמה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎א/אֲדָמָה-ʾᵃdhāmāh.md"
+  },
+  {
+    "lemma": "אָב",
+    "lemma_norm": "אב",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎א/אָב-ʾābh.md"
+  },
+  {
+    "lemma": "אֲרוֹן",
+    "lemma_norm": "ארונ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎א/אֲרוֹן-ʾᵃrôn.md"
+  },
+  {
+    "lemma": "אַלְמָנָה",
+    "lemma_norm": "אלמנה",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎א/אַלְמָנָה-ʾalmānāh-אַלְמָנוּת-ʾalmānûth.md"
+  },
+  {
+    "lemma": "אֱוִיל",
+    "lemma_norm": "אויל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎א/אֱוִיל-ʾᵉvı̂l-אִוֶּלֶת-ʾivveleth.md"
+  },
+  {
+    "lemma": "אֵל",
+    "lemma_norm": "אל",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎א/אֵל-ʾēl.md"
+  },
+  {
+    "lemma": "אֲנִי",
+    "lemma_norm": "אני",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎א/אֲנִי-ʾᵃnı̂-הוּא-hûʾ..md"
+  },
+  {
+    "lemma": "אוֹי",
+    "lemma_norm": "אוי",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎א/אוֹי-ʾôy-הוֹי-hôy.md"
+  },
+  {
+    "lemma": "אֲרִי",
+    "lemma_norm": "ארי",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎א/אֲרִי-ʾᵃrı̂-אַרְיֵה-ʾaryēh-גּוּר-gûr-כְּפִיר-kᵉphı̂r-לָבִיא-lābhı̂ʾ-לַיִשׁ-layishשַׁחַל-shachal.md"
+  },
+  {
+    "lemma": "אַחֲרֵי",
+    "lemma_norm": "אחרי",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎א/אַחֲרֵי-ʾachᵃrê.md"
+  },
+  {
+    "lemma": "אַבְרָהָם",
+    "lemma_norm": "אברהמ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎א/אַבְרָהָם-ʾabhrāhām.md"
+  },
+  {
+    "lemma": "אֱלֹהִים",
+    "lemma_norm": "אלהימ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎א/אֱלֹהִים-ʾᵉlōhı̂m.md"
+  },
+  {
+    "lemma": "אַחֲרִית",
+    "lemma_norm": "אחרית",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎א/אַחֲרִית-ʾachᵃrı̂th.md"
+  },
+  {
+    "lemma": "ארר",
+    "lemma_norm": "ארר",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎א/ארר-ʾrr-מְאֵרָה-mᵉʾērāh.md"
+  },
+  {
+    "lemma": "אָדוֹן",
+    "lemma_norm": "אדונ",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎א/אָדוֹן-ʾādhôn-אֲדֹנָי-ʾᵃdhōnāi.md"
+  },
+  {
+    "lemma": "אָבַד",
+    "lemma_norm": "אבד",
+    "path": "/Users/bangkeonwoong/Documents/마인드맵/TDOT/entries/‎א/אָבַד-ʾābhadh-אֲבֵדָה-ʾᵃbhēdhāh-אַבְדָן-ʾabhᵉdhān-אֲבַדּוֹן-ʾᵃbhaddôn.md"
+  }
+]
