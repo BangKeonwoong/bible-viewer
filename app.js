@@ -59,17 +59,20 @@ const WORD_ORDER_MAP = {
 const els = {
   bookSelect: document.getElementById('bookSelect'),
   chapterSelect: document.getElementById('chapterSelect'),
-  colASelect: document.getElementById('colASelect'),
-  colBSelect: document.getElementById('colBSelect'),
-  toggleLiteral: document.getElementById('toggleLiteral'),
-  prevChapter: document.getElementById('prevChapter'),
-  nextChapter: document.getElementById('nextChapter'),
   verseList: document.getElementById('verseList'),
   columnHeaders: document.getElementById('columnHeaders'),
   colALabel: document.getElementById('colALabel'),
   colBLabel: document.getElementById('colBLabel'),
   colLiteralLabel: document.getElementById('colLiteralLabel'),
   clauseTooltip: document.getElementById('clauseTooltip'),
+  // Modal Els
+  settingsBtn: document.getElementById('settingsBtn'),
+  settingsModal: document.getElementById('settingsModal'),
+  closeSettings: document.getElementById('closeSettings'),
+  saveSettings: document.getElementById('saveSettings'),
+  colASelect: document.getElementById('colASelect'),
+  colBSelect: document.getElementById('colBSelect'),
+  toggleLiteral: document.getElementById('toggleLiteral'),
 };
 
 const tooltipState = {
@@ -78,7 +81,7 @@ const tooltipState = {
 };
 
 function setLoading(message = '로딩 중...') {
-  els.verseList.innerHTML = `<div class="empty-state">${message}</div>`;
+  els.verseList.innerHTML = `<div class="state-message">${message}</div>`;
 }
 
 async function loadIndex() {
@@ -277,7 +280,7 @@ function renderTooltip(clause) {
   const rows = [];
   const addRow = (label, value, className = '') => {
     if (!value) return;
-    rows.push(`<div class=\"tooltip-row\"><span class=\"tooltip-label\">${label}</span><span class=\"tooltip-value ${className}\">${escapeHtml(value)}</span></div>`);
+    rows.push(`<div class=\"tooltip-row\"><span class=\"tooltip-label\">${label}</span><span class=\"tooltip-val ${className}\">${escapeHtml(value)}</span></div>`);
   };
   addRow(CSV_LABELS['Clause Type'], clause.clauseType);
   addRow(CSV_LABELS['Mother Clause Type'], clause.motherClauseType);
@@ -285,8 +288,10 @@ function renderTooltip(clause) {
   addRow(CSV_LABELS['Word Order'], clause.wordOrderKo || clause.wordOrder);
   addRow(CSV_LABELS['Hebrew Text'], clause.hebrewText, 'hebrew');
   return `
-    <button class=\"tooltip-close\" type=\"button\" aria-label=\"닫기\">×</button>
-    <div class=\"tooltip-title\">직역 상세</div>
+    <div class=\"tooltip-header\">
+      <span class=\"tooltip-title\">직역 상세</span>
+      <button class=\"tooltip-close\" type=\"button\" aria-label=\"닫기\">×</button>
+    </div>
     ${rows.join('')}
   `;
 }
@@ -305,9 +310,12 @@ function showTooltip(target, clause, pinned = false) {
   const rect = target.getBoundingClientRect();
   const tooltipRect = els.clauseTooltip.getBoundingClientRect();
   let top = rect.top - tooltipRect.height - 12;
+  // If not enough space on top, show below
   if (top < 12) top = rect.bottom + 12;
+  
   let left = rect.left + rect.width / 2 - tooltipRect.width / 2;
   left = Math.max(12, Math.min(left, window.innerWidth - tooltipRect.width - 12));
+  
   els.clauseTooltip.style.top = `${top}px`;
   els.clauseTooltip.style.left = `${left}px`;
 }
@@ -329,13 +337,13 @@ function renderVerses(versesA, versesB, literalInfo) {
   const sorted = Array.from(verseNumbers).sort((a, b) => a - b);
 
   if (!sorted.length) {
-    els.verseList.innerHTML = '<div class="empty-state">해당 장을 찾을 수 없습니다.</div>';
+    els.verseList.innerHTML = '<div class="state-message">해당 장을 찾을 수 없습니다.</div>';
     return;
   }
 
-  const columnCount = state.showLiteral ? 3 : 2;
-  els.columnHeaders.dataset.columns = String(columnCount);
-  els.verseList.dataset.columns = String(columnCount);
+  // Update Headers Visibility
+  els.columnHeaders.dataset.showLiteral = String(state.showLiteral);
+  els.colLiteralLabel.style.display = state.showLiteral ? 'block' : 'none';
 
   const rows = sorted
     .map((verse, idx) => {
@@ -346,14 +354,14 @@ function renderVerses(versesA, versesB, literalInfo) {
       const aClass = `${state.colA === 'BHS' ? 'bhs' : ''}`;
       const bClass = `${state.colB === 'BHS' ? 'bhs' : ''}`;
       const literalCell = state.showLiteral
-        ? `<div class="verse-cell literal">${clauses.length ? renderClauses(clauses, literalInfo.csvBook, state.chapter, verse) : '<span class="missing">직역 없음</span>'}</div>`
+        ? `<div class="verse-text literal">${clauses.length ? renderClauses(clauses, literalInfo.csvBook, state.chapter, verse) : '<span class="missing">직역 없음</span>'}</div>`
         : '';
 
       return `
-        <div class="verse-row" style="--i:${idx}">
+        <div class="verse-row" style="--i:${idx}" data-show-literal="${state.showLiteral}">
           <div class="verse-num">${verse}</div>
-          <div class="verse-cell ${aClass} ${textA ? '' : 'missing'}">${textA || '해당 역본 없음'}</div>
-          <div class="verse-cell ${bClass} ${textB ? '' : 'missing'}">${textB || '해당 역본 없음'}</div>
+          <div class="verse-text ${aClass}" data-label="${state.index.translations[state.colA]?.label}">${textA || '<span class="missing">-</span>'}</div>
+          <div class="verse-text ${bClass}" data-label="${state.index.translations[state.colB]?.label}">${textB || '<span class="missing">-</span>'}</div>
           ${literalCell}
         </div>
       `;
@@ -367,13 +375,12 @@ async function render() {
   if (!state.bookId) return;
   hideTooltip(true);
   setLoading();
-  updateChapterOptions();
-
+  // Don't update options here to avoid flickering logic, only on load/change
+  
   const book = state.index.books.find((b) => b.id === state.bookId);
   els.colALabel.textContent = state.index.translations[state.colA]?.label || state.colA;
   els.colBLabel.textContent = state.index.translations[state.colB]?.label || state.colB;
   els.colLiteralLabel.textContent = book?.name_ko ? `${book.name_ko} 직역` : '직역';
-  els.colLiteralLabel.style.display = state.showLiteral ? 'block' : 'none';
 
   const [versesA, versesB] = await Promise.all([
     loadTranslation(state.colA, state.bookId, state.chapter),
@@ -389,10 +396,29 @@ async function render() {
   renderVerses(versesA, versesB, literalInfo);
 }
 
+function openSettings() {
+  els.settingsModal.showModal();
+}
+
+function closeSettings() {
+  els.settingsModal.close();
+}
+
+function saveSettings() {
+  state.colA = els.colASelect.value;
+  state.colB = els.colBSelect.value;
+  state.showLiteral = els.toggleLiteral.checked;
+  
+  updateChapterOptions(); // Columns might affect chapter count if we had per-version logic, but mainly it's safer
+  render();
+  closeSettings();
+}
+
 function bindEvents() {
   els.bookSelect.addEventListener('change', (e) => {
     state.bookId = e.target.value;
-    state.chapter = 1;
+    state.chapter = 1; // Reset to ch 1 when book changes
+    updateChapterOptions();
     render();
   });
 
@@ -401,40 +427,19 @@ function bindEvents() {
     render();
   });
 
-  els.colASelect.addEventListener('change', (e) => {
-    state.colA = e.target.value;
-    updateChapterOptions();
-    render();
-  });
-
-  els.colBSelect.addEventListener('change', (e) => {
-    state.colB = e.target.value;
-    updateChapterOptions();
-    render();
-  });
-
-  els.toggleLiteral.addEventListener('change', (e) => {
-    state.showLiteral = e.target.checked;
-    render();
-  });
-
-  els.prevChapter.addEventListener('click', () => {
-    if (state.chapter > 1) {
-      state.chapter -= 1;
-      els.chapterSelect.value = String(state.chapter);
-      render();
+  els.settingsBtn.addEventListener('click', openSettings);
+  els.closeSettings.addEventListener('click', closeSettings);
+  els.saveSettings.addEventListener('click', saveSettings);
+  
+  // Close modal when clicking outside
+  els.settingsModal.addEventListener('click', (e) => {
+    const rect = els.settingsModal.getBoundingClientRect();
+    if (e.clientX < rect.left || e.clientX > rect.right || e.clientY < rect.top || e.clientY > rect.bottom) {
+      closeSettings();
     }
   });
 
-  els.nextChapter.addEventListener('click', () => {
-    const maxChapter = Number(els.chapterSelect.options.length);
-    if (state.chapter < maxChapter) {
-      state.chapter += 1;
-      els.chapterSelect.value = String(state.chapter);
-      render();
-    }
-  });
-
+  // Tooltip Events
   els.verseList.addEventListener('pointerover', (e) => {
     if (e.pointerType === 'touch') return;
     const clauseEl = e.target.closest('.clause');
