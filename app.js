@@ -188,7 +188,7 @@ async function loadTranslation(translationId, bookId, chapter) {
 
 async function loadLiteralIndex() {
   if (state.literalIndex) return state.literalIndex;
-  const csvUrl = new URL('성경 직역 정보.csv', window.location.href);
+  const csvUrl = new URL('성경 직역 정보 2.csv', window.location.href);
   const res = await fetch(csvUrl);
   const text = await res.text();
   const lines = text.split(/\r?\n/).filter(Boolean);
