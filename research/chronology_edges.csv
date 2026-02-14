@@ -1,0 +1,588 @@
+﻿edge_id,from_event_id,to_event_id,relation_type,basis_reference,track_id
+EDG000001,EVT0001,EVT0002,before,창세기 2:4,track_main
+EDG000002,EVT0002,EVT0003,before,창세기 4:25,track_main
+EDG000003,EVT0003,EVT0004,before,창세기 7:1,track_main
+EDG000004,EVT0004,EVT0005,before,창세기 10:1,track_main
+EDG000005,EVT0005,EVT0006,before,창세기 12:1,track_main
+EDG000006,EVT0006,EVT0007,before,창세기 14:17,track_main
+EDG000007,EVT0007,EVT0008,before,창세기 18:1,track_main
+EDG000008,EVT0008,EVT0009,before,창세기 19:30,track_main
+EDG000009,EVT0009,EVT0010,before,창세기 21:22,track_main
+EDG000010,EVT0010,EVT0011,before,창세기 25:1,track_main
+EDG000011,EVT0011,EVT0012,before,창세기 26:1,track_main
+EDG000012,EVT0012,EVT0013,before,창세기 28:6,track_main
+EDG000013,EVT0013,EVT0014,before,창세기 29:31,track_main
+EDG000014,EVT0014,EVT0015,before,창세기 32:13,track_main
+EDG000015,EVT0015,EVT0016,before,창세기 35:16,track_main
+EDG000016,EVT0016,EVT0017,before,창세기 37:1,track_main
+EDG000017,EVT0017,EVT0018,before,창세기 40:1,track_main
+EDG000018,EVT0018,EVT0019,before,창세기 43:1,track_main
+EDG000019,EVT0019,EVT0020,before,창세기 46:1,track_main
+EDG000020,EVT0020,EVT0021,before,창세기 49:1,track_main
+EDG000021,EVT0021,EVT0022,before,출애굽기 2:1,track_main
+EDG000022,EVT0022,EVT0023,before,출애굽기 4:18,track_main
+EDG000023,EVT0023,EVT0024,before,출애굽기 6:28,track_main
+EDG000024,EVT0024,EVT0025,before,출애굽기 8:16,track_main
+EDG000025,EVT0025,EVT0026,before,출애굽기 10:1,track_main
+EDG000026,EVT0026,EVT0027,before,출애굽기 12:15,track_main
+EDG000027,EVT0027,EVT0028,before,출애굽기 13:1,track_main
+EDG000028,EVT0028,EVT0029,before,출애굽기 15:1,track_main
+EDG000029,EVT0029,EVT0030,before,출애굽기 17:8,track_main
+EDG000030,EVT0030,EVT0031,before,출애굽기 20:1,track_main
+EDG000031,EVT0031,EVT0032,before,출애굽기 21:28,track_main
+EDG000032,EVT0032,EVT0033,before,출애굽기 23:10,track_main
+EDG000033,EVT0033,EVT0034,before,출애굽기 25:1,track_main
+EDG000034,EVT0034,EVT0035,before,출애굽기 26:1,track_main
+EDG000035,EVT0035,EVT0036,before,출애굽기 28:15,track_main
+EDG000036,EVT0036,EVT0037,before,출애굽기 30:1,track_main
+EDG000037,EVT0037,EVT0038,before,출애굽기 31:1,track_main
+EDG000038,EVT0038,EVT0039,before,출애굽기 33:1,track_main
+EDG000039,EVT0039,EVT0040,before,출애굽기 34:29,track_main
+EDG000040,EVT0040,EVT0041,before,출애굽기 35:30,track_main
+EDG000041,EVT0041,EVT0042,before,출애굽기 37:17,track_main
+EDG000042,EVT0042,EVT0043,before,출애굽기 38:9,track_main
+EDG000043,EVT0043,EVT0044,before,출애굽기 39:32,track_main
+EDG000044,EVT0044,EVT0045,before,민수기 1:47,track_main
+EDG000045,EVT0045,EVT0046,before,민수기 3:14,track_main
+EDG000046,EVT0046,EVT0047,before,민수기 4:34,track_main
+EDG000047,EVT0047,EVT0048,before,민수기 6:1,track_main
+EDG000048,EVT0048,EVT0049,before,민수기 8:5,track_main
+EDG000049,EVT0049,EVT0050,before,민수기 11:1,track_main
+EDG000050,EVT0050,EVT0051,before,민수기 13:1,track_main
+EDG000051,EVT0051,EVT0052,before,민수기 14:39,track_main
+EDG000052,EVT0052,EVT0053,before,민수기 16:36,track_main
+EDG000053,EVT0053,EVT0054,before,민수기 18:8,track_main
+EDG000054,EVT0054,EVT0055,before,민수기 20:1,track_main
+EDG000055,EVT0055,EVT0056,before,민수기 21:4,track_main
+EDG000056,EVT0056,EVT0057,before,민수기 22:21,track_main
+EDG000057,EVT0057,EVT0058,before,민수기 24:10,track_main
+EDG000058,EVT0058,EVT0059,before,민수기 27:12,track_main
+EDG000059,EVT0059,EVT0060,before,민수기 28:16,track_main
+EDG000060,EVT0060,EVT0061,before,민수기 30:1,track_main
+EDG000061,EVT0061,EVT0062,before,민수기 32:1,track_main
+EDG000062,EVT0062,EVT0063,before,민수기 35:1,track_main
+EDG000063,EVT0063,EVT0064,before,신명기 1:9,track_main
+EDG000064,EVT0064,EVT0065,before,신명기 2:26,track_main
+EDG000065,EVT0065,EVT0066,before,신명기 4:15,track_main
+EDG000066,EVT0066,EVT0067,before,신명기 5:22,track_main
+EDG000067,EVT0067,EVT0068,before,신명기 7:12,track_main
+EDG000068,EVT0068,EVT0069,before,신명기 10:12,track_main
+EDG000069,EVT0069,EVT0070,before,신명기 12:29,track_main
+EDG000070,EVT0070,EVT0071,before,신명기 15:1,track_main
+EDG000071,EVT0071,EVT0072,before,신명기 16:13,track_main
+EDG000072,EVT0072,EVT0073,before,신명기 18:9,track_main
+EDG000073,EVT0073,EVT0074,before,신명기 19:15,track_main
+EDG000074,EVT0074,EVT0075,before,신명기 21:18,track_main
+EDG000075,EVT0075,EVT0076,before,신명기 23:9,track_main
+EDG000076,EVT0076,EVT0077,before,신명기 25:5,track_main
+EDG000077,EVT0077,EVT0078,before,신명기 27:1,track_main
+EDG000078,EVT0078,EVT0079,before,신명기 29:1,track_main
+EDG000079,EVT0079,EVT0080,before,신명기 31:30,track_main
+EDG000080,EVT0080,EVT0081,before,여호수아 1:10,track_main
+EDG000081,EVT0081,EVT0082,before,여호수아 5:2,track_main
+EDG000082,EVT0082,EVT0083,before,여호수아 8:30,track_main
+EDG000083,EVT0083,EVT0084,before,여호수아 11:1,track_main
+EDG000084,EVT0084,EVT0085,before,여호수아 13:8,track_main
+EDG000085,EVT0085,EVT0086,before,여호수아 14:1,track_main
+EDG000086,EVT0086,EVT0087,before,여호수아 16:1,track_main
+EDG000087,EVT0087,EVT0088,before,여호수아 18:1,track_main
+EDG000088,EVT0088,EVT0089,before,여호수아 19:24,track_main
+EDG000089,EVT0089,EVT0090,before,여호수아 20:1,track_main
+EDG000090,EVT0090,EVT0091,before,여호수아 23:1,track_main
+EDG000091,EVT0091,EVT0092,before,사사기 1:8,track_main
+EDG000092,EVT0092,EVT0093,before,사사기 1:27,track_main
+EDG000093,EVT0093,EVT0094,before,사사기 3:7,track_main
+EDG000094,EVT0094,EVT0095,before,사사기 5:1,track_main
+EDG000095,EVT0095,EVT0096,before,사사기 9:1,track_main
+EDG000096,EVT0096,EVT0097,before,사사기 11:34,track_main
+EDG000097,EVT0097,EVT0098,before,사사기 14:1,track_main
+EDG000098,EVT0098,EVT0099,before,사사기 16:23,track_main
+EDG000099,EVT0099,EVT0100,before,사사기 20:17,track_main
+EDG000100,EVT0100,EVT0101,before,룻기 2:1,track_main
+EDG000101,EVT0101,EVT0102,before,사무엘상 1:9,track_main
+EDG000102,EVT0102,EVT0103,before,사무엘상 2:18,track_main
+EDG000103,EVT0103,EVT0104,before,사무엘상 4:19,track_main
+EDG000104,EVT0104,EVT0105,before,사무엘상 7:3,track_main
+EDG000105,EVT0105,EVT0106,before,사무엘상 11:1,track_main
+EDG000106,EVT0106,EVT0107,before,사무엘상 14:1,track_main
+EDG000107,EVT0107,EVT0108,before,사무엘상 15:1,track_main
+EDG000108,EVT0108,EVT0109,before,사무엘상 17:1,track_main
+EDG000109,EVT0109,EVT0110,before,사무엘상 18:6,track_main
+EDG000110,EVT0110,EVT0111,before,사무엘상 22:1,track_main
+EDG000111,EVT0111,EVT0112,before,사무엘상 25:1,track_main
+EDG000112,EVT0112,EVT0113,before,사무엘상 29:1,track_main
+EDG000113,EVT0113,EVT0114,before,사무엘하 1:17,track_main
+EDG000114,EVT0114,EVT0115,before,사무엘하 3:6,track_main
+EDG000115,EVT0115,EVT0116,before,사무엘하 5:1,track_main
+EDG000116,EVT0116,EVT0117,before,사무엘하 7:1,track_main
+EDG000117,EVT0117,EVT0118,before,사무엘하 10:1,track_main
+EDG000118,EVT0118,EVT0119,before,사무엘하 13:1,track_main
+EDG000119,EVT0119,EVT0120,before,사무엘하 15:1,track_main
+EDG000120,EVT0120,EVT0121,before,사무엘하 17:1,track_main
+EDG000121,EVT0121,EVT0122,before,사무엘하 19:1,track_main
+EDG000122,EVT0122,EVT0123,before,사무엘하 20:1,track_main
+EDG000123,EVT0123,EVT0124,before,사무엘하 23:1,track_main
+EDG000124,EVT0124,EVT0125,before,열왕기상 1:5,track_main
+EDG000125,EVT0125,EVT0126,before,열왕기상 2:26,track_main
+EDG000126,EVT0126,EVT0127,before,열왕기상 4:1,track_main
+EDG000127,EVT0127,EVT0128,before,열왕기상 7:1,track_main
+EDG000128,EVT0128,EVT0129,before,열왕기상 8:1,track_main
+EDG000129,EVT0129,EVT0130,before,열왕기상 8:62,track_main
+EDG000130,EVT0130,EVT0131,before,열왕기상 10:14,track_main
+EDG000131,EVT0131,EVT0132,before,열왕기상 12:1,track_main
+EDG000132,EVT0132,EVT0133,before,열왕기상 13:11,track_main
+EDG000133,EVT0133,EVT0134,before,열왕기상 15:1,track_main
+EDG000134,EVT0134,EVT0135,before,열왕기상 16:15,track_main
+EDG000135,EVT0135,EVT0136,before,열왕기상 17:8,track_main
+EDG000136,EVT0136,EVT0137,before,열왕기상 20:1,track_main
+EDG000137,EVT0137,EVT0138,before,열왕기상 22:29,track_main
+EDG000138,EVT0138,EVT0139,before,열왕기하 2:1,track_main
+EDG000139,EVT0139,EVT0140,before,열왕기하 4:38,track_main
+EDG000140,EVT0140,EVT0141,before,열왕기하 6:24,track_main
+EDG000141,EVT0141,EVT0142,before,열왕기하 8:25,track_main
+EDG000142,EVT0142,EVT0143,before,열왕기하 9:30,track_main
+EDG000143,EVT0143,EVT0144,before,열왕기하 10:32,track_main
+EDG000144,EVT0144,EVT0145,before,열왕기하 13:1,track_main
+EDG000145,EVT0145,EVT0146,before,열왕기하 14:17,track_main
+EDG000146,EVT0146,EVT0147,before,열왕기하 15:13,track_main
+EDG000147,EVT0147,EVT0148,before,열왕기하 16:1,track_main
+EDG000148,EVT0148,EVT0149,before,열왕기하 18:1,track_main
+EDG000149,EVT0149,EVT0150,before,열왕기하 19:35,track_main
+EDG000150,EVT0150,EVT0151,before,열왕기하 21:1,track_main
+EDG000151,EVT0151,EVT0152,before,열왕기하 23:21,track_main
+EDG000152,EVT0152,EVT0153,before,열왕기하 23:36,track_main
+EDG000153,EVT0153,EVT0154,before,열왕기하 25:18,track_main
+EDG000154,EVT0154,EVT0155,before,역대상 1:28,track_main
+EDG000155,EVT0155,EVT0156,before,역대상 2:9,track_main
+EDG000156,EVT0156,EVT0157,before,역대상 3:10,track_main
+EDG000157,EVT0157,EVT0158,before,역대상 5:1,track_main
+EDG000158,EVT0158,EVT0159,before,역대상 6:1,track_main
+EDG000159,EVT0159,EVT0160,before,역대상 6:54,track_main
+EDG000160,EVT0160,EVT0161,before,역대상 7:20,track_main
+EDG000161,EVT0161,EVT0162,before,역대상 9:1,track_main
+EDG000162,EVT0162,EVT0163,before,역대상 9:35,track_main
+EDG000163,EVT0163,EVT0164,before,역대상 12:1,track_main
+EDG000164,EVT0164,EVT0165,before,역대상 13:1,track_main
+EDG000165,EVT0165,EVT0166,before,역대상 15:25,track_main
+EDG000166,EVT0166,EVT0167,before,역대상 18:1,track_main
+EDG000167,EVT0167,EVT0168,before,역대상 21:1,track_main
+EDG000168,EVT0168,EVT0169,before,역대상 25:1,track_main
+EDG000169,EVT0169,EVT0170,before,역대상 27:1,track_main
+EDG000170,EVT0170,EVT0171,before,역대상 29:1,track_main
+EDG000171,EVT0171,EVT0172,before,역대하 1:14,track_main
+EDG000172,EVT0172,EVT0173,before,역대하 4:1,track_main
+EDG000173,EVT0173,EVT0174,before,역대하 7:1,track_main
+EDG000174,EVT0174,EVT0175,before,역대하 9:13,track_main
+EDG000175,EVT0175,EVT0176,before,역대하 11:5,track_main
+EDG000176,EVT0176,EVT0177,before,역대하 13:1,track_main
+EDG000177,EVT0177,EVT0178,before,역대하 16:7,track_main
+EDG000178,EVT0178,EVT0179,before,역대하 18:28,track_main
+EDG000179,EVT0179,EVT0180,before,역대하 20:31,track_main
+EDG000180,EVT0180,EVT0181,before,역대하 23:1,track_main
+EDG000181,EVT0181,EVT0182,before,역대하 25:1,track_main
+EDG000182,EVT0182,EVT0183,before,역대하 26:16,track_main
+EDG000183,EVT0183,EVT0184,before,역대하 28:22,track_main
+EDG000184,EVT0184,EVT0185,before,역대하 30:13,track_main
+EDG000185,EVT0185,EVT0186,before,역대하 32:24,track_main
+EDG000186,EVT0186,EVT0187,before,역대하 33:14,track_main
+EDG000187,EVT0187,EVT0188,before,역대하 34:29,track_main
+EDG000188,EVT0188,EVT0189,before,역대하 36:9,track_main
+EDG000189,EVT0189,EVT0190,before,에스라 1:5,track_main
+EDG000190,EVT0190,EVT0191,before,에스라 4:1,track_main
+EDG000191,EVT0191,EVT0192,before,에스라 6:19,track_main
+EDG000192,EVT0192,EVT0193,before,에스라 8:1,track_main
+EDG000193,EVT0193,EVT0194,before,에스라 9:1,track_main
+EDG000194,EVT0194,EVT0195,before,느헤미야 2:1,track_main
+EDG000195,EVT0195,EVT0196,before,느헤미야 5:14,track_main
+EDG000196,EVT0196,EVT0197,before,느헤미야 7:73,track_main
+EDG000197,EVT0197,EVT0198,before,느헤미야 11:25,track_main
+EDG000198,EVT0198,EVT0199,before,느헤미야 12:27,track_main
+EDG000199,EVT0199,EVT0200,before,에스더 2:1,track_main
+EDG000200,EVT0200,EVT0201,before,에스더 5:1,track_main
+EDG000201,EVT0201,EVT0202,before,에스더 9:1,track_main
+EDG000202,EVT0202,EVT0203,before,다니엘 2:1,track_main
+EDG000203,EVT0203,EVT0204,before,다니엘 3:1,track_main
+EDG000204,EVT0204,EVT0205,before,다니엘 4:19,track_main
+EDG000205,EVT0205,EVT0206,before,다니엘 6:1,track_main
+EDG000206,EVT0206,EVT0207,before,다니엘 8:1,track_main
+EDG000207,EVT0207,EVT0208,before,다니엘 11:2,track_main
+EDG000208,EVT0208,EVT0209,before,요나 1:1,track_main
+EDG000209,EVT0209,EVT0210,before,요나 3:1,track_main
+EDG000210,EVT0210,EVT0211,before,마태복음 1:18,track_main
+EDG000211,EVT0211,EVT0212,before,마태복음 3:1,track_main
+EDG000212,EVT0212,EVT0213,before,마태복음 4:23,track_main
+EDG000213,EVT0213,EVT0214,before,마태복음 5:21,track_main
+EDG000214,EVT0214,EVT0215,before,마태복음 6:1,track_main
+EDG000215,EVT0215,EVT0216,before,마태복음 7:1,track_main
+EDG000216,EVT0216,EVT0217,before,마태복음 8:1,track_main
+EDG000217,EVT0217,EVT0218,before,마태복음 8:23,track_main
+EDG000218,EVT0218,EVT0219,before,마태복음 9:18,track_main
+EDG000219,EVT0219,EVT0220,before,마태복음 10:1,track_main
+EDG000220,EVT0220,EVT0221,before,마태복음 10:34,track_main
+EDG000221,EVT0221,EVT0222,before,마태복음 12:1,track_main
+EDG000222,EVT0222,EVT0223,before,마태복음 12:46,track_main
+EDG000223,EVT0223,EVT0224,before,마태복음 13:36,track_main
+EDG000224,EVT0224,EVT0225,before,마태복음 14:1,track_main
+EDG000225,EVT0225,EVT0226,before,마태복음 15:21,track_main
+EDG000226,EVT0226,EVT0227,before,마태복음 16:5,track_main
+EDG000227,EVT0227,EVT0228,before,마태복음 17:22,track_main
+EDG000228,EVT0228,EVT0229,before,마태복음 18:21,track_main
+EDG000229,EVT0229,EVT0230,before,마태복음 20:1,track_main
+EDG000230,EVT0230,EVT0231,before,마태복음 21:12,track_main
+EDG000231,EVT0231,EVT0232,before,마태복음 22:1,track_main
+EDG000232,EVT0232,EVT0233,before,마태복음 23:1,track_main
+EDG000233,EVT0233,EVT0234,before,마태복음 24:15,track_main
+EDG000234,EVT0234,EVT0235,before,마태복음 25:31,track_main
+EDG000235,EVT0235,EVT0236,before,마태복음 26:17,track_main
+EDG000236,EVT0236,EVT0237,before,마태복음 26:69,track_main
+EDG000237,EVT0237,EVT0238,before,마태복음 27:27,track_main
+EDG000238,EVT0238,EVT0239,before,마태복음 28:1,track_main
+EDG000239,EVT0239,EVT0240,before,마가복음 1:9,track_main
+EDG000240,EVT0240,EVT0241,before,마가복음 1:29,track_main
+EDG000241,EVT0241,EVT0242,before,마가복음 2:13,track_main
+EDG000242,EVT0242,EVT0243,before,마가복음 3:13,track_main
+EDG000243,EVT0243,EVT0244,before,마가복음 4:10,track_main
+EDG000244,EVT0244,EVT0245,before,마가복음 4:35,track_main
+EDG000245,EVT0245,EVT0246,before,마가복음 6:14,track_main
+EDG000246,EVT0246,EVT0247,before,마가복음 7:24,track_main
+EDG000247,EVT0247,EVT0248,before,마가복음 8:14,track_main
+EDG000248,EVT0248,EVT0249,before,마가복음 9:30,track_main
+EDG000249,EVT0249,EVT0250,before,마가복음 10:13,track_main
+EDG000250,EVT0250,EVT0251,before,마가복음 11:1,track_main
+EDG000251,EVT0251,EVT0252,before,마가복음 11:27,track_main
+EDG000252,EVT0252,EVT0253,before,마가복음 12:35,track_main
+EDG000253,EVT0253,EVT0254,before,마가복음 13:3,track_main
+EDG000254,EVT0254,EVT0255,before,마가복음 14:3,track_main
+EDG000255,EVT0255,EVT0256,before,마가복음 14:27,track_main
+EDG000256,EVT0256,EVT0257,before,마가복음 14:66,track_main
+EDG000257,EVT0257,EVT0258,before,마가복음 15:21,track_main
+EDG000258,EVT0258,EVT0259,before,마가복음 16:12,track_main
+EDG000259,EVT0259,EVT0260,before,누가복음 1:5,track_main
+EDG000260,EVT0260,EVT0261,before,누가복음 1:57,track_main
+EDG000261,EVT0261,EVT0262,before,누가복음 2:41,track_main
+EDG000262,EVT0262,EVT0263,before,누가복음 4:1,track_main
+EDG000263,EVT0263,EVT0264,before,누가복음 4:42,track_main
+EDG000264,EVT0264,EVT0265,before,누가복음 5:27,track_main
+EDG000265,EVT0265,EVT0266,before,누가복음 6:27,track_main
+EDG000266,EVT0266,EVT0267,before,누가복음 7:11,track_main
+EDG000267,EVT0267,EVT0268,before,누가복음 8:9,track_main
+EDG000268,EVT0268,EVT0269,before,누가복음 8:26,track_main
+EDG000269,EVT0269,EVT0270,before,누가복음 9:18,track_main
+EDG000270,EVT0270,EVT0271,before,누가복음 9:49,track_main
+EDG000271,EVT0271,EVT0272,before,누가복음 10:21,track_main
+EDG000272,EVT0272,EVT0273,before,누가복음 11:14,track_main
+EDG000273,EVT0273,EVT0274,before,누가복음 12:1,track_main
+EDG000274,EVT0274,EVT0275,before,누가복음 12:49,track_main
+EDG000275,EVT0275,EVT0276,before,누가복음 13:18,track_main
+EDG000276,EVT0276,EVT0277,before,누가복음 14:7,track_main
+EDG000277,EVT0277,EVT0278,before,누가복음 15:11,track_main
+EDG000278,EVT0278,EVT0279,before,누가복음 17:1,track_main
+EDG000279,EVT0279,EVT0280,before,누가복음 18:15,track_main
+EDG000280,EVT0280,EVT0281,before,누가복음 19:1,track_main
+EDG000281,EVT0281,EVT0282,before,누가복음 20:9,track_main
+EDG000282,EVT0282,EVT0283,before,누가복음 20:45,track_main
+EDG000283,EVT0283,EVT0284,before,누가복음 21:29,track_main
+EDG000284,EVT0284,EVT0285,before,누가복음 22:14,track_main
+EDG000285,EVT0285,EVT0286,before,누가복음 22:54,track_main
+EDG000286,EVT0286,EVT0287,before,누가복음 23:8,track_main
+EDG000287,EVT0287,EVT0288,before,누가복음 24:13,track_main
+EDG000288,EVT0288,EVT0289,before,요한복음 1:19,track_main
+EDG000289,EVT0289,EVT0290,before,요한복음 2:1,track_main
+EDG000290,EVT0290,EVT0291,before,요한복음 3:31,track_main
+EDG000291,EVT0291,EVT0292,before,요한복음 5:19,track_main
+EDG000292,EVT0292,EVT0293,before,요한복음 6:22,track_main
+EDG000293,EVT0293,EVT0294,before,요한복음 7:37,track_main
+EDG000294,EVT0294,EVT0295,before,요한복음 8:21,track_main
+EDG000295,EVT0295,EVT0296,before,요한복음 10:1,track_main
+EDG000296,EVT0296,EVT0297,before,요한복음 11:17,track_main
+EDG000297,EVT0297,EVT0298,before,요한복음 12:12,track_main
+EDG000298,EVT0298,EVT0299,before,요한복음 13:31,track_main
+EDG000299,EVT0299,EVT0300,before,요한복음 15:1,track_main
+EDG000300,EVT0300,EVT0301,before,요한복음 18:1,track_main
+EDG000301,EVT0301,EVT0302,before,요한복음 18:28,track_main
+EDG000302,EVT0302,EVT0303,before,요한복음 19:38,track_main
+EDG000303,EVT0303,EVT0304,before,요한복음 20:30,track_main
+EDG000304,EVT0304,EVT0305,before,사도행전 1:6,track_main
+EDG000305,EVT0305,EVT0306,before,사도행전 2:43,track_main
+EDG000306,EVT0306,EVT0307,before,사도행전 4:32,track_main
+EDG000307,EVT0307,EVT0308,before,사도행전 6:1,track_main
+EDG000308,EVT0308,EVT0309,before,사도행전 8:26,track_main
+EDG000309,EVT0309,EVT0310,before,사도행전 9:32,track_main
+EDG000310,EVT0310,EVT0311,before,사도행전 11:1,track_main
+EDG000311,EVT0311,EVT0312,before,사도행전 13:4,track_main
+EDG000312,EVT0312,EVT0313,before,사도행전 15:1,track_main
+EDG000313,EVT0313,EVT0314,before,사도행전 16:11,track_main
+EDG000314,EVT0314,EVT0315,before,사도행전 17:16,track_main
+EDG000315,EVT0315,EVT0316,before,사도행전 19:1,track_main
+EDG000316,EVT0316,EVT0317,before,사도행전 20:17,track_main
+EDG000317,EVT0317,EVT0318,before,사도행전 21:37,track_main
+EDG000318,EVT0318,EVT0319,before,사도행전 24:1,track_main
+EDG000319,EVT0319,EVT0320,before,사도행전 25:13,track_main
+EDG000320,EVT0021,EVT0022,before,성경 본문 흐름,track_exodus_early
+EDG000321,EVT0022,EVT0023,before,성경 본문 흐름,track_exodus_early
+EDG000322,EVT0023,EVT0024,before,성경 본문 흐름,track_exodus_early
+EDG000323,EVT0024,EVT0025,before,성경 본문 흐름,track_exodus_early
+EDG000324,EVT0025,EVT0026,before,성경 본문 흐름,track_exodus_early
+EDG000325,EVT0026,EVT0027,before,성경 본문 흐름,track_exodus_early
+EDG000326,EVT0027,EVT0028,before,성경 본문 흐름,track_exodus_early
+EDG000327,EVT0028,EVT0029,before,성경 본문 흐름,track_exodus_early
+EDG000328,EVT0029,EVT0030,before,성경 본문 흐름,track_exodus_early
+EDG000329,EVT0030,EVT0031,before,성경 본문 흐름,track_exodus_early
+EDG000330,EVT0031,EVT0032,before,성경 본문 흐름,track_exodus_early
+EDG000331,EVT0032,EVT0033,before,성경 본문 흐름,track_exodus_early
+EDG000332,EVT0033,EVT0034,before,성경 본문 흐름,track_exodus_early
+EDG000333,EVT0034,EVT0035,before,성경 본문 흐름,track_exodus_early
+EDG000334,EVT0035,EVT0036,before,성경 본문 흐름,track_exodus_early
+EDG000335,EVT0036,EVT0037,before,성경 본문 흐름,track_exodus_early
+EDG000336,EVT0037,EVT0038,before,성경 본문 흐름,track_exodus_early
+EDG000337,EVT0038,EVT0039,before,성경 본문 흐름,track_exodus_early
+EDG000338,EVT0039,EVT0040,before,성경 본문 흐름,track_exodus_early
+EDG000339,EVT0040,EVT0041,before,성경 본문 흐름,track_exodus_early
+EDG000340,EVT0041,EVT0042,before,성경 본문 흐름,track_exodus_early
+EDG000341,EVT0042,EVT0043,before,성경 본문 흐름,track_exodus_early
+EDG000342,EVT0043,EVT0044,before,성경 본문 흐름,track_exodus_early
+EDG000343,EVT0044,EVT0045,before,성경 본문 흐름,track_exodus_early
+EDG000344,EVT0045,EVT0046,before,성경 본문 흐름,track_exodus_early
+EDG000345,EVT0046,EVT0047,before,성경 본문 흐름,track_exodus_early
+EDG000346,EVT0047,EVT0048,before,성경 본문 흐름,track_exodus_early
+EDG000347,EVT0048,EVT0049,before,성경 본문 흐름,track_exodus_early
+EDG000348,EVT0049,EVT0050,before,성경 본문 흐름,track_exodus_early
+EDG000349,EVT0050,EVT0051,before,성경 본문 흐름,track_exodus_early
+EDG000350,EVT0051,EVT0052,before,성경 본문 흐름,track_exodus_early
+EDG000351,EVT0052,EVT0053,before,성경 본문 흐름,track_exodus_early
+EDG000352,EVT0053,EVT0054,before,성경 본문 흐름,track_exodus_early
+EDG000353,EVT0054,EVT0055,before,성경 본문 흐름,track_exodus_early
+EDG000354,EVT0055,EVT0056,before,성경 본문 흐름,track_exodus_early
+EDG000355,EVT0056,EVT0057,before,성경 본문 흐름,track_exodus_early
+EDG000356,EVT0057,EVT0058,before,성경 본문 흐름,track_exodus_early
+EDG000357,EVT0058,EVT0059,before,성경 본문 흐름,track_exodus_early
+EDG000358,EVT0059,EVT0060,before,성경 본문 흐름,track_exodus_early
+EDG000359,EVT0060,EVT0061,before,성경 본문 흐름,track_exodus_early
+EDG000360,EVT0061,EVT0062,before,성경 본문 흐름,track_exodus_early
+EDG000361,EVT0062,EVT0063,before,성경 본문 흐름,track_exodus_early
+EDG000362,EVT0063,EVT0064,before,성경 본문 흐름,track_exodus_early
+EDG000363,EVT0064,EVT0065,before,성경 본문 흐름,track_exodus_early
+EDG000364,EVT0065,EVT0066,before,성경 본문 흐름,track_exodus_early
+EDG000365,EVT0066,EVT0067,before,성경 본문 흐름,track_exodus_early
+EDG000366,EVT0067,EVT0068,before,성경 본문 흐름,track_exodus_early
+EDG000367,EVT0068,EVT0069,before,성경 본문 흐름,track_exodus_early
+EDG000368,EVT0069,EVT0070,before,성경 본문 흐름,track_exodus_early
+EDG000369,EVT0070,EVT0071,before,성경 본문 흐름,track_exodus_early
+EDG000370,EVT0071,EVT0072,before,성경 본문 흐름,track_exodus_early
+EDG000371,EVT0072,EVT0073,before,성경 본문 흐름,track_exodus_early
+EDG000372,EVT0073,EVT0074,before,성경 본문 흐름,track_exodus_early
+EDG000373,EVT0074,EVT0075,before,성경 본문 흐름,track_exodus_early
+EDG000374,EVT0075,EVT0076,before,성경 본문 흐름,track_exodus_early
+EDG000375,EVT0076,EVT0077,before,성경 본문 흐름,track_exodus_early
+EDG000376,EVT0077,EVT0078,before,성경 본문 흐름,track_exodus_early
+EDG000377,EVT0078,EVT0079,before,성경 본문 흐름,track_exodus_early
+EDG000378,EVT0079,EVT0080,before,성경 본문 흐름,track_exodus_early
+EDG000379,EVT0080,EVT0081,before,성경 본문 흐름,track_exodus_early
+EDG000380,EVT0081,EVT0082,before,성경 본문 흐름,track_exodus_early
+EDG000381,EVT0082,EVT0083,before,성경 본문 흐름,track_exodus_early
+EDG000382,EVT0083,EVT0084,before,성경 본문 흐름,track_exodus_early
+EDG000383,EVT0084,EVT0085,before,성경 본문 흐름,track_exodus_early
+EDG000384,EVT0085,EVT0086,before,성경 본문 흐름,track_exodus_early
+EDG000385,EVT0086,EVT0087,before,성경 본문 흐름,track_exodus_early
+EDG000386,EVT0087,EVT0088,before,성경 본문 흐름,track_exodus_early
+EDG000387,EVT0088,EVT0089,before,성경 본문 흐름,track_exodus_early
+EDG000388,EVT0089,EVT0090,before,성경 본문 흐름,track_exodus_early
+EDG000389,EVT0090,EVT0091,before,성경 본문 흐름,track_exodus_early
+EDG000390,EVT0091,EVT0092,before,성경 본문 흐름,track_exodus_early
+EDG000391,EVT0092,EVT0093,before,성경 본문 흐름,track_exodus_early
+EDG000392,EVT0093,EVT0094,before,성경 본문 흐름,track_exodus_early
+EDG000393,EVT0094,EVT0095,before,성경 본문 흐름,track_exodus_early
+EDG000394,EVT0095,EVT0096,before,성경 본문 흐름,track_exodus_early
+EDG000395,EVT0096,EVT0097,before,성경 본문 흐름,track_exodus_early
+EDG000396,EVT0097,EVT0098,before,성경 본문 흐름,track_exodus_early
+EDG000397,EVT0098,EVT0099,before,성경 본문 흐름,track_exodus_early
+EDG000398,EVT0099,EVT0100,before,성경 본문 흐름,track_exodus_early
+EDG000399,EVT0021,EVT0022,before,성경 본문 흐름,track_exodus_late
+EDG000400,EVT0022,EVT0023,before,성경 본문 흐름,track_exodus_late
+EDG000401,EVT0023,EVT0024,before,성경 본문 흐름,track_exodus_late
+EDG000402,EVT0024,EVT0025,before,성경 본문 흐름,track_exodus_late
+EDG000403,EVT0025,EVT0026,before,성경 본문 흐름,track_exodus_late
+EDG000404,EVT0026,EVT0027,before,성경 본문 흐름,track_exodus_late
+EDG000405,EVT0027,EVT0028,before,성경 본문 흐름,track_exodus_late
+EDG000406,EVT0028,EVT0029,before,성경 본문 흐름,track_exodus_late
+EDG000407,EVT0029,EVT0030,before,성경 본문 흐름,track_exodus_late
+EDG000408,EVT0030,EVT0031,before,성경 본문 흐름,track_exodus_late
+EDG000409,EVT0031,EVT0032,before,성경 본문 흐름,track_exodus_late
+EDG000410,EVT0032,EVT0033,before,성경 본문 흐름,track_exodus_late
+EDG000411,EVT0033,EVT0034,before,성경 본문 흐름,track_exodus_late
+EDG000412,EVT0034,EVT0035,before,성경 본문 흐름,track_exodus_late
+EDG000413,EVT0035,EVT0036,before,성경 본문 흐름,track_exodus_late
+EDG000414,EVT0036,EVT0037,before,성경 본문 흐름,track_exodus_late
+EDG000415,EVT0037,EVT0038,before,성경 본문 흐름,track_exodus_late
+EDG000416,EVT0038,EVT0039,before,성경 본문 흐름,track_exodus_late
+EDG000417,EVT0039,EVT0040,before,성경 본문 흐름,track_exodus_late
+EDG000418,EVT0040,EVT0041,before,성경 본문 흐름,track_exodus_late
+EDG000419,EVT0041,EVT0042,before,성경 본문 흐름,track_exodus_late
+EDG000420,EVT0042,EVT0043,before,성경 본문 흐름,track_exodus_late
+EDG000421,EVT0043,EVT0044,before,성경 본문 흐름,track_exodus_late
+EDG000422,EVT0044,EVT0045,before,성경 본문 흐름,track_exodus_late
+EDG000423,EVT0045,EVT0046,before,성경 본문 흐름,track_exodus_late
+EDG000424,EVT0046,EVT0047,before,성경 본문 흐름,track_exodus_late
+EDG000425,EVT0047,EVT0048,before,성경 본문 흐름,track_exodus_late
+EDG000426,EVT0048,EVT0049,before,성경 본문 흐름,track_exodus_late
+EDG000427,EVT0049,EVT0050,before,성경 본문 흐름,track_exodus_late
+EDG000428,EVT0050,EVT0051,before,성경 본문 흐름,track_exodus_late
+EDG000429,EVT0051,EVT0052,before,성경 본문 흐름,track_exodus_late
+EDG000430,EVT0052,EVT0053,before,성경 본문 흐름,track_exodus_late
+EDG000431,EVT0053,EVT0054,before,성경 본문 흐름,track_exodus_late
+EDG000432,EVT0054,EVT0055,before,성경 본문 흐름,track_exodus_late
+EDG000433,EVT0055,EVT0056,before,성경 본문 흐름,track_exodus_late
+EDG000434,EVT0056,EVT0057,before,성경 본문 흐름,track_exodus_late
+EDG000435,EVT0057,EVT0058,before,성경 본문 흐름,track_exodus_late
+EDG000436,EVT0058,EVT0059,before,성경 본문 흐름,track_exodus_late
+EDG000437,EVT0059,EVT0060,before,성경 본문 흐름,track_exodus_late
+EDG000438,EVT0060,EVT0061,before,성경 본문 흐름,track_exodus_late
+EDG000439,EVT0061,EVT0062,before,성경 본문 흐름,track_exodus_late
+EDG000440,EVT0062,EVT0063,before,성경 본문 흐름,track_exodus_late
+EDG000441,EVT0063,EVT0064,before,성경 본문 흐름,track_exodus_late
+EDG000442,EVT0064,EVT0065,before,성경 본문 흐름,track_exodus_late
+EDG000443,EVT0065,EVT0066,before,성경 본문 흐름,track_exodus_late
+EDG000444,EVT0066,EVT0067,before,성경 본문 흐름,track_exodus_late
+EDG000445,EVT0067,EVT0068,before,성경 본문 흐름,track_exodus_late
+EDG000446,EVT0068,EVT0069,before,성경 본문 흐름,track_exodus_late
+EDG000447,EVT0069,EVT0070,before,성경 본문 흐름,track_exodus_late
+EDG000448,EVT0070,EVT0071,before,성경 본문 흐름,track_exodus_late
+EDG000449,EVT0071,EVT0072,before,성경 본문 흐름,track_exodus_late
+EDG000450,EVT0072,EVT0073,before,성경 본문 흐름,track_exodus_late
+EDG000451,EVT0073,EVT0074,before,성경 본문 흐름,track_exodus_late
+EDG000452,EVT0074,EVT0075,before,성경 본문 흐름,track_exodus_late
+EDG000453,EVT0075,EVT0076,before,성경 본문 흐름,track_exodus_late
+EDG000454,EVT0076,EVT0077,before,성경 본문 흐름,track_exodus_late
+EDG000455,EVT0077,EVT0078,before,성경 본문 흐름,track_exodus_late
+EDG000456,EVT0078,EVT0079,before,성경 본문 흐름,track_exodus_late
+EDG000457,EVT0079,EVT0080,before,성경 본문 흐름,track_exodus_late
+EDG000458,EVT0080,EVT0081,before,성경 본문 흐름,track_exodus_late
+EDG000459,EVT0081,EVT0082,before,성경 본문 흐름,track_exodus_late
+EDG000460,EVT0082,EVT0083,before,성경 본문 흐름,track_exodus_late
+EDG000461,EVT0083,EVT0084,before,성경 본문 흐름,track_exodus_late
+EDG000462,EVT0084,EVT0085,before,성경 본문 흐름,track_exodus_late
+EDG000463,EVT0085,EVT0086,before,성경 본문 흐름,track_exodus_late
+EDG000464,EVT0086,EVT0087,before,성경 본문 흐름,track_exodus_late
+EDG000465,EVT0087,EVT0088,before,성경 본문 흐름,track_exodus_late
+EDG000466,EVT0088,EVT0089,before,성경 본문 흐름,track_exodus_late
+EDG000467,EVT0089,EVT0090,before,성경 본문 흐름,track_exodus_late
+EDG000468,EVT0090,EVT0091,before,성경 본문 흐름,track_exodus_late
+EDG000469,EVT0091,EVT0092,before,성경 본문 흐름,track_exodus_late
+EDG000470,EVT0092,EVT0093,before,성경 본문 흐름,track_exodus_late
+EDG000471,EVT0093,EVT0094,before,성경 본문 흐름,track_exodus_late
+EDG000472,EVT0094,EVT0095,before,성경 본문 흐름,track_exodus_late
+EDG000473,EVT0095,EVT0096,before,성경 본문 흐름,track_exodus_late
+EDG000474,EVT0096,EVT0097,before,성경 본문 흐름,track_exodus_late
+EDG000475,EVT0097,EVT0098,before,성경 본문 흐름,track_exodus_late
+EDG000476,EVT0098,EVT0099,before,성경 본문 흐름,track_exodus_late
+EDG000477,EVT0099,EVT0100,before,성경 본문 흐름,track_exodus_late
+EDG000478,EVT0210,EVT0211,before,성경 본문 흐름,track_gospel_harmony
+EDG000479,EVT0211,EVT0212,before,성경 본문 흐름,track_gospel_harmony
+EDG000480,EVT0212,EVT0213,before,성경 본문 흐름,track_gospel_harmony
+EDG000481,EVT0213,EVT0214,before,성경 본문 흐름,track_gospel_harmony
+EDG000482,EVT0214,EVT0215,before,성경 본문 흐름,track_gospel_harmony
+EDG000483,EVT0215,EVT0216,before,성경 본문 흐름,track_gospel_harmony
+EDG000484,EVT0216,EVT0217,before,성경 본문 흐름,track_gospel_harmony
+EDG000485,EVT0217,EVT0218,before,성경 본문 흐름,track_gospel_harmony
+EDG000486,EVT0218,EVT0219,before,성경 본문 흐름,track_gospel_harmony
+EDG000487,EVT0219,EVT0220,before,성경 본문 흐름,track_gospel_harmony
+EDG000488,EVT0220,EVT0221,before,성경 본문 흐름,track_gospel_harmony
+EDG000489,EVT0221,EVT0222,before,성경 본문 흐름,track_gospel_harmony
+EDG000490,EVT0222,EVT0223,before,성경 본문 흐름,track_gospel_harmony
+EDG000491,EVT0223,EVT0224,before,성경 본문 흐름,track_gospel_harmony
+EDG000492,EVT0224,EVT0225,before,성경 본문 흐름,track_gospel_harmony
+EDG000493,EVT0225,EVT0226,before,성경 본문 흐름,track_gospel_harmony
+EDG000494,EVT0226,EVT0227,before,성경 본문 흐름,track_gospel_harmony
+EDG000495,EVT0227,EVT0228,before,성경 본문 흐름,track_gospel_harmony
+EDG000496,EVT0228,EVT0229,before,성경 본문 흐름,track_gospel_harmony
+EDG000497,EVT0229,EVT0230,before,성경 본문 흐름,track_gospel_harmony
+EDG000498,EVT0230,EVT0231,before,성경 본문 흐름,track_gospel_harmony
+EDG000499,EVT0231,EVT0232,before,성경 본문 흐름,track_gospel_harmony
+EDG000500,EVT0232,EVT0233,before,성경 본문 흐름,track_gospel_harmony
+EDG000501,EVT0233,EVT0234,before,성경 본문 흐름,track_gospel_harmony
+EDG000502,EVT0234,EVT0235,before,성경 본문 흐름,track_gospel_harmony
+EDG000503,EVT0235,EVT0236,before,성경 본문 흐름,track_gospel_harmony
+EDG000504,EVT0236,EVT0237,before,성경 본문 흐름,track_gospel_harmony
+EDG000505,EVT0237,EVT0238,before,성경 본문 흐름,track_gospel_harmony
+EDG000506,EVT0238,EVT0239,before,성경 본문 흐름,track_gospel_harmony
+EDG000507,EVT0239,EVT0240,before,성경 본문 흐름,track_gospel_harmony
+EDG000508,EVT0240,EVT0241,before,성경 본문 흐름,track_gospel_harmony
+EDG000509,EVT0241,EVT0242,before,성경 본문 흐름,track_gospel_harmony
+EDG000510,EVT0242,EVT0243,before,성경 본문 흐름,track_gospel_harmony
+EDG000511,EVT0243,EVT0244,before,성경 본문 흐름,track_gospel_harmony
+EDG000512,EVT0244,EVT0245,before,성경 본문 흐름,track_gospel_harmony
+EDG000513,EVT0245,EVT0246,before,성경 본문 흐름,track_gospel_harmony
+EDG000514,EVT0246,EVT0247,before,성경 본문 흐름,track_gospel_harmony
+EDG000515,EVT0247,EVT0248,before,성경 본문 흐름,track_gospel_harmony
+EDG000516,EVT0248,EVT0249,before,성경 본문 흐름,track_gospel_harmony
+EDG000517,EVT0249,EVT0250,before,성경 본문 흐름,track_gospel_harmony
+EDG000518,EVT0250,EVT0251,before,성경 본문 흐름,track_gospel_harmony
+EDG000519,EVT0251,EVT0252,before,성경 본문 흐름,track_gospel_harmony
+EDG000520,EVT0252,EVT0253,before,성경 본문 흐름,track_gospel_harmony
+EDG000521,EVT0253,EVT0254,before,성경 본문 흐름,track_gospel_harmony
+EDG000522,EVT0254,EVT0255,before,성경 본문 흐름,track_gospel_harmony
+EDG000523,EVT0255,EVT0256,before,성경 본문 흐름,track_gospel_harmony
+EDG000524,EVT0256,EVT0257,before,성경 본문 흐름,track_gospel_harmony
+EDG000525,EVT0257,EVT0258,before,성경 본문 흐름,track_gospel_harmony
+EDG000526,EVT0258,EVT0259,before,성경 본문 흐름,track_gospel_harmony
+EDG000527,EVT0259,EVT0260,before,성경 본문 흐름,track_gospel_harmony
+EDG000528,EVT0260,EVT0261,before,성경 본문 흐름,track_gospel_harmony
+EDG000529,EVT0261,EVT0262,before,성경 본문 흐름,track_gospel_harmony
+EDG000530,EVT0262,EVT0263,before,성경 본문 흐름,track_gospel_harmony
+EDG000531,EVT0263,EVT0264,before,성경 본문 흐름,track_gospel_harmony
+EDG000532,EVT0264,EVT0265,before,성경 본문 흐름,track_gospel_harmony
+EDG000533,EVT0265,EVT0266,before,성경 본문 흐름,track_gospel_harmony
+EDG000534,EVT0266,EVT0267,before,성경 본문 흐름,track_gospel_harmony
+EDG000535,EVT0267,EVT0268,before,성경 본문 흐름,track_gospel_harmony
+EDG000536,EVT0268,EVT0269,before,성경 본문 흐름,track_gospel_harmony
+EDG000537,EVT0269,EVT0270,before,성경 본문 흐름,track_gospel_harmony
+EDG000538,EVT0270,EVT0271,before,성경 본문 흐름,track_gospel_harmony
+EDG000539,EVT0271,EVT0272,before,성경 본문 흐름,track_gospel_harmony
+EDG000540,EVT0272,EVT0273,before,성경 본문 흐름,track_gospel_harmony
+EDG000541,EVT0273,EVT0274,before,성경 본문 흐름,track_gospel_harmony
+EDG000542,EVT0274,EVT0275,before,성경 본문 흐름,track_gospel_harmony
+EDG000543,EVT0275,EVT0276,before,성경 본문 흐름,track_gospel_harmony
+EDG000544,EVT0276,EVT0277,before,성경 본문 흐름,track_gospel_harmony
+EDG000545,EVT0277,EVT0278,before,성경 본문 흐름,track_gospel_harmony
+EDG000546,EVT0278,EVT0279,before,성경 본문 흐름,track_gospel_harmony
+EDG000547,EVT0279,EVT0280,before,성경 본문 흐름,track_gospel_harmony
+EDG000548,EVT0280,EVT0281,before,성경 본문 흐름,track_gospel_harmony
+EDG000549,EVT0281,EVT0282,before,성경 본문 흐름,track_gospel_harmony
+EDG000550,EVT0282,EVT0283,before,성경 본문 흐름,track_gospel_harmony
+EDG000551,EVT0283,EVT0284,before,성경 본문 흐름,track_gospel_harmony
+EDG000552,EVT0284,EVT0285,before,성경 본문 흐름,track_gospel_harmony
+EDG000553,EVT0285,EVT0286,before,성경 본문 흐름,track_gospel_harmony
+EDG000554,EVT0286,EVT0287,before,성경 본문 흐름,track_gospel_harmony
+EDG000555,EVT0287,EVT0288,before,성경 본문 흐름,track_gospel_harmony
+EDG000556,EVT0288,EVT0289,before,성경 본문 흐름,track_gospel_harmony
+EDG000557,EVT0289,EVT0290,before,성경 본문 흐름,track_gospel_harmony
+EDG000558,EVT0290,EVT0291,before,성경 본문 흐름,track_gospel_harmony
+EDG000559,EVT0291,EVT0292,before,성경 본문 흐름,track_gospel_harmony
+EDG000560,EVT0292,EVT0293,before,성경 본문 흐름,track_gospel_harmony
+EDG000561,EVT0293,EVT0294,before,성경 본문 흐름,track_gospel_harmony
+EDG000562,EVT0294,EVT0295,before,성경 본문 흐름,track_gospel_harmony
+EDG000563,EVT0295,EVT0296,before,성경 본문 흐름,track_gospel_harmony
+EDG000564,EVT0296,EVT0297,before,성경 본문 흐름,track_gospel_harmony
+EDG000565,EVT0297,EVT0298,before,성경 본문 흐름,track_gospel_harmony
+EDG000566,EVT0298,EVT0299,before,성경 본문 흐름,track_gospel_harmony
+EDG000567,EVT0299,EVT0300,before,성경 본문 흐름,track_gospel_harmony
+EDG000568,EVT0300,EVT0301,before,성경 본문 흐름,track_gospel_harmony
+EDG000569,EVT0301,EVT0302,before,성경 본문 흐름,track_gospel_harmony
+EDG000570,EVT0302,EVT0303,before,성경 본문 흐름,track_gospel_harmony
+EDG000571,EVT0303,EVT0304,before,성경 본문 흐름,track_gospel_harmony
+EDG000572,EVT0304,EVT0305,before,성경 본문 흐름,track_gospel_harmony
+EDG000573,EVT0305,EVT0306,before,성경 본문 흐름,track_gospel_harmony
+EDG000574,EVT0306,EVT0307,before,성경 본문 흐름,track_gospel_harmony
+EDG000575,EVT0307,EVT0308,before,성경 본문 흐름,track_gospel_harmony
+EDG000576,EVT0308,EVT0309,before,성경 본문 흐름,track_gospel_harmony
+EDG000577,EVT0309,EVT0310,before,성경 본문 흐름,track_gospel_harmony
+EDG000578,EVT0310,EVT0311,before,성경 본문 흐름,track_gospel_harmony
+EDG000579,EVT0311,EVT0312,before,성경 본문 흐름,track_gospel_harmony
+EDG000580,EVT0312,EVT0313,before,성경 본문 흐름,track_gospel_harmony
+EDG000581,EVT0313,EVT0314,before,성경 본문 흐름,track_gospel_harmony
+EDG000582,EVT0314,EVT0315,before,성경 본문 흐름,track_gospel_harmony
+EDG000583,EVT0315,EVT0316,before,성경 본문 흐름,track_gospel_harmony
+EDG000584,EVT0316,EVT0317,before,성경 본문 흐름,track_gospel_harmony
+EDG000585,EVT0317,EVT0318,before,성경 본문 흐름,track_gospel_harmony
+EDG000586,EVT0318,EVT0319,before,성경 본문 흐름,track_gospel_harmony
+EDG000587,EVT0319,EVT0320,before,성경 본문 흐름,track_gospel_harmony

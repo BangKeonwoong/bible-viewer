@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>성경 타임라인 도식화</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <header class="hero">
+        <p class="hero-kicker">BIBLE TIMELINE · KRV RESEARCH DATA</p>
+        <h1>성경 타임라인 웹 도식화</h1>
+        <p class="hero-sub" id="meta-summary">데이터 로딩 중...</p>
+      </header>
+
+      <section class="control-panel" aria-label="필터 및 트랙 설정">
+        <div class="lane-tabs" id="lane-tabs" role="tablist" aria-label="시대 탭"></div>
+
+        <div class="control-row">
+          <label class="field">
+            <span>사건 검색</span>
+            <input id="search-input" type="text" placeholder="제목/요약/구절 참조 검색" />
+          </label>
+
+          <label class="field">
+            <span>책 필터</span>
+            <select id="book-filter">
+              <option value="ALL">전체 책</option>
+            </select>
+          </label>
+        </div>
+
+        <div class="control-row compact">
+          <div class="track-box">
+            <span class="section-label">연결선 트랙</span>
+            <div id="track-toggles" class="track-toggles"></div>
+          </div>
+
+          <label class="parallel-toggle">
+            <input type="checkbox" id="parallel-toggle" />
+            <span>병행근거(Parallel) 표시</span>
+          </label>
+        </div>
+      </section>
+
+      <main class="workspace">
+        <section class="timeline-card" aria-label="타임라인 그래프">
+          <div class="timeline-header">
+            <div class="timeline-heading">
+              <h2 id="timeline-title">시대 도식</h2>
+              <span id="result-count">0개 장</span>
+            </div>
+            <div id="timeline-legend" class="timeline-legend" aria-live="polite"></div>
+          </div>
+
+          <div class="timeline-scroll" id="timeline-scroll">
+            <div class="timeline-viewport" id="timeline-viewport">
+              <div class="timeline-axis" id="timeline-axis" aria-hidden="true"></div>
+              <div class="timeline-virtual" id="timeline-virtual"></div>
+            </div>
+          </div>
+
+          <div id="tooltip" class="tooltip hidden" role="status" aria-live="polite"></div>
+        </section>
+
+        <aside class="detail-card" aria-label="사건 상세" id="detail-panel">
+          <div class="detail-head">
+            <h2>근거 구절</h2>
+            <button id="clear-selection" class="ghost-btn" type="button">선택 해제</button>
+          </div>
+          <div id="detail-content" class="detail-content">
+            <p class="empty">타임라인 장 카드를 호버(모바일: 탭)하면 근거 구절이 여기에 표시됩니다.</p>
+          </div>
+        </aside>
+      </main>
+    </div>
+
+    <script src="./app.js" defer></script>
+  </body>
+</html>
