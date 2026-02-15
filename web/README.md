@@ -81,6 +81,23 @@
 - 데스크톱: hover 시 툴팁 + 상세 패널 동기화
 - 모바일: tap 시 선택 고정(pinned) + 툴팁/상세 패널 동기화
 
+## 노드 텍스트 가시성 하드닝
+- 카드 제목/요약 DOM 클래스를 `h3/p`에서 `div` 기반으로 변경:
+  - `.chapter-title-text`
+  - `.chapter-summary-text`
+- 카드 렌더와 상세 패널에서 동일한 fallback 우선순위를 사용:
+  - 제목: `event_title -> reference -> chapter_id`
+  - 요약: `event_summary -> 첫 절 본문 -> "요약 없음"`
+- 장식 레이어(`연결선/노드/트랙`)보다 본문 레이어가 항상 위에 오도록 `z-index`를 고정했습니다.
+- 요약 줄임은 기본 `line-height + max-height + overflow` 방식으로 처리하고,
+  `-webkit-line-clamp`는 지원 브라우저에서만 보조로 적용합니다.
+
+### 캐시 무효화
+- 정적 자산 혼용 방지를 위해 `index.html`에서 버전 쿼리를 사용합니다.
+  - `./styles.css?v=20260215-titlefix1`
+  - `./app.js?v=20260215-titlefix1`
+- 배포 후 강력 새로고침 없이도 신규 자산을 우선 로드하도록 설계했습니다.
+
 ## 가상화(virtualization)
 - 카드 높이 모델(기본/확장)과 스크롤 오프셋을 사용해 렌더링 윈도우 계산
 - overscan 구간을 포함한 카드만 DOM 생성

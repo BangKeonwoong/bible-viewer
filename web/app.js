@@ -256,6 +256,32 @@
     return { direct, parallel };
   }
 
+  function getChapterFirstVerseText(chapter) {
+    const verseList = state.versesByChapter[chapter.chapter_id] || [];
+    const first = verseList.find((item) => String(item.verse_text_kr || "").trim().length > 0);
+    return first ? String(first.verse_text_kr).trim() : "";
+  }
+
+  function getChapterDisplayTitle(chapter) {
+    const preferred = String(chapter.event_title || "").trim();
+    if (preferred) return preferred;
+
+    const reference = String(getRepresentativeReference(chapter.chapter_id) || "").trim();
+    if (reference && reference !== "근거 없음") return reference;
+
+    return String(chapter.chapter_id || "제목 없음");
+  }
+
+  function getChapterDisplaySummary(chapter) {
+    const preferred = String(chapter.event_summary || "").trim();
+    if (preferred) return preferred;
+
+    const firstVerseText = getChapterFirstVerseText(chapter);
+    if (firstVerseText) return firstVerseText;
+
+    return "요약 없음";
+  }
+
   function buildTrackParticipationMap() {
     const map = new Map();
 
@@ -469,9 +495,10 @@
   }
 
   function showTooltip(pointerEvent, chapter) {
+    const displayTitle = getChapterDisplayTitle(chapter);
     const repRef = getRepresentativeReference(chapter.chapter_id);
     tooltipEl.innerHTML = `
-      <strong>${escapeHtml(chapter.event_title)}</strong>
+      <strong>${escapeHtml(displayTitle)}</strong>
       <span>${escapeHtml(chapter.book || "책 정보 없음")} · #${chapter.sequence_index}</span>
       <span>${escapeHtml(repRef)}</span>
     `;
@@ -635,6 +662,8 @@
     const reference = getRepresentativeReference(chapter.chapter_id);
     const certainty = normalizeCertainty(chapter.certainty_level);
     const certaintyLabel = `확실성 ${certainty}`;
+    const displayTitle = getChapterDisplayTitle(chapter);
+    const displaySummary = getChapterDisplaySummary(chapter);
 
     card.innerHTML = `
       <div class="chapter-node" style="--node-color:${escapeHtml(certaintyColor[certainty] || certaintyColor.medium)}"></div>
@@ -644,8 +673,8 @@
           <span class="chapter-seq">#${chapter.sequence_index}</span>
           <span class="chapter-ref">${escapeHtml(reference)}</span>
         </div>
-        <h3 class="chapter-title">${escapeHtml(chapter.event_title)}</h3>
-        <p class="chapter-summary">${escapeHtml(truncate(chapter.event_summary || "요약 없음", isExpanded ? 220 : 120))}</p>
+        <div class="chapter-title-text">${escapeHtml(displayTitle)}</div>
+        <div class="chapter-summary-text">${escapeHtml(truncate(displaySummary, isExpanded ? 220 : 120))}</div>
         <div class="chapter-meta">
           <span class="badge">${escapeHtml(chapter.book || "미상")}</span>
           <span class="badge ${`cert-${certainty}`}">${escapeHtml(certaintyLabel)}</span>
@@ -781,6 +810,8 @@
     const certainty = normalizeCertainty(chapter.certainty_level);
     const certaintyClass = `cert-${certainty}`;
     const certaintyLabel = `확실성 ${certainty}`;
+    const displayTitle = getChapterDisplayTitle(chapter);
+    const displaySummary = getChapterDisplaySummary(chapter);
 
     const parallelBlock = state.showParallel
       ? `
@@ -793,14 +824,14 @@
       `;
 
     detailContentEl.innerHTML = `
-      <h3 class="detail-event-title">${escapeHtml(chapter.event_title)}</h3>
+      <h3 class="detail-event-title">${escapeHtml(displayTitle)}</h3>
       <div class="meta-line">
         <span class="badge">${escapeHtml(chapter.book || "미상")}</span>
         <span class="badge">#${chapter.sequence_index}</span>
         <span class="badge">${escapeHtml(getLaneLabel(chapter.lane_tag || ""))}</span>
         <span class="badge ${certaintyClass}">${escapeHtml(certaintyLabel)}</span>
       </div>
-      <p class="detail-summary">${escapeHtml(chapter.event_summary || "요약 없음")}</p>
+      <p class="detail-summary">${escapeHtml(displaySummary)}</p>
 
       <h4 class="section-title">Direct 근거 (${direct.length})</h4>
       ${renderEvidenceList(direct)}
